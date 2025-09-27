@@ -1,0 +1,37 @@
+{
+  "id": "191j74k",
+  "title": "How do you calculate your sgpa?",
+  "content": "",
+  "metadata": {
+    "author": "4our20wentyLOL",
+    "url": "https://www.reddit.com/r/PESU/comments/191j74k/how_do_you_calculate_your_sgpa/",
+    "permalink": "/r/PESU/comments/191j74k/how_do_you_calculate_your_sgpa/",
+    "score": 2,
+    "created_utc": 1704713482,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "kgw2n3l",
+      "body": "Your grade weighted by the course credit.\n\nSay 3 courses, you get grades S, A, B with credits 4, 5, 5\n\nYou do - (10*4+9*5+8*5)/(4+5+5) => 8.92"
+    },
+    {
+      "id": "kgw4r9k",
+      "body": "Refer to [this post](https://www.reddit.com/r/PESU/comments/13wdtcl/comment/jmb05e1) for how to compute. There is also a calculator at the end of the comment."
+    },
+    {
+      "id": "kgw6l8p",
+      "body": "Thanks a lot!"
+    },
+    {
+      "id": "kgw6nia",
+      "body": "Got it thanks"
+    },
+    {
+      "id": "kh15fkp",
+      "body": "Imagine I got 89 for a 4 credit course and 81 for the another 4 credit course,So both fetch same gpa with no difference?"
+    }
+  ]
+}

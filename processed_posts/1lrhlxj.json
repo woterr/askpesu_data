@@ -1,0 +1,45 @@
+{
+  "id": "1lrhlxj",
+  "title": "[Question] Career Path Ahead- Seniors?",
+  "content": "Hi! I just finished my first year in CSE and was hoping to get some insight into how seniors are approaching their career plans in the current job market. Are most leaning towards on-campus placements, or are many considering options like GATE, GRE etc. ?Also, is it better to start GATE prep early or after exploring some domains and doing a decent amount of projects? Just wanted to plan ahead accordingly...",
+  "metadata": {
+    "author": "DistributionDizzy297",
+    "url": "https://www.reddit.com/r/PESU/comments/1lrhlxj/question_career_path_ahead_seniors/",
+    "permalink": "/r/PESU/comments/1lrhlxj/question_career_path_ahead_seniors/",
+    "score": 3,
+    "created_utc": 1751632341,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "n1apg2e",
+      "body": "[Search the subreddit](https://www.reddit.com/r/PESU/comments/1ljxi1y/just_finished_x_year_and_dont_know_what_to_do_a/)"
+    },
+    {
+      "id": "n1arzvq",
+      "body": "Oh, I hadn’t seen this earlier—thanks a lot for sharing!"
+    },
+    {
+      "id": "n1b3yam",
+      "body": "Hijacking the top level comment, but it's a little premature to think about which direction your career will progress towards. Figure out your interests, build your skills, and then take a call. There are many factors at play, and after you explore your field, you might even realise you don't need/want a Master's (or otherwise). You should spend time on yourself and figure out what you want to do first."
+    },
+    {
+      "id": "n1b4f8d",
+      "body": "Noted, thank you!"
+    },
+    {
+      "id": "n1yhkkv",
+      "body": "Hey! This might be a weird question, but is MATLAB actually useful in the long run? In our lab sessions, we're mostly asked to copy the code without any proper explanation or conceptual clarity. So I'm genuinely wondering if MATLAB is still a relevant or in-demand skill worth putting on a resume, or is it something that's okay to skip if we haven't learned it in depth?"
+    },
+    {
+      "id": "n1zzi2q",
+      "body": "Depends a lot on which field you are heading into. Odds are, unless you are heading into a field that mainly comprises numerical computations, core engineering fields (mechanical, EEE/ECE), math simulations, etc, you will not really need it. If you are in CS, then unless you are interested in mathematical techniques in CS, you will not need it either. Plus, even in CS, ideally, most use cases have more friendly tools today."
+    },
+    {
+      "id": "n20fbbc",
+      "body": "Okay, thanks! Really appreciate the insight."
+    }
+  ]
+}

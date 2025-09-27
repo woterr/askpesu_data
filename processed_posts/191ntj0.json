@@ -1,0 +1,45 @@
+{
+  "id": "191ntj0",
+  "title": "Big data study Guidance",
+  "content": "How to learn Big data for industry level skill and also from exam pov?\n\nJust wanna ask how you guys did it. Whether u referred to any online resources and any important topics/prerequisite to know before hand.  \n",
+  "metadata": {
+    "author": "Sea_Mail_2026",
+    "url": "https://www.reddit.com/r/PESU/comments/191ntj0/big_data_study_guidance/",
+    "permalink": "/r/PESU/comments/191ntj0/big_data_study_guidance/",
+    "score": 5,
+    "created_utc": 1704727963,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "kgwrovb",
+      "body": "I was the TA for Big Data back in 2021 and my job is in Big Data Analytics, I'd say I'm kinda qualified to answer this.\n\nBack then we had KVS for our faculty. He taught pretty well and made sure we understood concepts clearly. A good portion of the learning happened within the lectures. He's left PES now, but if I remember correctly his lectures are still available. People use them recently as well since they're that good. If possible, try obtaining them. Make sure you understand the basic building blocks and intuition behind the concepts since majority of frameworks and advanced concepts require good fundamentals. \n\nThe assignments and projects (if resemble what they used to be) will be tough and challenging, and they're intentionally designed that way. You cannot do them overnight and some require days of effort. This is done because a good portion of the course is hands-on. In fact, most of the learning happened through these components. Projects might even require you to build small-scale versions of Hadoop and other tools. It not only helps you understand various concepts in depth, but also gives you a lot of industry exposure. In fact a lot of the work I do on a daily basis at work is a more advanced or larger version of the small assignments and projects I did back in the day. So don't waste the assignments and do them diligently. Don't plagiarise and waste the opportunity. \n\nBig Data was my favourite course back in college. It was very well curated and planned (thanks to my own TAs, if you're reading this). It arguably is the closest you'll get to implementing dummy versions of industry level systems and give you glimpse of how applications use Big Data techniques in the real world. Yes, the course is rigorous and can be difficult, but that's only if you wish to get through the course and not learn the course. Learn as much as you can, and spend time not only with the theory but also the applications. Build things with it, get your hands dirty, make small projects and give your 100% in each assignment and project."
+    },
+    {
+      "id": "kgwwbg5",
+      "body": "Thank you for that answer!!!\n\nWhat online resource other than the one provided by college would you recommend?\n\nI will also try to look for KVS sir's lectures."
+    },
+    {
+      "id": "kgwz8go",
+      "body": "I actually didn't use any other resource. His lectures and the usual PPTs from PESU."
+    },
+    {
+      "id": "kgx6u4s",
+      "body": "I see.. Thank you for the response!!"
+    },
+    {
+      "id": "kh2zkkd",
+      "body": "As someone who took big data as my elective in sem 5:\n\n* Listen to classes, get a grasp of the architectures of everything you learn. It helps you understand everything so much better. Draw anything and everything that's taught.\n* Go through the AV summaries! As Rowlet said, KVS' lectures are brilliant and they can bridge the gap between what you learn and what you can do at home. \n* Get your hands dirty! Write code, go beyond what's taught and experiment! (Experimentation doesn't mean being reckless with installations though xD, install everything on a VM)\n* Do all the assignments diligently- I learnt the most during the assignments. They're a bit annoying though, the edge cases are hard to figure out. \n* Take the project seriously and do your best! Our final project had a limitation which we struggled to overcome but the TAs saw how we were able to explain everything to them which led to my team getting good marks.\n* Talk to your TAs, compared to most subjects, BD TAs are very involved and easy to approach too. Don't spam them though!\n\nThe trade-off for the course being hands-on is that the ISAs and ESAs end up being fairly straightforward though, but make sure you know everything since the portions being lesser than other subjects can lead to questions being asked from very obscure corners of the material."
+    },
+    {
+      "id": "md0thay",
+      "body": "This is a very common question even my students have (I Teach), and I have seen some myths about industry ready stuff going around. What I have suggested and has worked for most :: \n\n\n1. Don't try to study it all, pick one subject spend some time, reflect on your learning, connect it with things you already know from before. Sadly it would happen after college hours but 1 subject a sem is enough to keep you on top of the recruitment pile.\n\n2. Do real problems, it's okay if it's not the latest one does an old problem but does a real one. What I see most students even I work with from India is that they take kaggle data with almost all the work already done. Preprocessing is like 70% of the job. Don't take a good dataset.\n\n3. Write reports, that's essential. Happy of Sad, most of the time the roles you'll get you'll be making dashboards or reports. What I have seen work for some Indian Students I have worked with, they like to \"publish\" conference papers. That's just another way of formatting a report. That is fine as well. But again as my supervisor used to say, if you apply someone else's algorithm, to someone else's problem, on someone else's data it's not your project.\nEither make your own dataset, or make some new way of applying the algorithm or looking at the data or find a new problem altogether. \n\n4. Will it help me with Jobs? Yes, absolutely. While the company you sit for depends on the degree, college or your network after you sit in the interview, it's you who has to face the interviewer. The interviewers are usually the people who you'll be working under if you join so they want someone who has some clarity of subject, if any experience of working on \"real\" problem, and is a self learner (no one wants a junior who constantly bothers them) and the best way to highlight that is do a real problem, note all the problems, show you learned things outside syllabus, you struggled and won/lost the battle either way have a fantastic story to tell who you are and how amazing it would be to have you in the team. That's it. That's how all the hiring happens.\n\nHopefully it would help😊"
+    },
+    {
+      "id": "n73eu41",
+      "body": "Are they still available ,if yes , can somebody please share the link to those lectures and slides ??"
+    }
+  ]
+}

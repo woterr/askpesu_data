@@ -1,0 +1,45 @@
+{
+  "id": "1ipbv9s",
+  "title": "c prgm",
+  "content": "how to actually C for sem 2 to score A or S grade",
+  "metadata": {
+    "author": "Particular-Curve-445",
+    "url": "https://www.reddit.com/r/PESU/comments/1ipbv9s/c_prgm/",
+    "permalink": "/r/PESU/comments/1ipbv9s/c_prgm/",
+    "score": 10,
+    "created_utc": 1739543603,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "mcqk1m0",
+      "body": "+1"
+    },
+    {
+      "id": "mcqu2iz",
+      "body": "Same as what you did for python: learn the syntax, fundamentals and how the language works, and build aptitude and logic to write programs with practice. Since its C, its pretty low-level: which means that many of the convenient QoL features that languages like Python provide won't be there. You will need to manage things like memory and everything else (which also IMO gives you a lot of perspective and appreciation for how much Python abstracts). Since you already know Python (I hope), you should be able to carry over most of your logical thinking to C, with some effort when it comes to extra management. \n\nHonestly, the best way to learn a language is to use it. Go all out, get your hands dirty, get stuck, figure out how to solve it and tackle the next problem. During my 2nd sem, my project team built a full-fledged NLP toolkit in raw C. It was definitely a pain to implement but that project made us learn more than what the classes could ever do."
+    },
+    {
+      "id": "mcqw88f",
+      "body": "If u want good grade just do pesu notes ( not slides) \nThey just make all mcqs and questions from the notes\nI didn't know this during isa's so got less , and for esa u do pyq and that's it"
+    },
+    {
+      "id": "mcr2046",
+      "body": "Would u have src code for the NLP toolkit. Sounds dope"
+    },
+    {
+      "id": "mcr2bxr",
+      "body": "If you know my full name, my GitHub username is firstnamelastname. Repo name is nlpc. So the link would be github.com/firstnamelastname/nlpc"
+    },
+    {
+      "id": "mcrfaf8",
+      "body": "Idk ur full name. What do I do?"
+    },
+    {
+      "id": "mcu8e6r",
+      "body": "Ask around or DM"
+    }
+  ]
+}

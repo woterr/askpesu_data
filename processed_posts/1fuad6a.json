@@ -1,0 +1,57 @@
+{
+  "id": "1fuad6a",
+  "title": "Need help on electrical engineering",
+  "content": "",
+  "metadata": {
+    "author": "AdFirst3371",
+    "url": "https://i.redd.it/dfytrwpfmasd1.jpeg",
+    "permalink": "/r/PESU/comments/1fuad6a/need_help_on_electrical_engineering/",
+    "score": 10,
+    "created_utc": 1727853152,
+    "flair": "Study Help :table:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "lpxyssk",
+      "body": "bhai yeh doubt solving session hai kya?\ngo Google it or smtg "
+    },
+    {
+      "id": "lpy1lpa",
+      "body": "Studied this last year , already forgot everything 😅"
+    },
+    {
+      "id": "lpy1sbk",
+      "body": "Consider centre node as zero potential distribute voltages and calculate using v equals ir"
+    },
+    {
+      "id": "lpy2pr4",
+      "body": "Bruh use chatgpt"
+    },
+    {
+      "id": "lpy3hkf",
+      "body": "post it in esa/isa grpof your batch"
+    },
+    {
+      "id": "lpy3wy5",
+      "body": "We got doubts on reddit before gta 6"
+    },
+    {
+      "id": "lpy4443",
+      "body": "Use kvl/kcl"
+    },
+    {
+      "id": "lpy4exq",
+      "body": "i3 = i1 + i2 = 5mA + 3mA = 8mA (flowing through 4k resistor)\n\nV1 is the voltage across the 2k resistor. Using Ohm's Law: V = i × R \n\nV1 = i1 × 2k ohm = 5mA × 2k ohm = 10V\n\nV2 = i3 × 4k ohm = 8mA × 4k ohm = 32V\n\nusing power formula = (i\\^2)\\*R\n\nyou'll get power for three resistors as :\n\n2k ohms = 0.05 W\n\n4k ohms = 0.256 W\n\n8k ohms = 0.072 W\n\nhope it helps"
+    },
+    {
+      "id": "lpybw3y",
+      "body": "Thank you"
+    },
+    {
+      "id": "lpydplk",
+      "body": "Brother giving me PTSD"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "1edfllx",
+  "title": "Which language for DSA?",
+  "content": "My second year is going to start in a week, I have learnt C and I am comfortable in C. But I see lot of people saying learn DSA in C++. So I need advice ,should i learn DSA in C or to first pick C++ and then learn dsa? ",
+  "metadata": {
+    "author": "Ashamed_Performer_82",
+    "url": "https://www.reddit.com/r/PESU/comments/1edfllx/which_language_for_dsa/",
+    "permalink": "/r/PESU/comments/1edfllx/which_language_for_dsa/",
+    "score": 11,
+    "created_utc": 1722084457,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "lf6vp0l",
+      "body": "Don't do it in C. Switch to python, java or cpp.  Most commonly people use cpp."
+    },
+    {
+      "id": "lf6zj5k",
+      "body": "Hi sorry for intreputing.im 2nd year ece student.i am learning python as of now.i came across different fields of cs like Data science and AIML.and interested in making career out of these.is it possible to do so being from ece.if so what courses and programming language to do so."
+    },
+    {
+      "id": "lf72bv4",
+      "body": "Your aim is to learn DSA, don't worry about using c or c++ since the syntax is similar anyways. They teach dsa in c so it'll probably be better to go with that for now, once you're good at dsa you can always switch to c++, it wouldn't be that hard."
+    },
+    {
+      "id": "lf78siu",
+      "body": "Bruh c++ is good to go... STL is there, really saves your hell lot of time ,giving preference to think logic than coding itself. All the best"
+    },
+    {
+      "id": "lf83ngy",
+      "body": "I'd say Python or C++\nBut the perks of learning Java is that almost every company uses Java , so you'll not just learn DSA but also necessary skills in Java. I wish I'd learned Java when I was a student."
+    },
+    {
+      "id": "lf84nrm",
+      "body": "Hey buddy , the majority of EC people end up applying for CS companies in their 4th year, so it is not uncommon.\n\nI've heard a lot about a guy called Andrew NG . His ML and Data science courses on coursera are quite famous. \nI haven't done them personally my self so I can't verify if it's truly true , but I'd suggest looking into it , or reading reviews about the course here on reddit ( spoiler alert: majority say it's good)"
+    },
+    {
+      "id": "lf8cp8y",
+      "body": "Here is an [old comment](https://www.reddit.com/r/PESU/comments/13px5h9/comment/jlbvnsy/) of mine which discusses which language to pick for DSA. Here is the summary:\n\n>Instead of mastering a single language for all, my suggestion would be to master each concept using the best language suited for it, but also have a good backup if necessary"
+    },
+    {
+      "id": "m0qsiam",
+      "body": "ohk but about this video  \n[https://www.youtube.com/watch?v=1eDgs245S9w&t=3s](https://www.youtube.com/watch?v=1eDgs245S9w&t=3s)  \nThis clearly shows that python is slow i need to be in c++ or java i think only"
+    },
+    {
+      "id": "m0uv2uf",
+      "body": "it doesnt matter if its slow as long as youre able to complete the objectives of the problem"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "1i1xqeh",
+  "title": "DSA in c or c++",
+  "content": "I am planning to start leetcode , and we have been taught dsa in c, but i heard that some companies doesnt allow c also i heard that i should learn c++(because of oops).So what am i supposed to do . Should i grind \n\nin c or should i learn c++",
+  "metadata": {
+    "author": "Radiant-Contract-460",
+    "url": "https://www.reddit.com/r/PESU/comments/1i1xqeh/dsa_in_c_or_c/",
+    "permalink": "/r/PESU/comments/1i1xqeh/dsa_in_c_or_c/",
+    "score": 13,
+    "created_utc": 1736948841,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "m79t5od",
+      "body": "C++ Is better, but u can also do Java if u like"
+    },
+    {
+      "id": "m79uny2",
+      "body": "But doesn't PES teach DSA in C? If what OP said was true about how some companies doesn't allow DSA in C, why doesn't PES teach DSA in C++"
+    },
+    {
+      "id": "m79vfe1",
+      "body": "They don't care what language you know. They usually provide you the choice of your language while doing problem solving. \n\nI would recommend doing it in C for starters. Then you can gradually shift to C++ later on."
+    },
+    {
+      "id": "m79vy4p",
+      "body": "What about python I have decent command over it"
+    },
+    {
+      "id": "m79xsv7",
+      "body": "brother what about python?"
+    },
+    {
+      "id": "m79y2m5",
+      "body": "You can use that too. Ideal for interview rounds for better explanation."
+    },
+    {
+      "id": "m79ytgs",
+      "body": "Because PES is PES"
+    },
+    {
+      "id": "m79ywsb",
+      "body": "Python is fine too!"
+    },
+    {
+      "id": "m79z3j0",
+      "body": "Sure some companies may not allow C, but generally most companies allow you to choose the language.\n\nI have recently completed the OAs of multiple companies that came on campus and all companies have their own languages that they prefer. \n\nI've seen some companies that allow only Cpp or java, some that allow only python, some that only allow C. So each company has their own requirement, but personally i feel you should know 2 languages, Python and either c++/ java to complete the assessments of most companies."
+    },
+    {
+      "id": "m79z60m",
+      "body": "Here is an old post that answers your question in detail: [https://www.reddit.com/r/PESU/comments/13px5h9/programming\\_language\\_choice\\_for/](https://www.reddit.com/r/PESU/comments/13px5h9/programming_language_choice_for/)  \n\n\nNext time, search the sub. Odds are your question isn't new."
+    },
+    {
+      "id": "m7a0o4z",
+      "body": "The reason PES teaches DSA in C is because its more easier i think, and C++ means its like learning a whole new syntax, so better to just learn in whatever we had learnt in 2nd semester. But ya, u can learn C++ on ur own & proceed"
+    },
+    {
+      "id": "m7a680g",
+      "body": "In such a case, why can’t they teach C++ itslef in sem 2. And DSA in C++ in sem 3"
+    },
+    {
+      "id": "m7aqhhx",
+      "body": "fair point , **but** imagine learning C++ without knowing C, it is like saying I will learn Machine learning without knowing python"
+    },
+    {
+      "id": "m7arqcv",
+      "body": " that means you recommend me to learn c++?"
+    },
+    {
+      "id": "m7asfv3",
+      "body": "Yes eventually for placements I think cpp and python would be ideal.\n\nBut at least in 3rd and 4th semester it will be better to just use C and get a better understanding of the implementation of each data structure."
+    },
+    {
+      "id": "m7d9a6o",
+      "body": "Oh ok\nI didn’t know that\nAnyway thanks."
+    },
+    {
+      "id": "m7enx41",
+      "body": "I was DSA with cpp for designing I have good knowledge web designing with LAMP stack but now I am started to learn flutter anyone here to guide me what's should I do to grab good package as a flutter devloper"
+    },
+    {
+      "id": "m7ex5hx",
+      "body": "Go for java script"
+    },
+    {
+      "id": "m7eyu0h",
+      "body": "I would personally say go with C++ or Java.\nThe concepts will be more clear with these languages."
+    },
+    {
+      "id": "mjvlvzr",
+      "body": "You can check this-\n\n[Data Structures and Algorithms (DSA) Roadmap](http://coursegalaxy.com/data-structures-algorithms/dsa-roadmap.html)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "15gyvt6",
+  "title": "Hostel wifi and vpn",
+  "content": "Hello I'm about to join the RR campus boys hostel this year. I've heard that there are lots of restrictions on the hostel wifi. Is there any way hostel staff would find out if I use a vpn? And are softwares like steam and discord usable without a vpn?",
+  "metadata": {
+    "author": "Low_Dragonfruit6728",
+    "url": "https://www.reddit.com/r/PESU/comments/15gyvt6/hostel_wifi_and_vpn/",
+    "permalink": "/r/PESU/comments/15gyvt6/hostel_wifi_and_vpn/",
+    "score": 3,
+    "created_utc": 1691053672,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "julwnt1",
+      "body": "u can’t use vpn (most of them anyways). mofos have blocked everything. can’t even watch gameplay videos on youtube anymore"
+    },
+    {
+      "id": "jumanzc",
+      "body": "OpenVPN is a valid option afaik, been using it for quite some time now. Set up a free VPN server on oracle cloud, and browse whatever you wanna browse. \nThere’s plenty of tutorials on how to do it.\n\nAdditionally there are also several credentials on the PESU network that have unrestricted access to content, some have been shared by students on this subreddit before, can’t vouch for their availability right now though."
+    },
+    {
+      "id": "jumat9e",
+      "body": "I tried setting up and worked for like 2 days until even that started having problems on pesu wifi. Worked fine on mobile data."
+    },
+    {
+      "id": "jumb15i",
+      "body": "rip i’ve been using it since 3rd sem, currently in 7th sem."
+    },
+    {
+      "id": "jummyvh",
+      "body": "Any chance protonvpn might work? Asking since it's the main vpn i use."
+    },
+    {
+      "id": "juo19co",
+      "body": "Most known VPN services don't work here. Mobile data is the only consistent service that works"
+    }
+  ]
+}

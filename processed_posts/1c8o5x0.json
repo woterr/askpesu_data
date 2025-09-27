@@ -1,0 +1,33 @@
+{
+  "id": "1c8o5x0",
+  "title": "People who are good at maths please help,PESSAT now has negative marking, is it still better to attempt all questions? Since negative is only -1/4",
+  "content": "You need to get 4Q wrong to offset 1 mark gain by a correct question, if you attempt 40Q with 90% accuracy, you get 35 marks, and if you guess the remaining 20Q and say get 6Q correct and 14Q wrong, (+6-3.5) which is a gain of 2.5 marks, what do you think?",
+  "metadata": {
+    "author": "WontFirm",
+    "url": "https://www.reddit.com/r/PESU/comments/1c8o5x0/people_who_are_good_at_maths_please_helppessat/",
+    "permalink": "/r/PESU/comments/1c8o5x0/people_who_are_good_at_maths_please_helppessat/",
+    "score": 5,
+    "created_utc": 1713614069,
+    "flair": "PESSAT/Admission",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "l0fz1x0",
+      "body": "Even guessing Fully randomly should get you positive marks\n\nIn every 4 questions let's say you get one right. So it totals to a net positive of 1/4 marks\n\nObviously it's not guaranteed but it is the expected outcome. (Think about it by considering each question a Bernoulli trial and use binomial)\n\nBut we're also assuming that you know better than randomly marking answers which also greatly increases your odds. \n\nIn every question if you can eliminate 1 or 2 options then guessing is a no brainer"
+    },
+    {
+      "id": "l0gb9y1",
+      "body": "Did a quick mock up of the calculation, you can see it [here](https://docs.google.com/spreadsheets/d/1zlsdee9p9WVDIz16XwF-HE2z2TOd3hZPs_UhGAJ0EI4/edit?usp=sharing).\n\nIt basically means that if you can answer *atleast* 70-75% of questions **correctly**, then you can attempt all questions since the difference between attempting only the correct ones and attempting all questions becomes a difference of \\~10. This translates to being correct on at least 125/180 questions will give you the room to attempt everything."
+    },
+    {
+      "id": "l0grox8",
+      "body": "ah ok so if im reading it correctly then basically if im confident about 125Q being correct, then im better off attempting all questions than leaving them right?"
+    },
+    {
+      "id": "l0h2kj9",
+      "body": "Yes. The more confident you are about your answers, the more questions you can guess."
+    }
+  ]
+}

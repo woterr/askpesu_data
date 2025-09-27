@@ -1,0 +1,93 @@
+{
+  "id": "1eolbw9",
+  "title": "Laptop for CSE AI/ML",
+  "content": "Hi - Joining PES EC campus for CSE AI/ML course. I am planning to buy a new laptop.\n\nCan you please recommend some laptops that will be appropriate considering the course demands.\n\nThanks!",
+  "metadata": {
+    "author": "Brilliant_Display163",
+    "url": "https://www.reddit.com/r/PESU/comments/1eolbw9/laptop_for_cse_aiml/",
+    "permalink": "/r/PESU/comments/1eolbw9/laptop_for_cse_aiml/",
+    "score": 8,
+    "created_utc": 1723267575,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "lheakqa",
+      "body": "if you just considering the course related stuff , as long as your laptop can open pdf's and can run C and python codes it should be fine in 1st year , in second year too you wont have much stuff taht really require heavey computing to be done . so dont need to spend a shit ton of money on a mac book and stuff , just buy one according to your budget . FYI dont buy a gaming laptop , they have shitty battery , really hevey and a hassel to carry around."
+    },
+    {
+      "id": "lhearpt",
+      "body": "Thank you for the detailed response. Considering I’ll need one for 4 years - can you please recommend some models? Or do you recommend buying one basic laptop for the first 2 years and then buy a more advanced for the next 2?"
+    },
+    {
+      "id": "lheb6mr",
+      "body": "Nah bro just buy one itself don't do that type of shenanigans,  for most course related stuff as long as your system can run vs code it should be fine I guess. FYI check out the pes reddit pinned content , there seniors have given a better overview of some laptop recommendation"
+    },
+    {
+      "id": "lhebb5n",
+      "body": "This is very helpful! Thank you!"
+    },
+    {
+      "id": "lhebrje",
+      "body": "Budget?"
+    },
+    {
+      "id": "lhebx30",
+      "body": "We recommend not buying a new laptop if you already have one which works. If you absolutely must buy one, check the FAQs on what kind of laptop will help you"
+    },
+    {
+      "id": "lhedqgb",
+      "body": "A few people are asking me to buy MacBook Pro 16 inch. I was surprised that we need such an expensive laptop. Would 1 lakh budget suffice? If yes, are there some specific models that you recommend."
+    },
+    {
+      "id": "lhedxsq",
+      "body": "Lenevo loq ryzen 7, 7840hs rtx 4050..get this, even I bought this and this is working fine.. \n\nThis costs around 88k..\n\nIf u want an 1l laptop, get a lenevo legion slim 5, with the same specs, that's would cost you around 1.05 l or smtg, but lenevo loq which I purchased should be more than sufficient.."
+    },
+    {
+      "id": "lhedy1d",
+      "body": "Thanks, went through a lot of posts. I am a complete noob so wasn’t getting a clear recommendation so thought of posing this question again."
+    },
+    {
+      "id": "lheehe1",
+      "body": "Thank you!"
+    },
+    {
+      "id": "lhemgjt",
+      "body": "get a macbook, for training networks just use a cloud service, much feasible option if you ask me."
+    },
+    {
+      "id": "lhghuda",
+      "body": "If you plan on doing anything ML related, buy something with a good graphics card"
+    },
+    {
+      "id": "lhgsho1",
+      "body": "honestly take the laptop according to your priorities\n\ngaming - good graphic card(nvidia)\n\nmovie and webseries - oled screen\n\nlike that stuff and dont worry abt graphics card for ml as you can use 3rd party applications to run ml."
+    },
+    {
+      "id": "lhkzybx",
+      "body": "In my opinion, you should invest in a high end laptop. You can go for a MacBook Air or something along the lines.\n\nNot many people would agree with me but trust me, getting an overpriced iPhone has been one of my best professional decisions. It saves time and the performance is mind soothing.\n\nI’ve been using a 60k laptop through my college and honestly I won’t say it’s bad but a better laptop could’ve breezed me through some of the tasks I perform on it.\n\nEven in hackathons, our biggest limitation has been our laptops’ computational power.\n\nHowever gaming ones are too bulky with poor battery so I won’t suggest those."
+    },
+    {
+      "id": "ml9pg0l",
+      "body": " A macbook pro is better for hackathons? Asking for reference. Thanks!"
+    },
+    {
+      "id": "mlastes",
+      "body": "Depends on your use case. Wouldn’t recommend you to focus on hackathons as a primary objective but in a nutshell if you need to run ML tasks locally, any gaming laptop with an Nvidia chip is recommended. For otherwise other coding related tasks, there’s no reason why you shouldn’t get a Mac!"
+    },
+    {
+      "id": "mlc8ev3",
+      "body": "I see. I’m new to this. The issue is if i want to run locally, these laptops will hunt down all the gpu (im assuming 4060 will suffice) and at the same time im more used to macs and also it would only make sense to run it it cloud as a beginner its not like im training huge models by the second month, if u get what i mean. Also, the gaming laptops are bulky which i absolutely hate. I would rather get a desktop than a laptop to run my ml tasks. Thats just my opinion, lmk if theres anything you’d want to add. "
+    },
+    {
+      "id": "muhprhr",
+      "body": "Hi.. I literally have no idea about laptops and I am joining cse this year.. Which company and model would you recommend?"
+    },
+    {
+      "id": "muhxrpo",
+      "body": "Check the FAQs."
+    }
+  ]
+}

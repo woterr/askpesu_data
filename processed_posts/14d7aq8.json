@@ -1,0 +1,49 @@
+{
+  "id": "14d7aq8",
+  "title": "Help calculating sgpa",
+  "content": "If I get the following grades \nChem-s\nConstitution-s\nEpd-A\nMath-D\nMech-D\nC programming-C\nHow much sgpa can I expect?",
+  "metadata": {
+    "author": "BurningAlmondz",
+    "url": "https://www.reddit.com/r/PESU/comments/14d7aq8/help_calculating_sgpa/",
+    "permalink": "/r/PESU/comments/14d7aq8/help_calculating_sgpa/",
+    "score": 5,
+    "created_utc": 1687158526,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "jooetcs",
+      "body": "1. Visit https://bit.ly/pesu-faq\n2. Check the GPA calculation post and my comment under that. There's a spreadsheet attached which will help you"
+    },
+    {
+      "id": "joojgy1",
+      "body": "assuming all are 4 credits except for mech(3) and constitution(1) and S grade in labs, (40+10+36+24+18+28+10+10)/22 = 8"
+    },
+    {
+      "id": "jookgwn",
+      "body": "Chem and epd are 5 credits"
+    },
+    {
+      "id": "jookhjj",
+      "body": "Thanks btw:)"
+    },
+    {
+      "id": "jooputz",
+      "body": "EPD is 5? I thought only the subs with labs are 5"
+    },
+    {
+      "id": "joopx7e",
+      "body": "As a general rule its basically weighted average of your grades with weights as the credits.\n\nS->10\n\nA->9 and so on"
+    },
+    {
+      "id": "jooy8nx",
+      "body": "Chem and CS are 5, EPD and math are 4 and mech is 3"
+    },
+    {
+      "id": "jotc1zh",
+      "body": "So basically E is 5, D is 6, C is 7, B is 8 and A is 9, and S is 10. To calculate for a subject, what u need to do is multiply the marks with the grade and the number of credits and divide it by the total credits of the sem. So for a D in math, it'd be (6×4)/24 or 1. And for the C in C proh it'll be (7×4)/24. Do this for all the subjects and add them up for sgpa"
+    }
+  ]
+}

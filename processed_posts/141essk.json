@@ -1,0 +1,21 @@
+{
+  "id": "141essk",
+  "title": "PROJECTS!",
+  "content": "What sort of projects is one supposed to do? Can someone please give me a few examples and/or links to someone's github as an example? I am interested in ML and data science. Should all projects I do be uploaded on my github or only the big ones?\n\nThanks a lot in advance ",
+  "metadata": {
+    "author": "SubstantialTeahehe",
+    "url": "https://www.reddit.com/r/PESU/comments/141essk/projects/",
+    "permalink": "/r/PESU/comments/141essk/projects/",
+    "score": 4,
+    "created_utc": 1685972146,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "jn3mpf2",
+      "body": "The point of working on projects is to learn/practice something, try out new things or to build something fun with a few people. You *shouldn't* follow someone else's work and replicate it because then it defeats the purpose. Nobody's project list is a template to follow - this isn't some A-Z list of things to do. If you're interested in ML and Data Science, start learning the fundamentals and implement things while learning. Soon you'll start building things. \n\nWorking on projects isn't a thing you do because others are doing it. You do it because you want to build something."
+    }
+  ]
+}

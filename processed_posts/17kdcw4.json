@@ -1,0 +1,57 @@
+{
+  "id": "17kdcw4",
+  "title": "pesu wifi",
+  "content": "i was able to connect to the pesu wifi till last week, but now when i try to connect to it, it just shows 'Open, No Internet' and the login page doesn't even pop up. I've tried restarting my system and forgetting the network, but it doesn't work. I've even tried sending a mail to the email address, but i haven't gotten any response.\n\nwhere am i supposed to go to enquire about this?",
+  "metadata": {
+    "author": "constellationyuki",
+    "url": "https://www.reddit.com/r/PESU/comments/17kdcw4/pesu_wifi/",
+    "permalink": "/r/PESU/comments/17kdcw4/pesu_wifi/",
+    "score": 9,
+    "created_utc": 1698728196,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "k777x0p",
+      "body": "Type 192.168.0.1 in the search address bar"
+    },
+    {
+      "id": "k777yo2",
+      "body": "yes i did do that, but even after logging in there's no internet"
+    },
+    {
+      "id": "k7780pc",
+      "body": "Ah then idk"
+    },
+    {
+      "id": "k77896l",
+      "body": "It happened to me just a few days ago. I tried a lot of things and nothing worked. After a few days of not working it just started working again on it's own"
+    },
+    {
+      "id": "k77dbkm",
+      "body": "Teachers say that we’re not allowed to use college wifi networks in our phones, and reason ?"
+    },
+    {
+      "id": "k77o9xu",
+      "body": "Pes wifi is hella scam.. usually they have a limit to the number of devices which can be connected to the wifi, and it is dependent on the department.. like CS if I'm not wrong has a limit of 800-1000 devices.. in the case try to log in with your friends srn from other departments.."
+    },
+    {
+      "id": "k77p8sl",
+      "body": "thank you!"
+    },
+    {
+      "id": "k77uu29",
+      "body": "Np man... It's the stupidest thing pes has done.. especially if you are in CS like I am, I legit couldn't log in to do assignments and stuff cause there are 720 people in my batch, 1000+ in my junior batch and the device allotment was only 800 before.. if you have a vi sim card it works on most rooms and jus stick to data.. otherwise ggwp"
+    },
+    {
+      "id": "k78p11f",
+      "body": "Hey, maybe it can be a problem with your phone. Try clearing the cache of CaptivePortalLogin , or otherwise just connect to the network and type connectivitycheck.gstatic.com, it automatically redirects you to the login page."
+    },
+    {
+      "id": "k7baw85",
+      "body": "I don't see why not. You should be able to access"
+    }
+  ]
+}

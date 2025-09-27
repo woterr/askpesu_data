@@ -1,0 +1,45 @@
+{
+  "id": "1jvwido",
+  "title": "Laptop requirements",
+  "content": "Hey, I'm a first year ECE student, and I am looking for a good laptop to buy. What would be the recommended specs I'd want to buy as an ECE student, covering all the needs for the next few years, and would I need to buy a gaming laptop (because i really want to)??",
+  "metadata": {
+    "author": "Alone-Wedding791",
+    "url": "https://www.reddit.com/r/PESU/comments/1jvwido/laptop_requirements/",
+    "permalink": "/r/PESU/comments/1jvwido/laptop_requirements/",
+    "score": 9,
+    "created_utc": 1744287572,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "mmdl1or",
+      "body": "buy anything but not gaming laptop. Especially if you intend to carry around and want good battery life."
+    },
+    {
+      "id": "mmdojt2",
+      "body": "Make sure you have sufficient RAM 16Gb should be minimum. GPU is optional, but preferably better to have. \nGo for windows, if you are looking for a machine that can be trouble free for next 4 years. People do have and use MacBooks, they run windows/linux on VM."
+    },
+    {
+      "id": "mmdpxlw",
+      "body": "Well these are the minimum requirements \n- 8 gb ram\n- 512gb SSD / 256gb SSD + 1TB HDD\n- i5 11 gen or Ryzen equivalent \n\nShould you go for a gaming laptop? Depends \nIf you go for a gaming laptop here are the cons\n- (2 - 2.5 kg) weight \n- average 3 hours battery life so you will need to carry a charger which will be again 750g to 1kg.\n\nSo if you plan to carry the laptop to college you will have to sacrifice a lot. \n\nIf you buy a gaming laptop you can obviously play games and do 3D modelling, rendering, video editing so choose according to your needs."
+    },
+    {
+      "id": "mmdsyy2",
+      "body": "I am a cse guy but i recommend minimum:\nMemory: 16gb\n\nStorage: 512gb minimum is safe (you never how huge software you would have to install)\n\nProcessor: i5, atleast 12th generation ( do not go for 11th gen and older, they have very few cores )\n\nBattery: Around 50wh should be fine, use slow charging option on your laptop if you can, to reduce battery degradation rate.\n\nBrand: I recommend major brands like dell, hp and lenovo. Asus has good value for money but their service center network is small. Dont go for things like infinix or xiaomi.\n\nGaming laptop idk, batteries generally dont last long, so besides the heavy laptop you will have to carry the big charger all the time.\n\nThe laptop im using is dell inspiron 15 3520. This is a bit mid end laptop, got it for 53k. I just wanted a laptop which will do well for 4 years and bit more, thinking I'll buy i high end laptop when i start earning."
+    },
+    {
+      "id": "mmi0bgn",
+      "body": "This!!\n\nI would recommend a dedicated gpu but you will do fine without one too."
+    },
+    {
+      "id": "mmjxvux",
+      "body": "Take a look at this Apple MacBook Air Apple M4 - (16 GB/256 GB SSD/macOS Sequoia) MC6T4HN/A on Flipkart\nhttps://dl.flipkart.com/s/J1Bv0IuuuN\n\nI will buy this if i am think to buy again"
+    },
+    {
+      "id": "mn07v0y",
+      "body": "But the dedicated gpu drinks the battery. May be focus on the battery too?"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "14n50oa",
+  "title": "I need advice on buying a laptop",
+  "content": "Hey guys, I wanted advice on buying a laptop. I am confused about purchasing a MacBook or a Windows laptop (preferably a gaming laptop). I heard MacBooks are known for their productivity and Windows laptop has slow performance compared to Mac. By the way, my branch is ECE. Please help me which laptop would be suitable for my course.\n\nThank you in advance.",
+  "metadata": {
+    "author": "buzoios",
+    "url": "https://www.reddit.com/r/PESU/comments/14n50oa/i_need_advice_on_buying_a_laptop/",
+    "permalink": "/r/PESU/comments/14n50oa/i_need_advice_on_buying_a_laptop/",
+    "score": 3,
+    "created_utc": 1688142321,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "jq5kqlk",
+      "body": "I don't know if MacOs is better or windows is better for ECE, but yeah, MacBook is just so much smoother than windows. I can vouch for that at least."
+    },
+    {
+      "id": "jq5lt1w",
+      "body": "Oh I see, thanks for your advice!"
+    },
+    {
+      "id": "jq5qwhy",
+      "body": "If ur serious on gaming and want good fps get a windows laptop with a decent gpu, most games can’t even run on mac"
+    },
+    {
+      "id": "jq5rwzi",
+      "body": "But note that there are some softwares that people in ECE have faced issues with when it came to MacBooks. Preferably ask an ECE senior for confirmation"
+    },
+    {
+      "id": "jq7lsnl",
+      "body": "I'd definitely say go for  a good windows laptop like legion or omen. If you're in ECE, you'll have to download tools like quartus prime and wireshark and cuda many of them run only on windows. Also, macbooks can't run most games well and if you enjoy gaming, windows definitely the better option. A GTX 1080Ti should be enough to decently run most games. Go for one with RTX 3060 if you wanna be able to run any app or game you want peacefully at the highest settings."
+    },
+    {
+      "id": "jq8dixr",
+      "body": "Oh, thanks!"
+    },
+    {
+      "id": "jq8ds27",
+      "body": "Ohh I see, thanks for the advice fam!"
+    },
+    {
+      "id": "jqd645i",
+      "body": "I would suggest you to read the handbook of IIITB, they have beautifully written about laptop specs. Just search \"IIITB handbook 2027\" in Google and go through that."
+    },
+    {
+      "id": "lbfrlkp",
+      "body": "hi old post but had this doubt do any cs people face issues for macs?"
+    },
+    {
+      "id": "lbhfr2m",
+      "body": "Yes. Do not get a Mac. Check the FAQs for more info: [https://www.reddit.com/r/PESU/comments/14c1iym/faqs/](https://www.reddit.com/r/PESU/comments/14c1iym/faqs/)"
+    },
+    {
+      "id": "lbkr8h5",
+      "body": "i need to convince my dad that there are softwares thatll give trouble could u name like 2"
+    },
+    {
+      "id": "lbkt7n2",
+      "body": "The big data courses had a lot of softwares that didn't support it properly like Hadoop. In 2nd year as well there are some softwares that don't work too well."
+    },
+    {
+      "id": "lbktacj",
+      "body": "tysm"
+    }
+  ]
+}

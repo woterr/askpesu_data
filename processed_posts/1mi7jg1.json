@@ -1,0 +1,65 @@
+{
+  "id": "1mi7jg1",
+  "title": "[Question] is bigdata really useful in the future?",
+  "content": "Is bd actually helpful or just a gimmick ",
+  "metadata": {
+    "author": "Radiant-Contract-460",
+    "url": "https://www.reddit.com/r/PESU/comments/1mi7jg1/question_is_bigdata_really_useful_in_the_future/",
+    "permalink": "/r/PESU/comments/1mi7jg1/question_is_bigdata_really_useful_in_the_future/",
+    "score": 10,
+    "created_utc": 1754396116,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "n71h6wx",
+      "body": "actually super useful. a lot of places use spark and kafka for large scale data processing. you also learn a lot about distributed systems, which are literally _everywhere_ right now."
+    },
+    {
+      "id": "n71ilc3",
+      "body": "Big Data is arguably one of the most useful courses you can take up. Data is exploding, and this course teaches you ways to store and manipulate the large data. It's very industry relevant, and also very closely follows industry specifics. If you do end up in a Data engineering role like I did, you'll see that the course is basically a scaled down version of industry relevant tools, techniques and concepts: Hadoop, Spark, Kafka, Zookeeper etc."
+    },
+    {
+      "id": "n71jhyh",
+      "body": "What can I pair it with (other elective)"
+    },
+    {
+      "id": "n7217ak",
+      "body": "Idk what other electives you have."
+    },
+    {
+      "id": "n7221cx",
+      "body": "Data Analytics"
+    },
+    {
+      "id": "n72cr6f",
+      "body": "data analytics and big data is like an OG combo"
+    },
+    {
+      "id": "n7326g4",
+      "body": "At the level that it's taught at the PESU course, you won't learn much about the system internals of any of those systems. You'll learn to use them which will make you a superstar at work for 3 weeks until everyone picks up (because using Spark and Hadoop is trivial, and writing/understanding Scala is too, especially in the time of LLMs) \n\nDepends on what you're looking for from the course"
+    },
+    {
+      "id": "n76nttt",
+      "body": "What about data analytics ?"
+    },
+    {
+      "id": "n7dy47s",
+      "body": "They've removed the project now and made it a hackathon (tentatively for 8 hours). So assuming there's no resume worthy project coming out of this course, would the learning here outweigh an easier course (like Image Processing) in your opinion?"
+    },
+    {
+      "id": "nep2ji3",
+      "body": "Does data engineer role pay well? because I heard they average the package at around 6 or 7?"
+    },
+    {
+      "id": "nephye0",
+      "body": "The pay for a role often depends on the company rather than the name of the role, and this is for any given role. You will find companies paying 6-7L for AI engineers, and also larger companies paying 30-40L. It all depends on the budget available in that company. \n\nFor context, I myself was in a Big Data Engineer role, my CTC was around 20L."
+    },
+    {
+      "id": "neq2ae2",
+      "body": "I see, thankyou for the information rowlet."
+    }
+  ]
+}

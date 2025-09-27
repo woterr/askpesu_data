@@ -1,0 +1,37 @@
+{
+  "id": "1awvbc5",
+  "title": "Need guidance..",
+  "content": "Im currently in my second sem and i wanted to work on a project but im so cluless of wt to do please can anyone suggest wt project i could work on which is gonna be impressive and good at the same time(ik python which i hav learnt in the first sem and basic html which i had learnt in 8th) ur help would really be appreciated!! :)",
+  "metadata": {
+    "author": "SprinklesLopsided937",
+    "url": "https://www.reddit.com/r/PESU/comments/1awvbc5/need_guidance/",
+    "permalink": "/r/PESU/comments/1awvbc5/need_guidance/",
+    "score": 7,
+    "created_utc": 1708569706,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "krk4qfg",
+      "body": "Impressive for wat? Your peers or for your resume? Or impressive for you?"
+    },
+    {
+      "id": "krlo6lo",
+      "body": "I'll assume that the objective of the project is to add value scores in exams, and higher chances of internship and a good job etc in the long run.\n\nI have been working with a small group (4, FY, and 2 SY, 1 TY students across two PES campuses) and I'll share what I see working for them and what seems to be some myths they held (and majority will do too).\n\nMYTH#1. Projects are applications of what you learn in a classroom and by doing a project you strengthen your learning.\n\nReality: It's very seldom true, you'll never be able to develop good projects only based on what you learn in classes. The objective of the course is to give you an intro to one topic and your project is like a music with multiple instruments so if you try to play an entire song with 1 instrument, the chances of it being \"impressive\" is rare. \n\nSolution: So, what's the solution? Well don't limit yourself to classroom lessons you got IO else free courses on the net, you got GPT and most importantly courses (and projects) made by Stanford Graduating classes are released for free each year for most courses. Example\n1. NLP (https://web.stanford.edu/class/cs224n/index.html#coursework)\n2. Graph Machine Learning: https://web.stanford.edu/class/cs224w/projects.html\n3. NLU : https://web.stanford.edu/class/cs224n/project.html\nThere are other domains I only know AI, ML, GAI cause that's my research area.\n\n(Caution: In my duration at PES, after my 1st year I got a reality check and I learned one thing clear. It's better to compete with the MITs and Stanford of the world and come last, than to be the best in class of 60, so I always competed with them however you can have a different philosophy 👍)\n\nSummary: Go beyond what all 600 students know to make great projects. You'll have to learn more than html and python but it would be a huge huge benefit when the stuff you learned volunteering is taught in class cause you not only know what but also the why and how often things.  \n\n\n\n\n(Applicable for all, but I'll take an ML example)\n\nMYTH #2 I will apply the algo I learned on a big fancy kaggle dataset. \n\nReality ::: I only have data from kaggle so I'll just use the data someone else curated, use a package someone else created to import an algorithm everyone knows and come up with results that no one cares about.\n\nSolution: Choose a problem that either is individual to you, or Karnataka or India atleast so you get some localisation. Second, don't let the data decide your project, decide a good project then start savanging for data. Today you can use GPT to create artificial data.\nAlso, don't stick to conventual methods, collect your own data. Repurposing of data, if someone collected images of a 100k neckless to learn how to classify them into price, you can re use that data to analyse the designs and may be even see if certain things changed over the years, or does Tanishq makes a difference design than Giva. \nFinal issues companies are facing or at least customers are and solve them, that's what engineering is.\n\nThere are tons of other useful stuff out there but I think I don't want this to be too big to just ignore (might already be sorry)\n\nFinally in conclusion, \nYou know python and your know HTML, well IPL is just around the corner I think you can collect some sports data and make a simple dashboard they will give me a option to see how many times one on one some bowler has had the batsman or which batsman plays how well in a pitch. I don't know if it's useful to you but would surely be a fun thing to have during matches to debate.\n\n\nFeel free to reach out and all the very best for your projects."
+    },
+    {
+      "id": "krmo4lz",
+      "body": "Can I dm you?"
+    },
+    {
+      "id": "krppo7p",
+      "body": "😊 sure"
+    },
+    {
+      "id": "krqf83a",
+      "body": "I can see some Pop up on chats but I can't see who it is so feel free to drop a mail to f20abhishekj@iimidr.ac.in I'm a academic, my profile is public anyway👍"
+    }
+  ]
+}

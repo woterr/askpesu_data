@@ -1,0 +1,53 @@
+{
+  "id": "17ow9h8",
+  "title": "Int Captive portal",
+  "content": "In F block , once i connected to its wifi , i had no problem the credential window popped up as soon as i tried to connect my laptop,But when i tried to connect it for the next time,it just gets connected automatically with no internet and no portal opens to login.i tried entering its address in the browser but that didnt do any help, my friends are also facing the same issue.please assist.",
+  "metadata": {
+    "author": "PYUchiha7",
+    "url": "https://www.reddit.com/r/PESU/comments/17ow9h8/int_captive_portal/",
+    "permalink": "/r/PESU/comments/17ow9h8/int_captive_portal/",
+    "score": 2,
+    "created_utc": 1699250712,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "k81uc5t",
+      "body": "They told 1st year people don't need the internet so they have blocked it"
+    },
+    {
+      "id": "k81vmkr",
+      "body": "Bruh all of my friends got access to it for the first time.(today only I tried it).\nJust the portal for login is what we are unable to access rn when we try to login another time.\nI don't think they did anything like that so far"
+    },
+    {
+      "id": "k81vtp3",
+      "body": "They did actually in the class rep meeting the reps asked about it they replied this \nI also used it for once , from then the portal doesn't show up"
+    },
+    {
+      "id": "k87hvml",
+      "body": "Hey, connect to the portal and login to connectivity.gstatic.com, this redirects u to the login page"
+    },
+    {
+      "id": "k87iq9b",
+      "body": "Tysm bro, will try tomorrow."
+    },
+    {
+      "id": "k87m37b",
+      "body": "That site doesn't require internet?\nLike for logging in if we have to be connected to pesu wifi,we cant connect to other wifi sources na.."
+    },
+    {
+      "id": "k8dcz3n",
+      "body": "[www.gstatic.com/generate\\_204](https://www.gstatic.com/generate_204)  worked for me back in my first year"
+    },
+    {
+      "id": "k8dg7k4",
+      "body": "Bro being saviour all d time 🙇‍♂️"
+    },
+    {
+      "id": "k8iig5x",
+      "body": "🙏🙏"
+    }
+  ]
+}

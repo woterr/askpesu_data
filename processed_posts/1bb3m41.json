@@ -1,0 +1,69 @@
+{
+  "id": "1bb3m41",
+  "title": "Laptop recommendation",
+  "content": "budget upto 1L. No interest in gaming. Branch-cse",
+  "metadata": {
+    "author": "Lem_on_00",
+    "url": "https://www.reddit.com/r/PESU/comments/1bb3m41/laptop_recommendation/",
+    "permalink": "/r/PESU/comments/1bb3m41/laptop_recommendation/",
+    "score": 2,
+    "created_utc": 1710052232,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "ku6t3ro",
+      "body": "No interest in gaming? \nGet a mac. \nWant to run linux/ pirated software on windows?\nGet a ThinkPad/ mid level gaming laptop."
+    },
+    {
+      "id": "ku6tdjr",
+      "body": "Can you suggest a few laptops for gaming"
+    },
+    {
+      "id": "ku6tpvh",
+      "body": "no disadvantage of taking mac over windows right? as far as cse course/softwares is concerend..."
+    },
+    {
+      "id": "ku6y620",
+      "body": "As far as software there shouldn't be. I don't recall any window only software for the course work."
+    },
+    {
+      "id": "ku6z2ec",
+      "body": "[Link to previous comment](https://www.reddit.com/r/PESU/s/wwRAaDmnjr)"
+    },
+    {
+      "id": "ku72i4x",
+      "body": "How bout for ECE.. Mac or Windows?"
+    },
+    {
+      "id": "ku751n4",
+      "body": "I have heard there is no disadvantage and Mac infact has a better coding environment. But if you're into AIML and want to run ML models you'll need a laptop with a decent nvidia gpu"
+    },
+    {
+      "id": "ku758ig",
+      "body": "I am not entirely sure but I guess for ECE eventually you'll need a CAD or PCB design software which I don't think you can pirate or even get legal copies of in mac (they probably exist but not as much as windows). If someone from ece can confirm if they have had no problems on mac then get a mac."
+    },
+    {
+      "id": "ku75ggh",
+      "body": "Lenovo legion or Asus Rog/tuf. Even HP victus is good enough. Id suggest not to overspend (max 80k) as mid level ones are enough to run most games on high. If you are spending more than 80k go for a PC. You'll get a really good pc at that price and its a much better gaming experience anyway"
+    },
+    {
+      "id": "ku78jqe",
+      "body": "One senior told me that we can use VM on mac.."
+    },
+    {
+      "id": "ku7hhz3",
+      "body": "HP Pavilion Aero BE2048AU"
+    },
+    {
+      "id": "ku7lm1p",
+      "body": "I have a mac right now. The battery life and convenience is great but if you're a Linux enthusiast, Mac will not let you do that (at least until Asahi is ready)\n\nLinux is what allows you to screw with your system and find out. It gives you so much experience on how your computer and operating system actually works. If I could go back and buy a laptop again, I'd get a nice ThinkPad.\n\nThere is no shortage of power plugs in the classrooms (talking for ec campus) and you'd be able to charge your laptop during class  \n\nJust don't get anything super heavy (like a gaming PC) because you'd be carrying your laptop with you everyday everywhere you go. Even a marginally heavy laptop will take a toll on your back.\n\nHappy coding"
+    },
+    {
+      "id": "kubxogq",
+      "body": "Agree with this. But I'd advice OP to buy a mac. They're insanely powerful and you can do whatever it is you want (source: used mac in 3rd and 4th year at PESU CSE). I also had a very old laptop at home which I wiped and installed arch linux on. I really messed with this and gained an understanding of how OSs work as you mentioned. So if OP has an old laptop lying around somewhere at home, then there's no need to think along the ThinkPad route."
+    }
+  ]
+}

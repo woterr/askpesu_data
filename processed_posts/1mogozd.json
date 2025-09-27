@@ -1,0 +1,33 @@
+{
+  "id": "1mogozd",
+  "title": "[Question]AIML Engineer vs Full Stack Developer — which gets more campus placements?",
+  "content": "I’m in my 3rd sem of engineering and confused between AIML Engineer and Full Stack Developer for better campus placements. Which one usually has more opportunities? I mean , which role usually has more openings ?? ",
+  "metadata": {
+    "author": "Icy-Butterfly-8555",
+    "url": "https://www.reddit.com/r/PESU/comments/1mogozd/questionaiml_engineer_vs_full_stack_developer/",
+    "permalink": "/r/PESU/comments/1mogozd/questionaiml_engineer_vs_full_stack_developer/",
+    "score": 12,
+    "created_utc": 1755023191,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "n8c5j60",
+      "body": "Definitely full stack. Takes a lot more than a Bachelor's degree to get MLE roles."
+    },
+    {
+      "id": "n8fpno5",
+      "body": "Other than masters does good enough experience help secure those ai/ml roles in the industry?"
+    },
+    {
+      "id": "n8ggxkm",
+      "body": "Pure ML/Scientist roles will always need a Master's (sometimes even a PhD). Any other kind of Applied AI/MLE roles might open up after a few years of industry experience, but even those need relevant ML engineering experience."
+    },
+    {
+      "id": "n8lqi4n",
+      "body": "Prepare for the \"SDE\" role, most of the companies come for SDE positions only. Few come for data science and AI/ML but the expectations are just too high for a final year student. SDE includes large scale real time projects, cloud hands-on experience, backend technologies, kafka or some type of load balancing, docker, jenkins, kubernetes, basically technologies that are actually used in the industry. So prepare accordingly"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w7m6lf",
+  "title": "I want to start coding, does anyone know a website where I can learn coding for free? And what languages should i prioritise on?",
+  "content": "",
+  "metadata": {
+    "author": "Vengeance55",
+    "url": "https://www.reddit.com/r/PESU/comments/w7m6lf/i_want_to_start_coding_does_anyone_know_a_website/",
+    "permalink": "/r/PESU/comments/w7m6lf/i_want_to_start_coding_does_anyone_know_a_website/",
+    "score": 6,
+    "created_utc": 1658747571,
+    "flair": "Study Help :table:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "ihkh1f1",
+      "body": "Leetcode is very good imo\nFor starters use hackerrank and once you are having some comfort level then try leetcode.\nAs for language, it's all based on which language you are comfortable with. Preferably use CPP or java imo but again if you are comfortable in any other language use that only."
+    },
+    {
+      "id": "ihkpxkz",
+      "body": "Lang: CPP or python\nGoto gfg practice.com\nIn the problems difficulty filter, apply school level and solve those.\nThen move onto higher difficulty gradually.\nFollow pepcoding on YouTube to solve level wise."
+    },
+    {
+      "id": "ihkzf1q",
+      "body": "I barely know the basics tho\nHow can learn it properly?"
+    },
+    {
+      "id": "ihockvo",
+      "body": "watch algo videos by abdul bari(thats where i learnt my algos properly) and any video would do for data structures(i saw multiple videos,.. dont have a specific one in min). then do hackerrank and leetcoe"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "1nc9w8m",
+  "title": "[Question] totally lost in both DDCO and DSA",
+  "content": "TITLE. our ddco teacher is fine but all our dsa teacher does is draw pictorial representations 😭  how do I prepare wrt isa?? the ddco textbook has so so many problems .all we learn in dsa class is pictorial representation and he finished stacks in 20 minutes and spent the next 2 full classes on 2 youtube videos, each solving one postfix expression only  😭 ",
+  "metadata": {
+    "author": "DurianFriendly6901",
+    "url": "https://www.reddit.com/r/PESU/comments/1nc9w8m/question_totally_lost_in_both_ddco_and_dsa/",
+    "permalink": "/r/PESU/comments/1nc9w8m/question_totally_lost_in_both_ddco_and_dsa/",
+    "score": 17,
+    "created_utc": 1757393250,
+    "flair": "Study Help :table:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "nd7rhu2",
+      "body": "Atleast you know the c basics U shd understand logic"
+    },
+    {
+      "id": "nd7zci5",
+      "body": "What if you don’t"
+    },
+    {
+      "id": "nd81lq9",
+      "body": "Start studying relevant sections from the textbook for DDCO. Solve the problems, as many as you can. The book is great; its pretty comprehensive and might be lengthy and tedious, but its quite good at breaking down the concept and explaining it in detail: something you are *really* going to need during the ESAs because surface level knowledge won't cut it. DDCO exams tend to be conceptually heavy, especially the ESAs where they tend to pick problems directly or adapted from the book sometimes. Most, if not all, have benefited from studying this course directly from the book.\n\n  \nWon't comment about DSA since I primarily depended on learning from the class and prof and just practiced online in my free time."
+    },
+    {
+      "id": "nd82erc",
+      "body": "DSA, if I recollect correctly, was mostly code. Both ESA and ISA had coding questions. I’d suggest picking a YouTube channel (like Striver, Abdul Bari, or Neetcode) and practicing on platforms such as HackerRank or LeetCode. Building intuition is really important for DSA.. if you practice well it would help with placements as well."
+    },
+    {
+      "id": "nd83lv5",
+      "body": "Bro u need to ace the college level dsa , this is nothing compared to the dsa asked in OAs and placements, but dw it's tough with c so  try to learn from yt ,later on when u do it with cpp , java or python the college level codes will be quite ez"
+    },
+    {
+      "id": "nd86kil",
+      "body": "Well u r in frist year so ya ull learn basics first"
+    },
+    {
+      "id": "nd8a4py",
+      "body": "Im ok second year"
+    },
+    {
+      "id": "nd8mow1",
+      "body": "oh thanks a lot! that is the reason im quite worried for dsa as well bc it's needed for placements but i find it hard to follow along in class."
+    },
+    {
+      "id": "nd8n1x6",
+      "body": "yes yes that is why i am worried! i am still solving doubly linked lists problems(from esa papers) and not getting them right but our sir's finishing up queues already!! thanks a lot for the help!"
+    },
+    {
+      "id": "nd8nqy3",
+      "body": "If u already know C basics, start with **Jenny's Lectures CS IT** if u have time. if u have less time I would suggest watching gate smashers for ISA"
+    },
+    {
+      "id": "nd8o32o",
+      "body": "oh thanks! will check it out!"
+    },
+    {
+      "id": "nd8y3pt",
+      "body": "Ahh nigga even we had some werido for dsa but unfortunately it is what it is"
+    },
+    {
+      "id": "nd8yruf",
+      "body": "canon event then"
+    },
+    {
+      "id": "nd8z42w",
+      "body": "when did u start doing dsa in cpp?"
+    },
+    {
+      "id": "nd9047y",
+      "body": "During the summer break before 3rd year though I had a cpp special topic in 3rd sem"
+    },
+    {
+      "id": "nderolp",
+      "body": "Then how did u pass 1st year"
+    },
+    {
+      "id": "ndezc59",
+      "body": "🤬"
+    }
+  ]
+}

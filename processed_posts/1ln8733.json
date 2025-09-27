@@ -1,0 +1,81 @@
+{
+  "id": "1ln8733",
+  "title": "Need Guidance for 2nd year!!!",
+  "content": "Hey seniors..! I hv completed my first year(cse) exams and my sgpa nd cgpa could be around 7.5-8 . So now all i wanted to know from u is:\n\n1). Which are the subjects in 2nd year for cs? (How many of them will be completely coding?)\n2). How difficult/easy is it to score sgpa around 8.5 in both sem compared to 1st yr? \n3). *****Referring to 2nd que.. How to achieve the above sgpa, what has to be followed and what not? (Any Recommended utube channels for the subjects?)*****\n4). I hv seen somewhere that we have c lang for dsa , so how difficult/easy will it be for someone who's gonna do dsa in c++ or java at same time. (Will we have enough time to learn other lang than C keeping isa nd esa in mind)?\n5). How many hrs of study daily is enough study for exams and for managing both exams nd doing dsa nd stuff?\n6). How seriously shld we take assignments?\n\nWould be grateful to read to ur advices. \nThank you🙏 ",
+  "metadata": {
+    "author": "Potential-Cod1070",
+    "url": "https://www.reddit.com/r/PESU/comments/1ln8733/need_guidance_for_2nd_year/",
+    "permalink": "/r/PESU/comments/1ln8733/need_guidance_for_2nd_year/",
+    "score": 18,
+    "created_utc": 1751179713,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "n0ddvxt",
+      "body": "subjects in 2nd year :  \n3rd sem :  \n1)DDCO  \n2)AFLL  \n3)SDS  \n4)WT  \n5)DSA\n\n4th sem :  \n1)LAA  \n2)CN  \n3)OS  \n4)DAA  \n5)MPCA\n\n  \ncompletely coding subjects - DSA , WT  \nYoutube channels :  \n[WT](https://www.youtube.com/@NetNinja) , [DSA](https://www.youtube.com/@mycodeschool) , SDS and DDCO are completely textbook based. Every Question comes from textbook in ESA for SDS and DDCO as well. AFLL is somewhat ToC in General computer science but Slides are enough , although easy subject AFLL can be tricky if not prepared well.\n\n[LA](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D) ,[DAA](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) , CN and OS are also completely textbook based. Kursoe and ross is best for CN  in general and apart from the given TB , [this](https://pages.cs.wisc.edu/~remzi/OSTEP/) book can be used for os practical understanding.  \nMPCA came only from slides for us , cant say the same for the batches after mine, they had from textbook as well apart from slides. [this](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf) book is used widely in general for MPCA in cse.\n\ni would say dont worry too much about the c++ , java dilemma. Focus on recognizing coding patterns and building logic. Language should not be an issue. But that said its best to do Data structures in C , Given how you implement it , it shows real understanding of how things work at  low level.\n\nTake assignments seriously , try not to copy, its very hard not to copy and get plagarized. Use AI if your running short on deadline , but dont overuse it so much that you dont learn anything at all.\n\n  \nDont just rely on these resources , some of  these subjects are fundamentals which will asked in interviews later in your placements(Mainly CN OS and DSA). So Practice coding , Leetcode if you want and build projects for all the coding related subjects. Deploy the projects and Add them to your resume."
+    },
+    {
+      "id": "n0di95b",
+      "body": "please expand the subjects"
+    },
+    {
+      "id": "n0dlkm3",
+      "body": "Thanks ,much appreciated for helping me out!😊"
+    },
+    {
+      "id": "n0e85br",
+      "body": "Is syllabus the same for someone who is joining through lateral entry."
+    },
+    {
+      "id": "n0ekg7s",
+      "body": "NO"
+    },
+    {
+      "id": "n0epff5",
+      "body": "Then could you please share the syllabus for it or where can I find that syllabus"
+    },
+    {
+      "id": "n0eqr3j",
+      "body": "Not sure , join the discord server you might find some lateral entry students."
+    },
+    {
+      "id": "n0eywai",
+      "body": "Ok"
+    },
+    {
+      "id": "n0f4w0u",
+      "body": "Yep, but lateral entry students have to do an extra bridge course each sem, for our batch atleast. Math 1 in Sem 3, and Math 2 in Sem 4. The rest of the courses are the exact same."
+    },
+    {
+      "id": "n0f54fw",
+      "body": "Thanks and will it be taught or we are supposed to learn it ourselves and is it going to be hard to pass"
+    },
+    {
+      "id": "n0f614r",
+      "body": "It will be taught, you'll be having extra classes. Not sure about how hard it is though."
+    },
+    {
+      "id": "n0f9j3u",
+      "body": "Thanks for explaining"
+    },
+    {
+      "id": "n0ipq95",
+      "body": "Are these subjects same for AIML too ?"
+    },
+    {
+      "id": "n0is3pt",
+      "body": "Are these subjects same for AIML as well?"
+    },
+    {
+      "id": "n0ixz25",
+      "body": "I think so , please confirm with someone in AIML"
+    },
+    {
+      "id": "n0pvvzt",
+      "body": "Yes it's same"
+    }
+  ]
+}

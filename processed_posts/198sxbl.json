@@ -1,0 +1,21 @@
+{
+  "id": "198sxbl",
+  "title": "CGPA SGPA RELATION",
+  "content": "How is your cgpa calculated after say 3rd sem \nIs it the average of your sgpa of previous sems?\nIf a person gets 7 and 9 his cg at end of year 1 would be 8?",
+  "metadata": {
+    "author": "wonderwhat7768",
+    "url": "https://www.reddit.com/r/PESU/comments/198sxbl/cgpa_sgpa_relation/",
+    "permalink": "/r/PESU/comments/198sxbl/cgpa_sgpa_relation/",
+    "score": 2,
+    "created_utc": 1705484821,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "ki9dne0",
+      "body": "CGPA is the sum of the products of SCGPA's across all semesters with the corresponding number of credits for that semester divided by the total number of credits across all semesters. So since sem 1 and sem 2 have the same number of credits, your cgpa is just the average of your scgpa's. But sem 3 onwards I think some semesters have less overall credits so it is not as simple as taking the average. Check this out for more information: [SCGPA and CGPA calculation](https://www.reddit.com/r/PESU/comments/13wdtcl/cgpa_and_sgpa_calculator/?utm_source=share&utm_medium=web2x&context=3)"
+    }
+  ]
+}

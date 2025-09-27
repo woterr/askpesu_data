@@ -1,0 +1,45 @@
+{
+  "id": "1jnc959",
+  "title": "Curriculum",
+  "content": "Can I get to know how many programming languages are taught across 8 sems.\n",
+  "metadata": {
+    "author": "Sammy_09_",
+    "url": "https://www.reddit.com/r/PESU/comments/1jnc959/curriculum/",
+    "permalink": "/r/PESU/comments/1jnc959/curriculum/",
+    "score": 11,
+    "created_utc": 1743340841,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "mkik2fj",
+      "body": "Firstly, CS is not about learning different programming languages, it's about solving problems with machines. But to answer your question: only Python, C and MATLAB are mandatory. The remainder depends on which electives and special topics you choose to take up and include languages like C++, Java, R, Julia, etc."
+    },
+    {
+      "id": "mkio19k",
+      "body": "I understand and appreciate your response.\nBased on the current market scenario what language(s) must one choose for their electives in order to up skill.\nAssuming my interest in all languages are the same."
+    },
+    {
+      "id": "mkioot5",
+      "body": "Whatever aligns with your field of interest. You don't get hired for knowing a language, you get hired for knowing how to solve problems in a specific field using whatever tools are needed, be it languages, algorithms or frameworks. Focus on the latter and you'll actually become industry ready. Recruiters don't look for one trick ponies who know the most number of languages but can't use them. Since you're still not in college, this is something you'll slowly realise after you join. Read the FAQs on this sub for more info."
+    },
+    {
+      "id": "mkj5r1y",
+      "body": "C, python in 1st year, Javascript in 2nd year, Java/cpp in 3rd year"
+    },
+    {
+      "id": "mkk1z6q",
+      "body": "Is there a summer course or elective for golang or rust?"
+    },
+    {
+      "id": "mkk2jx2",
+      "body": "We had special topics in our batch so we had options like rust, golang. But there are no electives for that. Rust and golang were options for summer courses also afaik"
+    },
+    {
+      "id": "mkk2z75",
+      "body": "They ruined special topics for us by making entrepreneurship compulsory. I'll check out the summer courses tho, thanks"
+    }
+  ]
+}

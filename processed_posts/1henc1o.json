@@ -1,0 +1,49 @@
+{
+  "id": "1henc1o",
+  "title": "Need help",
+  "content": "My 3rd sem marks are beyond pathetic. It's too depressing tbh. Can you guys mention what AIML 4th sem courses could be? So that I can have an idea on how I get better in the coming semesters. \n\nPlz help",
+  "metadata": {
+    "author": "CompetitiveEffort790",
+    "url": "https://www.reddit.com/r/PESU/comments/1henc1o/need_help/",
+    "permalink": "/r/PESU/comments/1henc1o/need_help/",
+    "score": 33,
+    "created_utc": 1734246732,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "m258r95",
+      "body": "https://preview.redd.it/79u203okaz6e1.png?width=571&format=png&auto=webp&s=dbdd64da8583d75e4dbe0b78c3ab5e5cc4578c51\n\nExcept Big Data and MML, rest all coincide with cse syllabus.\n\n[SOURCE](https://main--pesufy.netlify.app/docs/branches/cse/)"
+    },
+    {
+      "id": "m25w638",
+      "body": "3rd Year AIML student here\n\n\\- First things first, don't worry about getting bad marks in one semester. It's just one semester and you still have plenty of time to work on increasing your GPA.!\n\nPlease note that this is what I personally felt and your experience can vary.\n\n1. SOC Design and Computer Architecture : This subject deals with internal system design and computer architecture. I felt the first 2 units to be considerably harder to understand than the latter 2 because the first 2 units deal with some basic electronics related stuff and machine language and I hated these (mostly cuz of the prof. that was teaching us)\n\nRecommend reading the Textbook and making your own notes rather than only relying on slides and notes for this subject as the textbook has a better and more clear explanation for each and every topic.\n\nOverall difficulty : Medium - Hard\n\n  \n2. Statistics for Data Science : The first two units deal with basic probability stuff and statistics so this its good if you solve numericals. The next two deal with more detailed probability and distribution related stuff. I would say that you can score in this subject if you solve lots of numericals and understand the concepts clearly and also solve PYQs cuz that is how the format of the questions are gonna be.  \n\n\nRecommend solving numericals and slides and taking a look at PYQs.\n\n  \nOverall difficulty : Easy - Medium\n\n  \n3. Web Technologies : The first 2 units deal with HTML and CSS and some basic JS along with some concepts like Jquery. I could not properly understand anything from the slides given to us cuz this subject is not meant for just reading through the slides and understanding concepts. You need to have some idea about practical implementations so I recommend doing your assignments and understanding concepts from there. Also the most important thing is look at PYQs cuz some teachers are so lazy that they pick questions directly from there and don't even bother to change the question. This is exactly what happened in our 3rd semester where we had each and every question picked from previous paper with no changes lol !\n\nThe latter 2 units focus on ReactJS and MongoDB and looking at sufficient code examples and the slides were enough for these. \n\nRecommend solving PYQs and coding questions\n\nOverall difficulty : Medium\n\n4. Automata Formal Languages and Logic : Deals with state machines and automata. Kinda easy if you get the hang of it. Again solving problems and understanding concepts is the mantra.\n\nRecommend watching AV summary videos cuz there concepts are explained nicely with proper examples and also solved numericals.\n\nOverall difficulty : Easy - Medium\n\n 5. Data Structures and Algorithms : The most important subject that you'll study. This subject covers all necessary stuff that you will need to start solving Leetcode and build your basic foundation. Has a lot of resources online to study from. I recommend first understanding the logic behind each and every algorithm and then going forward with the implementation. Also please keep looking at the algorithms to make sure you don't forget them because during the exams it can be overwhelming and confusing to study them all at once.\n\nOverall difficulty: Medium - Hard \n\n  \nOverall you can score well in this semester if you read up whatever has been covered regularly with ample number of practice problems to further support your understanding.\n\n  \nPS : Sorry if the post went too long lmao.."
+    },
+    {
+      "id": "m25y7at",
+      "body": "Thank you bro, but we had all these in our 3rd sem. Any idea about 4th sem?"
+    },
+    {
+      "id": "m260g25",
+      "body": "4th sem?"
+    },
+    {
+      "id": "m260rkr",
+      "body": "Wait wtf you had these in 3rd sem?"
+    },
+    {
+      "id": "m26tc7v",
+      "body": "\"PUSSY\""
+    },
+    {
+      "id": "m2gva6f",
+      "body": "We have the same syllabus as cs now"
+    },
+    {
+      "id": "m2ieeum",
+      "body": "Trust me bro thinking about the next sem does not make it easier, things might get harder from now but yall are smart so you'll get through it dw too much about it"
+    }
+  ]
+}

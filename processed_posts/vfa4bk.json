@@ -1,0 +1,37 @@
+{
+  "id": "vfa4bk",
+  "title": "Career Guidance",
+  "content": "Hi guys...so..I wanted to know which domains are favoured during PESU placemnts after learning DSA?\n\nShould I go for ML,Web Dev or something else?I am honestly fine with nearly any domain",
+  "metadata": {
+    "author": "Basic_Ad_900",
+    "url": "https://www.reddit.com/r/PESU/comments/vfa4bk/career_guidance/",
+    "permalink": "/r/PESU/comments/vfa4bk/career_guidance/",
+    "score": 7,
+    "created_utc": 1655570745,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "icwyprf",
+      "body": "Here's the thing, most of the time companies offering positions are intentionally vague to then gauge you during interviews and place you in a team they think you'll do best. This again is dependent if there is an opening for freshers in the team. Let me give my example, I was interviewed hoping I'd get to work in networks, working in Java, C++ and C. I ended up working in a platforms team where I work on the networking aspects writing pure c code, csh scripting and python. My friends who interviewed with me got into network security, optics, rpd, pfe, etc. \n\nUnless the company specifies a domain role like analyst or network security engineer or the likes; I honestly can't tell if there is any preference in placements. Most of them just give a salary figure, vague expectations and a GPA cutoff. On the other hand, you can look up the company and then get an idea on what you'll get to work on.\n\nOne more tip for you juniors. Look at the company's profile before submitting your resumes. If you're fine with any domain and have done projects everywhere, slightly modify your boilerplate resume to show your work in the domian the company specialises in."
+    },
+    {
+      "id": "icwzh8a",
+      "body": "But then what domains are good to specilaize in?I am really clueless"
+    },
+    {
+      "id": "icx0sw2",
+      "body": "I liked networks and security. I did that. From your post I assume you have dabbled in all domains right? Take up any one you're interested in. \n\nML is really lucrative if you're really good at it. Me no good. Me no know.\n\nTaking up networks opens you up to work in embedded products or enterprise grade network products. This could also mean working with OSes built for a specific purpose like security or networking.\n\nIf you're interested in building stuff like games and saas products you could look into working with Java, C++, JavaScript.\n\nWeb applications have their own fan club."
+    },
+    {
+      "id": "icx8hgn",
+      "body": "Ohh I see..what i have generally noticed is that PESU gives a lot of emphasis on ML compared to other domains so I guess i will go for that...Thank you for your response :)"
+    },
+    {
+      "id": "icxe1rj",
+      "body": "Rather than going for what PESU gives emphasis to, choose the one you like the most. Remember that you're talking about a long term decision here, and is going to affect a lot of things"
+    }
+  ]
+}

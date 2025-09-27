@@ -1,0 +1,53 @@
+{
+  "id": "182ews4",
+  "title": "ECE Capstone",
+  "content": "Who are some of the professors to do or not to do the capstone with in the ECE department ? ",
+  "metadata": {
+    "author": "DoubleFun5436",
+    "url": "https://www.reddit.com/r/PESU/comments/182ews4/ece_capstone/",
+    "permalink": "/r/PESU/comments/182ews4/ece_capstone/",
+    "score": 6,
+    "created_utc": 1700785093,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "kal10de",
+      "body": "Which domain?"
+    },
+    {
+      "id": "kat5f2l",
+      "body": "SPASE Domain"
+    },
+    {
+      "id": "kata24f",
+      "body": "In SPASE domain, some popular teachers are :  \n\n\n  \n\n\nB. Niranjana Krupa - Computer vision, Biomedical ML, Signal processing\n\n&#x200B;\n\nT.S Chandar - Analog Robotics \n\n&#x200B;\n\nManikandan J -Real-time Pattern recognition systems \n\n&#x200B;\n\nSanjeev G - Signal processing and machine learning for wired/wireless communications  \nPerformance analysis of technologies for 6G communication systems  \nMachine learning techniques for multimodal signal processing and fusion, Satellite Tracking and Communication and Machine learning techniques in speech / image signal processing.\r  \n\n\nH.R. Vanamala - Image Processing, Machine Learning, Embedded applications\r  \n\n\nFinally, it depends on your interest. You must approach the professor and talk to them once, and express your Interest in doing capstone under them.\n\n&#x200B;\n\nOne advise is to consult Seniors who are working under the respective teachers and see how they would be."
+    },
+    {
+      "id": "katjpzf",
+      "body": "What about Dr. Shruthi MLJ ??"
+    },
+    {
+      "id": "katrzss",
+      "body": "She is good Ig, but not sure about her. She works on **Image Processing, Video Processing, AI ML**"
+    },
+    {
+      "id": "kaymlhc",
+      "body": "Thanks for the reply . I dont particularly have an interest in signal processing , the only reason for looking into SPASE was the chance to use ML and do something . Would i be allowed to work in CS dept with a team of two or three more CS ppl ?"
+    },
+    {
+      "id": "kayosva",
+      "body": "Yes, you can do.   \nBut, you must get permission from the HoD and then proceed."
+    },
+    {
+      "id": "kb2xvfk",
+      "body": "What about VLSI Domain?"
+    },
+    {
+      "id": "kb7tyjw",
+      "body": "Good teachers under VLSI are -\n\nRashmi - Digital System VLSI Design/ CMOS RF-IC Design/Mixed Mode VLSI Design\n\nK. Sudheendra Kumar - Verilog, ASIC, Cadence tools, FPGA, Microprocessor design, hardware security (likely that he will leave PES soon)\n\nPavitra Y.J - Approximate circuit (mostly digital) design, Evolutionary algorithms for circuit design, Memory design for performance improvement\n\nAnuros Thomas - System design using Embedded Processors, IoT. \n\nKaustav Bhowmik (not recommended, unless you really love Quantum Photonics or Quantum related stuff) - THz circuitry/Photonics/VLSI Photonics/Quantum Technology"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "18wftt9",
+  "title": "Passing CGPA to get full credit",
+  "content": "What is the minimum marks one must score to get subject cleared without keeping it for backlog",
+  "metadata": {
+    "author": "Opening-Mushroom1744",
+    "url": "https://www.reddit.com/r/PESU/comments/18wftt9/passing_cgpa_to_get_full_credit/",
+    "permalink": "/r/PESU/comments/18wftt9/passing_cgpa_to_get_full_credit/",
+    "score": 1,
+    "created_utc": 1704167565,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "kfxoj42",
+      "body": "An E grade fetches you a GPA of 5. You need 42.5 marks to get a GPA of 5."
+    },
+    {
+      "id": "kfype2s",
+      "body": "For 8 or 9 cgpa?\nAnd how is this calculated... isn't cgpa dependent on the credit of the subject?"
+    },
+    {
+      "id": "kfys7qm",
+      "body": "So to get 9 in a subject you will need A grade. And 8 would be B grade. \n\nTo make things perfectly clear let me take an example.\nLet's say your in 5th sem. You have 22 credits. Two 5 credit subjects and three 4 credit subjects. \nMarks breakdown(hypothetical)\n5 credit subject 1 - A(9)\n5 credit subject 2 - C(7)\n4 credit subject 1 - B(8)\n4 credit subject 2 - S(10)\n4 credit subject 3 - D(6)\n\nNow to calculate SGPA,\n(9*5+7*5+8*4+10*4+6*4)/22\nThat should be 8.\n\nAs for your percentage that you need, you just subtract GPA by 0.75(rule set by pes) and multiply by 10. So to get 8 you just do 8 - 0.75 which is 7.25 and multiply by 10 which is 72.5. So you 72.5 marks to get 8. \n\nHope that was helpful"
+    },
+    {
+      "id": "kfysde0",
+      "body": "Thanks a lot"
+    },
+    {
+      "id": "kg6k1qx",
+      "body": "You mean 72.5 marks in total (out of 100) right ( contribution of isa,esa,assigment,mini project all reduced to 100 using rule set by pes)"
+    },
+    {
+      "id": "kg6l0wo",
+      "body": "Yes"
+    }
+  ]
+}

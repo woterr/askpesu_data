@@ -1,0 +1,37 @@
+{
+  "id": "1nl3yjx",
+  "title": "[Question]How to study for sem 3 isa 1",
+  "content": "What are expected 4markers in ddco and web tech \nHow do u study\nDdco everyproblem looks big how do u basically study acc to study\nWent tech should we learn the codes of each and every topic or how do u get the hang of it",
+  "metadata": {
+    "author": "Particular-Curve-445",
+    "url": "https://www.reddit.com/r/PESU/comments/1nl3yjx/questionhow_to_study_for_sem_3_isa_1/",
+    "permalink": "/r/PESU/comments/1nl3yjx/questionhow_to_study_for_sem_3_isa_1/",
+    "score": 13,
+    "created_utc": 1758289414,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "nf2l12u",
+      "body": "In WebTech, they’ll ask a few coding questions for 4 marks\n\nAs for DDCO… Unit 1 should be fine, but Unit 2 is BAD. Last time there was some question on registers or counters that no one could solve, and the infamous snail question (check the PYQs you’ll know). Read the textbook if you have time.\n\nHonestly just study as much as you can, then pray and show up. These subjects are absolute torture"
+    },
+    {
+      "id": "nf2p317",
+      "body": "For DDCO, solve from the book and PYQs (which are mostly from the book). No way around it if you want to do well."
+    },
+    {
+      "id": "nf2ysb4",
+      "body": "Thanks! What about DSA and AFLL? Do you remember any questions from ISA?"
+    },
+    {
+      "id": "nf32yoc",
+      "body": "Yeah DSA 4 markers were all coding questions, directly from the slides. I remember them asking to code a circular linked list and an optimized bubble sort\n\nAFL was also everything from the slides. Just focus on that NFA DFA and minimization stuff. I don’t really remember the details"
+    },
+    {
+      "id": "nf338tf",
+      "body": "thank u"
+    }
+  ]
+}

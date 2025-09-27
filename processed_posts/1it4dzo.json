@@ -1,0 +1,25 @@
+{
+  "id": "1it4dzo",
+  "title": "App development",
+  "content": "Any seniors working in app development field pls tell me the roadmap for app development \nI am confused whether I should start with Kotlin or java or go with react native.\nWill pes gonna help me in some way or the other \nOr I have to do it all by myself?\nCurrent in II sem",
+  "metadata": {
+    "author": "Frequent_Purple3443",
+    "url": "https://www.reddit.com/r/PESU/comments/1it4dzo/app_development/",
+    "permalink": "/r/PESU/comments/1it4dzo/app_development/",
+    "score": 8,
+    "created_utc": 1739968295,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "mdlza7e",
+      "body": "[https://roadmap.sh/android](https://roadmap.sh/android) . also , honestly wouldn't recommend depending on pes for anything , go at your own pace"
+    },
+    {
+      "id": "mdr1w6l",
+      "body": "If you know React the React Native is just easy - else go directly for React Native it's easier."
+    }
+  ]
+}

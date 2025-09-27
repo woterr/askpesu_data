@@ -1,0 +1,49 @@
+{
+  "id": "1kgonke",
+  "title": "Are these legit?",
+  "content": "Apparently been getting emails like this on my pes email for a while now but realised only today. Anyone know anything about this?...kinda feels like a scam ",
+  "metadata": {
+    "author": "Popular_Advice_3498",
+    "url": "https://www.reddit.com/gallery/1kgonke",
+    "permalink": "/r/PESU/comments/1kgonke/are_these_legit/",
+    "score": 20,
+    "created_utc": 1746591699,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "mr0gzs4",
+      "body": "No they are not. I wanna know who sold them our email ids. I just can't seem to get rid of them"
+    },
+    {
+      "id": "mr0hf24",
+      "body": "That \"NOTE\" screams \"I am a Scammer\"."
+    },
+    {
+      "id": "mr0k309",
+      "body": "No one would have sold it, since it's PES email there is an pattern and once they figure it they can get the email of everyone. Also the mail just mentions Pes student not ur actual name"
+    },
+    {
+      "id": "mr0lq3c",
+      "body": "Pavan Kalyan 🗣️🗣️"
+    },
+    {
+      "id": "mr1cire",
+      "body": "Rule number 1 : never pay for any internship/job offer"
+    },
+    {
+      "id": "mr207pl",
+      "body": "Pretty easy to get the actual names too https://github.com/anuragrao04/get-pes-people"
+    },
+    {
+      "id": "mr2bqrd",
+      "body": "Thought I'd leave a suggestion on your repo but decided to do it here anyway: \n\nYou don't need to manually generate a CSRF token and update an .env file. You can do it programmatically, the same way you've used the CSRF to access the endpoint. So you can effectively make the entire pipeline autonomous. \n\nIf you want a code example, check PESUAuth's repo. It contains a function that does the entire thing: https://github.com/HackerSpace-PESU/pesu-auth\n\nOr even better, you can use (and maybe contribute?) to this currently unmaintained project: https://github.com/HackerSpace-PESU/pesuacademy-py\n\nWhile the former is simply to fetch credentials (the same system that authenticates users on the discord server), the latter is more extensive and serves as a Python wrapper over PESU Academy. The know your class and section snippet is present across both the repos I shared."
+    },
+    {
+      "id": "mr2ruep",
+      "body": "Scam, block them"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "wec2rd",
+  "title": "Tips for 3rd sem?",
+  "content": "How do I go about third sem without losing my sanity, I'm a bit nervous",
+  "metadata": {
+    "author": "POS272",
+    "url": "https://www.reddit.com/r/PESU/comments/wec2rd/tips_for_3rd_sem/",
+    "permalink": "/r/PESU/comments/wec2rd/tips_for_3rd_sem/",
+    "score": 14,
+    "created_utc": 1659447876,
+    "flair": "Study Help :table:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "iin9yrs",
+      "body": "5 ISAs. Don't wait till the end to study. Stay updated with the portions so that you just have to revise before exams."
+    },
+    {
+      "id": "iing00j",
+      "body": "Ahh yeah, I forgot to mention, I'm from CSE. \nIf the isa's are every other week, how do I clear my concepts properly in such a short time span?"
+    },
+    {
+      "id": "iioh36l",
+      "body": "Sit and do dsa and thank me later.\nDon't waste your time studying for isas and esas.\nWon't help you find a job.\nI made the mistake.\nGood luck"
+    },
+    {
+      "id": "iiqtif2",
+      "body": "But then they won't let us sit for well paying companies due to their cgpa cutoff 🥹"
+    },
+    {
+      "id": "iita0kq",
+      "body": "Trust me kid, when you start doing DSA, your capacity and speed to grasp concepts will increase 5x.\n\nEvery concept be it OS or CN requires analyitical thinking and doing CP or DSA problem solving will increase that.\n\nFrom 9.13 in 3rd sem i went to 9.41 in 4th, 9.67 in 5th, 9.29 in 6th && i started doing leetcode from 4th sem.\n\nIf not on campus, you will find in offcampus if you start early preperation."
+    },
+    {
+      "id": "iitb9i4",
+      "body": "When did you do DSA like in which sem? I've started doing CP on codechef already with all the knowledge I have in CPP and Python. Participated in their contest today and did fairly decent in accordance to my level. Next I'll do DSA after learning pointers and stuff. Thanks for your advice though, my brother's case is similar to yours!"
+    },
+    {
+      "id": "ik33ndf",
+      "body": "I started in 4th sem and continue todo even now though I have got placed.\n\nATB!"
+    },
+    {
+      "id": "ik439jc",
+      "body": "Yea thanks for helping out. I've started my DSA prep too.\nI have a follow up question, the DSA they teach in uni will be the same or different? Like did they teach all the topics of DSA or basics only."
+    },
+    {
+      "id": "ik53eha",
+      "body": "In 3rd sem, they teach Data structures completely but NOT algorithms.\n\nIn 4th sem, they teach all algos like DP,greedy, divide and conquer,sorting, graphs etc.\n\nThis serves as a wafer thin foundation but you have to solve(mediums and hard)  leetcode topic wise(lc has filters for each topic) to get grip over the topics taught."
+    },
+    {
+      "id": "ik54iyn",
+      "body": "So if they're already teaching DSA topics and considering I'll be practicing questions on leetcode from the topics taught too, how will that be different from doing a course in the first year itself+practicing."
+    }
+  ]
+}

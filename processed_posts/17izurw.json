@@ -1,0 +1,33 @@
+{
+  "id": "17izurw",
+  "title": "Research paper and publication",
+  "content": "Can you guys share the tools or websites you are using to write your research paper and to find conferences.",
+  "metadata": {
+    "author": "Couch_Potato2002",
+    "url": "https://www.reddit.com/r/PESU/comments/17izurw/research_paper_and_publication/",
+    "permalink": "/r/PESU/comments/17izurw/research_paper_and_publication/",
+    "score": 5,
+    "created_utc": 1698574202,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "k6y5spp",
+      "body": "You can write papers on overleaf. Remember to use the template that the conference requires it in.\n\nYou can find conferences on easychair, although you'll need to know which ones are good and which ones are predatory. If you're targeting good conferences, then AAAI, ACL, ICML etc websites will list down their upcoming conferences, workshops, symposiums and journals with their respective websites. In most cases, these top conferences aren't included on easychair."
+    },
+    {
+      "id": "k6yodp8",
+      "body": "Thanks a lot sir"
+    },
+    {
+      "id": "k6yrwob",
+      "body": "Sure, worries. Feel free to DM me if you have questions regarding a particular conference."
+    },
+    {
+      "id": "k72slj7",
+      "body": "Hey , I too was struggling for the same for my ST, untill I found this amazing website called elicit.com It's a Chatgpt style ask engine. U basically type away, mentioning whatever u want in your papers, u can search for any kind of paper , it will search all the databases and get you the top papers in that topic along with individual and combined summaries as well as links. It gives around 5000 free credits after which it is paid and each question can take upto 5-10 credits depending on what u r searching. So do give it a try, u will save a ton of time hunting for papers"
+    }
+  ]
+}

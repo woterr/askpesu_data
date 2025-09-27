@@ -1,0 +1,57 @@
+{
+  "id": "yxn3yg",
+  "title": "First year Python mini projects",
+  "content": "What are these mini projects, how are they evaluated and how important are they? Can y'all please give some examples and tips too.",
+  "metadata": {
+    "author": "strange_panther21",
+    "url": "https://www.reddit.com/r/PESU/comments/yxn3yg/first_year_python_mini_projects/",
+    "permalink": "/r/PESU/comments/yxn3yg/first_year_python_mini_projects/",
+    "score": 11,
+    "created_utc": 1668682020,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "iwpjzlc",
+      "body": "+1\nSame question here"
+    },
+    {
+      "id": "iwplikc",
+      "body": "Make something cute like a gui calculator or analog clock or something. Put a lot of useless features, the more the features, the better the product."
+    },
+    {
+      "id": "iwpm0c4",
+      "body": "First year CS projects (both python and C) are really simple. Since a lot of people are learning it for the first time they usually just check if you've used all syntactic elements. They are courses that only test your knowledge of fundamentals and syntax, so even basic projects do the job. Just make sure you cover and implement all the concepts in your syllabus and don't make it too generic (calculators, basic management systems etc). \n\nSome people go beyond and make complex projects (I had worked on an app that searched for news online and summarised multiple websites) but there isn't really any need. You can also make text based games and the like. \n\n4 years ago they didn't do any plagiarism checks, not sure if things have changed (note that from 2nd year onwards every project goes through strict plagiarism checks using MOSS).\n\nTLDR - Don't make it so basic that they think you put it together overnight. At the same time don't break your head over it - they accept basic ones. Mostly no plagiarism checks either but don't risk it."
+    },
+    {
+      "id": "iwprjj9",
+      "body": "Thank you!!"
+    },
+    {
+      "id": "iwprlxk",
+      "body": "Lol. Thanks"
+    },
+    {
+      "id": "iwptqs7",
+      "body": "Personally I would go for something simple like a cloud-enabled microservice for scalably scheduling distributed transaction queries, or maybe building a fault-tolerant distributed run-time environment for running map-reduce jobs over a logically shared network file system."
+    },
+    {
+      "id": "iwpu8s8",
+      "body": "Simple? Thank you tho"
+    },
+    {
+      "id": "iwqhwsx",
+      "body": "All running on a u/potatoarchitecture?"
+    },
+    {
+      "id": "iwrr28j",
+      "body": "r/usernamechecksout"
+    },
+    {
+      "id": "m5nyn2n",
+      "body": "how to defect plagiarism if we copy code online ?"
+    }
+  ]
+}

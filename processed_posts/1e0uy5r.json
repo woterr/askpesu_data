@@ -1,0 +1,45 @@
+{
+  "id": "1e0uy5r",
+  "title": "CSE students of PES who own a mac. Do you have any problems with mac that you wouldn't have if you were using windows apart from gaming?",
+  "content": "i am planning to buy a mac. i don't wanna game at all. I have read the IIITB handbook  and under the laptop guide section i saw that none of the students had any problem with mac. ",
+  "metadata": {
+    "author": "From_the_hills_",
+    "url": "https://www.reddit.com/r/PESU/comments/1e0uy5r/cse_students_of_pes_who_own_a_mac_do_you_have_any/",
+    "permalink": "/r/PESU/comments/1e0uy5r/cse_students_of_pes_who_own_a_mac_do_you_have_any/",
+    "score": 5,
+    "created_utc": 1720719946,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "lcpinbn",
+      "body": "If you plan to do anything related to robotics, you're gonna have a tough time cause you need Ubuntu for it and macs don't allow you to dual boot."
+    },
+    {
+      "id": "lcpz6b2",
+      "body": "Few of my classmates had problem with mac in computer networks and some in mpca.because we have to download additional software and stuff. I mean most of them figured out a workaround and some just borrowed a friends laptop\n\nIn some cases teachers give instructions to download stuff in windows the mac students have to figure it out on their own \n\nI mean u can survive with mac but it's not as straight forward"
+    },
+    {
+      "id": "lcrp2qk",
+      "body": "Experience so far (4th sem done) with a Mac:\n\nSem 1: Python can be installed on Mac with no issues. Matlab is also natively supported on Mac \n\nSem 2: C (gcc) can be installed or Apple clang can be used for C class. Matlab continues to be used\n\nSem 3: DSA in C continues to use gcc. DDCO will require Icarus Verilog which can be installed from homebrew. Visualisers for output are available even as plug-in for vs code. AFLL will use PLY tool which can installed using homebrew. Web tech will be on the MERN stack and you shouldn’t have any issues getting the same installed on Mac.\n\nSem 4: CN will require wireshark which though is available for Mac, you are advised to use a virtual machine and use Ubuntu on that. DAA labs will be on hackerrank. MPCA if you have any competent facility they’ll let you know that there’s an online alternate to the simulator they’re using (which most windows students also end up using).\n\nSo far I haven’t found any software where there hasn’t been direct support or an easy workaround to installation."
+    },
+    {
+      "id": "lcsd8iq",
+      "body": "Thx for taking time out to write this down. I"
+    },
+    {
+      "id": "lct98hp",
+      "body": "Issue will arise if you select elective CNS for 5th sem since the labs in that you can only run in seed labs which is incompatible with Mac"
+    },
+    {
+      "id": "lcu08k7",
+      "body": "To add to your points, ARM Simulator can be run easily through \\`wine\\`"
+    },
+    {
+      "id": "lcu15ie",
+      "body": "\\[check my comment out on a similar post\\](https://www.reddit.com/r/PESU/comments/1cggu4w/comment/l1vni6h/?utm\\_source=share&utm\\_medium=web3x&utm\\_name=web3xcss&utm\\_term=1&utm\\_content=share\\_button)"
+    }
+  ]
+}

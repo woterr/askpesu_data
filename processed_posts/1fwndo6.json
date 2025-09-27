@@ -1,0 +1,37 @@
+{
+  "id": "1fwndo6",
+  "title": "SEM 3 AI&ML",
+  "content": "So.... kinda fucked up my isa-1 by doing last minute prep and overly relying of slides only , kinda getting avg marks in all subjects ( fucked hard in ddco). What other learning resource do you suggest other than slides to improve my score for isa-2 and Esa.",
+  "metadata": {
+    "author": "Mysterious_Mud_6384",
+    "url": "https://www.reddit.com/r/PESU/comments/1fwndo6/sem_3_aiml/",
+    "permalink": "/r/PESU/comments/1fwndo6/sem_3_aiml/",
+    "score": 20,
+    "created_utc": 1728124085,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "lqg3n02",
+      "body": "Legit just follow the prescribed textbook for parts you don't understand. Solve problems from there, you'll easily get a good score. You'll be fine! "
+    },
+    {
+      "id": "lqg7bg9",
+      "body": "You need to refer both slides and prescribed textbook if the subject has one like mcse and ddco. Afll slides are enuf. DSA and WT is bhagwan bharose, you can't expect concepts to come directly from slides you need to refer tutorials on yt."
+    },
+    {
+      "id": "lqkj4k6",
+      "body": "DDCO you gotta read the [textbook](https://moodle.tktk.ee/pluginfile.php/270005/mod_resource/content/1/Harris%20D.%20M.%2C%20Harris%20S.%20L.%20-%20Digital%20Design%20and%20Computer%20Architecture%2C%202nd%20Edition%20-%202012.pdf), they ask alot of questions from the exercises at the end of each chapter. Some concepts are explained really nicely too. If you guys don't have enough time just refer to the concepts you dont understand but id suggest reading as an when a concept/ few concepts are taught. Before the exam you could run through pesu slides just incase so you dont miss anything. This subject mostly ends up getting relatively graded but we cant really comment on how they decide to set the paper.\n\nDSA is a really fun subject if you understand how the structure works, id honestly just suggest trying to code out the structure and the basic operations performable a few times on your own so you really understand how it can be manipulated. ISA questions usually tend to be just this , esa questions might be a application based (as in they wont directly say write a function to insert an element into p pos in a linked list, might be like a few lab questions you guys get) so you really need to understand the structure by then. look into pyqps before eas's questions mostly tend to be repeated\n\nAFLL is a chill subject, its fun also if you understand. the AV summaries are really good even if you haven't paid attention in class and solve the questions in the QB/ notes (can't remember which one but it'll be there in one of those).\n\nSDS , not really sure cause your course has changed but reading the textbook and the examples in it was good enough for our batch \n\nWT just try learning from your project and look into pyqp for esa , the questions mostly repeat.\n\n(P.S. Sorry for any grammatical errors :P)"
+    },
+    {
+      "id": "lqklv2d",
+      "body": "Thanks a lot for the advice 🙏"
+    },
+    {
+      "id": "lqkrofs",
+      "body": ":)"
+    }
+  ]
+}

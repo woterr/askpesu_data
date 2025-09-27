@@ -1,0 +1,77 @@
+{
+  "id": "1l3uge4",
+  "title": "Anyone Taken Big Data/CNS? Looking for Advice\"",
+  "content": "Hey folks,\nCan any seniors share the pros and cons of taking Big Data, CNS, or Computer Networks as electives?\n\nI’ve heard Big Data is one of the best courses at PES, but I’m personally more interested in Computer Networks and find CNS (Cryptography and Network Security) quite intriguing too.\n\nAlso, which of these courses usually have better profs?\nAnd for those who’ve taken Big Data — what exactly is taught in the course? What topics, tools, or skills can we expect to learn?\n\nAny insights would really help me decide. Thanks in advance!",
+  "metadata": {
+    "author": "ReachWooden531",
+    "url": "https://www.reddit.com/r/PESU/comments/1l3uge4/anyone_taken_big_datacns_looking_for_advice/",
+    "permalink": "/r/PESU/comments/1l3uge4/anyone_taken_big_datacns_looking_for_advice/",
+    "score": 7,
+    "created_utc": 1749114088,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "mw3w4vx",
+      "body": "Take CNS only if it's taught by preet kanwal . I heard prafullatq mam is good for BD She taught us DBMS best experience so far"
+    },
+    {
+      "id": "mw3yd0r",
+      "body": "Big Data course deals with handling unstructured data needed for analytics.  \n Unit 1 : Introduction Big Data definition, Challenges and opportunities with Big Data, Data intensive scientific discovery and the role of Big Data, History, Map Reduce – Storage (HDFS), Computation model, Map Reduce architecture, Overview of Hadoop Ecosystem, YARN introduction, Case Study: HIVE, Google File System.   \n  \nUnit 2 : Big data infrastructures (Compute/Storage) 14 Hours Introduction to sample Big Data Algorithms – matrix multiplication and pagerank, Issues with Hadoop, Relational operators on Map-reduce, Complexity of Big Data algorithms – Communication Cost complexity model. case study: HBase , Cassandra.   \n  \nUnit 3 : In memory computation Spark and Scala/PySpark programming model, Transformations and Actions, Spark SQL, Spark architecture – RDD, DataFrames, Wide and Narrow dependencies, Streaming Algorithms –sampling, set membership – Bloom Filters counting, counting unique elements – Flajolet Martin Algorithm.    \n  \nUnit 4 : Streaming analysis and advanced analytics on Big Data Streaming analytics use cases, Streaming Spark, Kafka – use cases, architecture, Apache Flink, Clustering algorithms k means and Collaborative filtering, Scaling Neural Networks for Big Data, Case Study MLLib.\n\n  \nEvaluation Policy   \n10 marks Project   \n10 marks (2 Assignments with 2-3 Questions each)   \n30 marks ISA (15 each ISA 1 + ISA 2)   \n50 marks ESA   \nThe project and assignments are very hard they will do plaigarism check and you'll understand the pain once you take the course   \nGreat learning Seriously advice everyone to take the course. Very handson and relevant for industry !   \nThey did relative grading last time so they'll help out if peformance is bad   \nCourse Anchor : Prof Prafulata"
+    },
+    {
+      "id": "mw5d0x4",
+      "body": "BD: It will you build some knowledge about scalable systems and industry relevant tech. Also, it will help you with Cloud Computing subject in 6th sem and in DBT too if you're gonna take that elective."
+    },
+    {
+      "id": "mw5q0ga",
+      "body": "Big Data:\n\nYou will have this distribution for the final grade:\n\nESA: 50%  \nISA: 30%  \nAssignments: 10% (You have two of them - 5+5 marks)  \nProject: 10%\n\nPros: ISAs and ESA are very easy and scoring.  \nCons: Very rigorous in theory. Assignments and Mini-Project for this subject were the hardest I have ever had.\n\nOverall, a great subject. Prafullata ma'am is wonderful at teaching the material, and this is a very industry-relevant course. The assignments were a pain in the ass but it was all right in the end.\n\nAdded bonus is that this will help you with Cloud Computing in 6th Sem."
+    },
+    {
+      "id": "mw5qftn",
+      "body": "Is the course too much like web tech?? \nOr is it doable???"
+    },
+    {
+      "id": "mw61in2",
+      "body": "If Preeth Kanwal ma'am is the teacher for CNS, you should absolutely choose that, the subject is pretty good and with Preeth ma'am you'll actually pay attention and enjoy the classes. \n\nIt's easy to score too, unless they've changed it up, the isas are literally mcqs and esa is reduced to 40 marks. \n\nBig Data is a good course too, I can't really comment too much on it cause I didn't choose it, but I don't really hear any big complaints either."
+    },
+    {
+      "id": "mw9m2pz",
+      "body": "Web Tech is boring af ! Big Data is very interesting and teaches you a lot of stuff ! Patience, Thinking and Debugging Resolving Errors etc ! Take it up as a lot of companies are now focusing on big data tools like kafka and spark etc"
+    },
+    {
+      "id": "mw9v7sf",
+      "body": "Can anyone give insights about the courses(Pretty sure structured same as RR campus but would like to confirm ) and staff in EC Campus as well pls?"
+    },
+    {
+      "id": "mws6lp7",
+      "body": "Hey what if preet mam isn't the teacher?"
+    },
+    {
+      "id": "mws6no3",
+      "body": "What if preet mam is not the teacher?"
+    },
+    {
+      "id": "mws8v17",
+      "body": "You would definitely score good no matter the teacher but it wouldn't be fun learning"
+    },
+    {
+      "id": "mwz5qri",
+      "body": "Is cn js just theory like cn? Are both related? How tought it is compatred to cn?"
+    },
+    {
+      "id": "mwz61db",
+      "body": "Is cns just like cn? How difficult it is compared to cn?"
+    },
+    {
+      "id": "mwzrqqj",
+      "body": "Yeah. it's easier than CN as far as the isa's and esa are concerned"
+    },
+    {
+      "id": "my1q9pl",
+      "body": "I took CNS in my 5th sem and honestly, its a huge pressure off of your ISAs. each ISA is reduced to 10(that's how it was for us) and there were 40 marks worth of labs. These labs are literally copy pasting commands from the PDFs they give you and taking screenshots. so 60 marks of your course will be taken care of in internals itself. and ESAs were easily \"bullshit-able\" and most people ended up with an A."
+    }
+  ]
+}

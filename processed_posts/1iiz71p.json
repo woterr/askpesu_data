@@ -1,0 +1,41 @@
+{
+  "id": "1iiz71p",
+  "title": "How to study OS, sem 4",
+  "content": "There's already so much content in the slides, so is the textbook really required. And what kind of questions are asked in the ISAs, and how do I mug up so much theory without wanting to kms. ",
+  "metadata": {
+    "author": "Vegetable-Complex922",
+    "url": "https://www.reddit.com/r/PESU/comments/1iiz71p/how_to_study_os_sem_4/",
+    "permalink": "/r/PESU/comments/1iiz71p/how_to_study_os_sem_4/",
+    "score": 15,
+    "created_utc": 1738836291,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "mb9y02p",
+      "body": "We were asked only numericals and code for 4 markers in both isas so focus on them apart from theory"
+    },
+    {
+      "id": "mbadlbd",
+      "body": "I'd recommend using only the textbook for prep and solving the problems in the book. You don't need anything else to actually learn concepts from. The textbook is one of the best ones for OS concepts. It's very detailed and long yes, but it explains all the concepts thoroughly and in detail and very well too. Learning from the book will actually help you in the longer run for ESAs and job interviews when questions will be harder and require you to understand the topics and not just memorise. \n\nEveryone uses the book for OS because it's simply all you actually need to prepare. You can use the slides to revise before ISA/ESA. \"Learn from book, revise from slides\" - this is the usual strategy many including me use for courses that have a very good textbook (OS, DDCO, MPCA, DAA, CN etc)."
+    },
+    {
+      "id": "mbc58kf",
+      "body": "I found gate smashers very useful, especially for numerical questions."
+    },
+    {
+      "id": "mbexee7",
+      "body": "1. You have to create a VM in virtualbox or something for running programs\n2. You have to write c programs to understand multi threading, other similar concepts \n3. You have to write kernel module programs in c for understanding kernel\n4. You have to checkout Ubuntu or Opensuse bugzilla "
+    },
+    {
+      "id": "mbexqml",
+      "body": "All of this requires your effort. Do this if this is going to be your bread and butter"
+    },
+    {
+      "id": "mbtwdy2",
+      "body": "what kind of coding questions were asked? was it the Linux commands ones  - using Linux commands to perform a particular function?     \nalso could you please let me know what kind of numericals come and where to practice them from?"
+    }
+  ]
+}

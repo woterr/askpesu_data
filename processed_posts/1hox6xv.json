@@ -1,0 +1,77 @@
+{
+  "id": "1hox6xv",
+  "title": "Requesting seniors to.. ",
+  "content": "Please plz plz plz update the CSE placements spreadsheet.\n\n Why did you stop maintaining it? It has been a month since it was last updated.",
+  "metadata": {
+    "author": "Normal-Bad6621",
+    "url": "https://www.reddit.com/r/PESU/comments/1hox6xv/requesting_seniors_to/",
+    "permalink": "/r/PESU/comments/1hox6xv/requesting_seniors_to/",
+    "score": 36,
+    "created_utc": 1735482863,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "m4cxj7g",
+      "body": "Heard the legend who was maintaining got placed and left it for the next generation. No one has picked up his mantle yet.\n\n![gif](giphy|9r15HOOvVekB2uSoTj)"
+    },
+    {
+      "id": "m4d2bwc",
+      "body": "Don't u realize that the maintainers have a life apart from maintaining the sheet?"
+    },
+    {
+      "id": "m4d3d0y",
+      "body": "How do maintainers even get that much information"
+    },
+    {
+      "id": "m4d4fl6",
+      "body": "Placement office releases offered candidates list, so from that a count can be taken"
+    },
+    {
+      "id": "m4d6tts",
+      "body": "College does not even release avg,median packages right"
+    },
+    {
+      "id": "m4eb6cn",
+      "body": "wdym?"
+    },
+    {
+      "id": "m4eewit",
+      "body": "If you're that concerned, why don't you ask the placement cell?"
+    },
+    {
+      "id": "m4giuea",
+      "body": "I meant who knows the avg,median packages and all"
+    },
+    {
+      "id": "m4h13i6",
+      "body": "Asking out of curiosity, Is it not possible to automate the process?"
+    },
+    {
+      "id": "m4h3r4b",
+      "body": "You do realise that the average and median can be computed because we know the companies that visit along with the packages they offer right?"
+    },
+    {
+      "id": "m4h41ai",
+      "body": "For the avg/median, yeah sure. Can be automated to a large extent since college sends the same email to everyone. However, selected candidates are often explicitly informed after interviews. So getting details like \"shortlisted X+ GPA\" or \"N people selected\" cannot be automated unless the maintainer actively reaches out to people and asks for these, which understandably is very tedious and non-incentive if you're already placed."
+    },
+    {
+      "id": "m4h45rh",
+      "body": "Nope, not possible. personally i tried to develop a custom script using Google App scripts, its very much impossible because the mail format changes everytime"
+    },
+    {
+      "id": "m4ihjxx",
+      "body": "For that stats need to be maintained till everyone get placed right?"
+    },
+    {
+      "id": "m4ik46q",
+      "body": "But for that stats of all those who got placed should be used right"
+    },
+    {
+      "id": "m4ili6s",
+      "body": "That would result in weighted average and median. Colleges don't compute weighted measures for these stats. Although I'd like to add that weighted measures would have been more accurate"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "11i8kiq",
+  "title": "what should be the specifications for a laptop (CSE/ECE)",
+  "content": "Which laptop would you recommend?",
+  "metadata": {
+    "author": "Totally_for_academic",
+    "url": "https://www.reddit.com/r/PESU/comments/11i8kiq/what_should_be_the_specifications_for_a_laptop/",
+    "permalink": "/r/PESU/comments/11i8kiq/what_should_be_the_specifications_for_a_laptop/",
+    "score": 5,
+    "created_utc": 1677953102,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "jax9hpm",
+      "body": "16 GB Ram\n512 SSD storage\nI5 11th or more\nGood battery life\nMore than sufficient\n*Don't go for gaming laptops they cost more and their life is also less compared to normal ones\nAs said to me by seniors"
+    },
+    {
+      "id": "jaxcm7e",
+      "body": "Also if you are buying i5 11 th gen then try getting Evo chip"
+    },
+    {
+      "id": "jaz17fd",
+      "body": "Components like RAM can always be expanded/upgraded, so while picking make sure to prioritise the components that cannot be upgraded (like the processor, etc). \n\nAdditionally, it's *preferable* if your laptop has an Nvidia GPU. Quite a few tools/softwares require good GPU support. If you intend to get into ML (or are in AIML), then you should know that only Nvidia GPUs are supported by major frameworks you'll end up using for training models. You don't need a high end variant like a gaming laptop, a decent one will do. But again, it's absolutely *not a requirement* so don't worry about it if it doesn't fit your budget, different workarounds exist."
+    },
+    {
+      "id": "jaz9ajd",
+      "body": "I am buying Asus Vivobook pro 15. It has 16 gbs of RAM (non exp), 512 gb SSD (exp), Amd ryzen 7 5800H. And for dedicated graphics, it has Nvidia GeForce RTX 1650 (4gb). It has a good battery life, refresh rate and display is good too. Other specifications are good, i believe, but is the graphics card good?"
+    },
+    {
+      "id": "jazghgr",
+      "body": "Yup more than enough"
+    },
+    {
+      "id": "jazgv1q",
+      "body": "nice name"
+    },
+    {
+      "id": "jb3j0kc",
+      "body": "Most newer DDR5 Ram is soldered, so you have to keep an eye out."
+    },
+    {
+      "id": "jb4ms4v",
+      "body": "So you don't need a powerful GPU for ece/cse?"
+    },
+    {
+      "id": "jb6mnxf",
+      "body": "*Need*? No. If it's within your budget, go for it. No need to break the bank. Talking about CSE here btw."
+    },
+    {
+      "id": "jb8tzo9",
+      "body": "No idk if we have any CAD courses or some courses in the future sems which require strong graphics, so I'm kinda confused"
+    },
+    {
+      "id": "jb8uty9",
+      "body": "Nah, you don't have any CAD courses in CSE atleast"
+    },
+    {
+      "id": "jb8wvnz",
+      "body": "Ece?"
+    },
+    {
+      "id": "jb8wzp7",
+      "body": "Someone from ECE can answer better. I was in CS"
+    },
+    {
+      "id": "jba1m4q",
+      "body": "Can you share a link for this?"
+    },
+    {
+      "id": "jbam6x8",
+      "body": "Sure. This model has R7-4800H. I have bought the one with R7-5800H in an asus store. The rest specifications of mine are mostly same to this. It costs around 7000 Rs more than this. This laptop is awesome and it feels so good while using it.\n\nTake a look at this ASUS Vivobook Pro 15 Ryzen 7 Octa Core AMD R7-4800H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Max Q) M6500IH-HN702WS Creator Laptop on Flipkart\nhttps://dl.flipkart.com/s/Ucl3dXuuuN"
+    },
+    {
+      "id": "jbankbn",
+      "body": "Ok thanks"
+    },
+    {
+      "id": "jft7xd9",
+      "body": "If you are buying now, buy a mac, literally any model with the silicon chip will do, it will cost you around 10-12k more than the models being suggested in the other responses but macs are quality machines that last a long long time and do not give you any trouble. You do not need GPU specs and all that because however powerful a GPU you get the GPU in Google Colab will be more powerful and most heavy computations are done on the cloud now anyway. Try getting a model with 16GB RAM and 512GB SSD atleast though. No need to rush into your purchase, just wait for the right deal you will get it.\n\nAs far as compatibility goes, I'm in CSE(batch of 2023) and have had absolutely no trouble with mac in my entire college life."
+    }
+  ]
+}

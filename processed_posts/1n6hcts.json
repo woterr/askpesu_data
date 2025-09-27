@@ -1,0 +1,41 @@
+{
+  "id": "1n6hcts",
+  "title": "[Discussion] Don't yall think there should be a pinned thread for PESU students to share their projects?",
+  "content": "Most of the time its just some repetitive questions, memes, rants.\n\nThis thread could include :\n\n* side projects\n* hack builds\n* fun or experimental stuff\n\nA good example would be PESU Attendance extension\n\nA showcase like this would highlight useful work that could benefit students and also inspire more people to start building and sharing their own projects.\n\nu/rowlet-owl",
+  "metadata": {
+    "author": "Known-Anxiety-4407",
+    "url": "https://www.reddit.com/r/PESU/comments/1n6hcts/discussion_dont_yall_think_there_should_be_a/",
+    "permalink": "/r/PESU/comments/1n6hcts/discussion_dont_yall_think_there_should_be_a/",
+    "score": 31,
+    "created_utc": 1756813843,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "nc0fif2",
+      "body": "Great idea, but sadly there is a chance that private projects could be doxxed publicly without proper moderation."
+    },
+    {
+      "id": "nc0ptqe",
+      "body": "Thanks for the tag, and nice idea. While we do not have a \"thread\" for it (and a single thread would be the worst way to show these), we do have something similar already. Here is the link to PESU Dev: [https://github.com/pesu-dev](https://github.com/pesu-dev)\n\nPESU Dev is a small (but growing) community of devs who build apps and tools that support students at PESU. A lot of \"by PESU, for PESU\" vibes. Some of the stuff we have built includes,\n\n* PESUAuth - the authentication API used by PESU Discord and a host of other clubs/servers\n* pesuacademy-py - A Python wrapper for PESU Academy, offering full read-only access to the website\n* PESU OAuth2 - an OAuth2 interaction layer for clubs and groups in college to support app development\n* askPESU - a QA bot for PES\n* PESU-Api - An extensive set of APIs built on top of our existing projects\n\nWe also have many ongoing projects too.\n\nWe are a fully open-source community, with active contributors including alumni (like me!) and incoming students (that's right, the 2029 batch too :D). Our projects aren't just \"hobby projects\". Most, if not all, have a live production version that can be used, and we adhere to many high-quality software engineering principles in development. PESU Dev is meant to be very representative of how the SWE field works, so this does help you guys learn to build something beyond just a \"student project\". \n\nHowever, note that we are not affiliated to PESU in any way. This was started and maintained by me (yes, I build and mentor some of the work here) and Han (from Discord) as a means to build for PESU and mentor/guide kids in the process. If you are interested, join the PESU Discord server, get the Dev Engineer role, and head over to pesu-dev. Ping one of us, or just drop a hello.\n\nAnd we already have meme-quality feedback (S\\*\\*\\*\\*\\*\\* if you are reading this, sorry bro):\n\nhttps://preview.redd.it/ydk6qqj5hrmf1.png?width=1024&format=png&auto=webp&s=4b7b5c7c1bcc6700bdf2a0b4cfedddd82bc8b417\n\nAnd PS: if you built the PESU attendance extension, or know who did, please redirect them to us so we can put up their project on the org."
+    },
+    {
+      "id": "nc0v88y",
+      "body": "I mean those who are willing to dox themselves may go for it."
+    },
+    {
+      "id": "nc0vnav",
+      "body": "As a professional meme character (present at the bottom in the image shared), I can confirm that pesu-dev has actually helped a lot in expanding my skill set. Over the last 2 months, I've contributed to auth, and pesuacademy.py, and recently became a maintainer/developer for askPESU. \n\nUnlike many clubs (not naming them) in pes, pesu-dev actively mentors all the interns and makes sure that every person who is interested in learning gets the chance to contribute to a project on pesu-dev. \n\nThis adds crazy portfolio/resume value and gives you an insight of how actual companies work. good stuff 🔥\n\nAlso, since many individuals have asked me this, yes, im a student from 2029 batch."
+    },
+    {
+      "id": "nc0w6sz",
+      "body": "I'm talking about people who would doxx others. Go check out rowlet's comment tho since github has better privacy features."
+    },
+    {
+      "id": "nc0wj5j",
+      "body": "Alr, I didnt consider that part 😭"
+    }
+  ]
+}

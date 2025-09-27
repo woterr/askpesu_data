@@ -1,0 +1,49 @@
+{
+  "id": "1nin04j",
+  "title": "[Placements] Emails getting delayed",
+  "content": "I have been receiving my emails sent by the placement cell hours late. I have been facing the same issue for weeks. Anyone facing a similar problem? If yes, how did u resolve it?",
+  "metadata": {
+    "author": "Realistic-Flounder42",
+    "url": "https://www.reddit.com/r/PESU/comments/1nin04j/placements_emails_getting_delayed/",
+    "permalink": "/r/PESU/comments/1nin04j/placements_emails_getting_delayed/",
+    "score": 16,
+    "created_utc": 1758041749,
+    "flair": "Placements 🤑",
+    "nsfw": false,
+    "type": "submission"
+  },
+  "comments": [
+    {
+      "id": "nejymly",
+      "body": "Most people are having the same issue; And sadly there is no solution for it"
+    },
+    {
+      "id": "nejyzru",
+      "body": "Thanks..ping me if u find any solution for it"
+    },
+    {
+      "id": "nejz9de",
+      "body": "I talked in the placement cell, he added my mail id seperately to the mail list, I received email for 2-3 days, then the problem started again; Now they are using placement app, so might not be a big issue in upcoming weeks"
+    },
+    {
+      "id": "nejzavo",
+      "body": "nah i believe they might be sending the mails late, usually around 11 at night"
+    },
+    {
+      "id": "nejzhqd",
+      "body": "They are sending it early; Sometimes it happens like they send the email at morning 11 and some people receive it at 6 or 7 in the evening."
+    },
+    {
+      "id": "nek02ef",
+      "body": "The main issue is the deadlines would have been passed by the time the mail is received"
+    },
+    {
+      "id": "nek0aq6",
+      "body": "Yeah that's completely true; Sometimes, some mails are not delivered at all; They could have used some other platform like Google groups or google classroom, instead of Google mail list."
+    },
+    {
+      "id": "nenwer0",
+      "body": "I suspect it's due to rate limiting from Google. They send the emails through Google groups. A solution is to go to groups.google.com and keep refreshing it to get updates. We can probably automate this polling and send a notification if a new message is sent there."
+    }
+  ]
+}
