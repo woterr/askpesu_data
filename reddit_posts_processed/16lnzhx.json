@@ -1,0 +1,27 @@
+{
+  "id": "16lnzhx",
+  "title": "Placements",
+  "content": "Can anyone share few interview experiences as the placements season has started and I am really confused and helpless?",
+  "metadata": {
+    "root_comment_id": "k13s9ul",
+    "post_id": "16lnzhx",
+    "author": "bojackarman",
+    "url": "https://www.reddit.com/r/PESU/comments/16lnzhx/placements/",
+    "permalink": "https://reddit.com/r/PESU/comments/16lnzhx/placements/",
+    "score": 2,
+    "upvote_ratio": 1,
+    "created_utc": 1695019084,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "k13s9ul",
+      "body": "Back when I was giving my interviews\nHaving some leetcode knowledge to clear the first round\nAnd\nCracking the coding interview book was more than sufficient.\nIf I remember correctly , they also ask a bit of computer networks mostly on how dns works etc\nRest are all good to know.\nBased on companies requirements.\n└── Thank you for sharing this !!"
+    },
+    {
+      "id": "k1j585x",
+      "body": "Best way to go about this is to find seniors from college working in the companies your targeting on LinkedIn and message them asking for their interview experience or any other specific questions you have. This is more helpful for interview rounds or if you want to know the exact pattern of a first round test. \nThis is in addition to the general leetcode and cs fundamentals prep required to get you past the coding round itself\n└── Thank you for sharing...will do this !!"
+    }
+  ]
+}

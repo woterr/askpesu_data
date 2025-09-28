@@ -1,0 +1,43 @@
+{
+  "id": "1alv5ar",
+  "title": "How important is capstone when it comes to placements (CSE) ?",
+  "content": "In capstone, the credits are distributed such that 2 credits in 6th sem, 6 credits in 7th sem, and 2 credits in 8th sem (Correct me if I am wrong), and from what I've heard, after 6th sem, your gpa is no longer considered when it comes to sitting for placements. Can any senior verify this information for me? So if CGPA is only considered until 6th sem, then whatever grade you get in 7th and 8th sem doesn't really matter purely for placements? Considering how bad the market is right now, I'd be more than happy to be placed anywhere regardless of salary, and that includes tier 3 companies as well. (I'm not very talented nor motivated enough to work really hard in terms of DSA or making any new projects) Also, for any reason, if I somehow mess up the implementation part of the capstone project, what is going to happen to me? Did this ever happen to anyone? Thanks in advance for patiently reading my questions.",
+  "metadata": {
+    "root_comment_id": "kphbwgj",
+    "post_id": "1alv5ar",
+    "author": "Disastrous-Bug3412",
+    "url": "https://www.reddit.com/r/PESU/comments/1alv5ar/how_important_is_capstone_when_it_comes_to/",
+    "permalink": "https://reddit.com/r/PESU/comments/1alv5ar/how_important_is_capstone_when_it_comes_to/",
+    "score": 11,
+    "upvote_ratio": 0.9300000071525574,
+    "created_utc": 1707397183,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "kphbwgj",
+      "body": "Very handy for your resume and when your recruiter will check your resume they would check on your capstone project especially because you would use the concepts that you have been taught in these 4 years of college.\n├── Even tier 3 companies??\n└── Tbh the project won't even be implemented at the time of interviews xD\n\nThe capstone project actually doesn't play any major role. Most kids just do the bare minimum.\n    └── Hey bro, OP wrote in this post that companies only check CGPA until 6th sem and grades in 7th sem and 8th sem do not matter for placements, is it true? I need a senior to clarify this.\n        └── Your last available CGPA is used. If you're applying in 7th sem, then your 6th sem CGPA is used. Similarly, if you're in 8th sem and still applying then your 7th sem CGPA is used.\n            └── Oh, but I thought they only consider CGPA till 6th sem, so by chance if I don't get placed before the results of 7th sem, I'll be at a disadvantage if my CGPA goes down further? But then if I stay between 7 to 8 range of CGPA, it wouldn't matter where I am in that range right? Because most companies put the cutoff as either 7 or 8, I know cut offs like 7.5 do exist, but they're kinda rare, right?\n                └── Yeah, if your CGPA goes down in 7th sem it'll be an issue. Ideally, try to improve your CGPA."
+    },
+    {
+      "id": "kphd1ng",
+      "body": "Any company recruiter would look into your skills and achievements"
+    },
+    {
+      "id": "kphpyo4",
+      "body": "Don't aim for or be ok with a tier 3 company so quickly. It doesn't matter which company it is your resume matters. If you plan on adding your capstone to your resume then make sure you do it well. It will not only help your resume but it'll also give you experience working on a proper project."
+    },
+    {
+      "id": "kphpyof",
+      "body": "TLDR - Not really.\n\nLong answer - \n\nThe capstone project is a research focused project you need to pursue across 3 sems. So if you're focusing on research based opportunities like fellowships and the like, it doesn't help too much *directly*. If you are, you better put in your best foot forward because it's a very good opportunity to build a strong thesis and make it part of your CV. A lot of students (including me) have gone on to publish their work at some of the world's most renowned conferences, but that required us to put in time and effort into this. When you do interview for such roles, your capstone will play an important part. My prior research experience helped me get into research roles at top MNCs as well. Also, the thesis will also help you in the future if you're looking at research based MS programs, since an UG thesis and research carries a good amount of weight in determining how adept you are at carrying out good work.\n\nNow let's look at it from the perspective of the industry and work experiences. No, it doesn't directly help you since research isn't what SWE roles look for in candidates. So, if you already have a good collection of projects, good problem solving skills, etc, then you're good to go. In fact most kids from PES aren't interested in the research line and perform the bare minimum for capstone so they can focus on securing a job. On the other hand if you don't have any good projects, it's best to put in a little bit of effort into building something decent and presentable so it makes your resume stronger. But at the end of the day, if you do clear the test and move to the interview rounds, it's extremely unlikely they'll ask you about your research work and focus more on things related to the job requirements' tech stack or your projects. So you're free to do the bare minimum as long as you have something else up your sleeve to strengthen your profile."
+    },
+    {
+      "id": "kphw3zf",
+      "body": "So recently I have started hiring SDEs and peeps\n\nAlthough capstone in the way we treat isn't helpful for recruitment and stuff, what i have also noticed is that a lot of developers lack practical development knowledge!\n\nSo, I would say, if you treat your capstone as a real world project where it actually showcases your skill and thought process, it will definitely help in placements..\n\nHowever, you can also pickup external projects (on your own interest) that show the same!\n\nSo in summary, have some practical projects in your portfolio/resume; as Capstone Project is compulsory, this could be that project which gives you the apt knowledge and the edge over others during placements"
+    },
+    {
+      "id": "kpi6cny",
+      "body": "As far as I have seen, very important\nPlus u can put it in ur resume to make a good impression\nThere r even good clubs in pes like research etal which help u with just that"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "we6emm",
+  "title": "DSA courses and material",
+  "content": "Where can I find DSA courses preferably in C because that's what our college is teaching in 3rd sem ?",
+  "metadata": {
+    "root_comment_id": "iio69f4",
+    "post_id": "we6emm",
+    "author": "Illustrious-Egg-3183",
+    "url": "https://www.reddit.com/r/PESU/comments/we6emm/dsa_courses_and_material/",
+    "permalink": "https://reddit.com/r/PESU/comments/we6emm/dsa_courses_and_material/",
+    "score": 9,
+    "upvote_ratio": 1,
+    "created_utc": 1659429742,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "iio69f4",
+      "body": "Not courses per se, but there's a **TON** of content online for DSA in any major language and that includes C. Most of it is beginners guide or crash course. That should help a bit. \n\nOne method doesn't work for everyone. Take your time to search for an educator / method on any platform (YouTube, Coursera, Udemy, etc) you're comfortable with and decide if you're willing to pay or not.\n\nFor pointers, take a look at your course contents in each unit and search that particular topic. That should expose you to different content creators and their methods of teaching.\n\nI just googled the topics and I ended up watching the highest viewed guide which may be videos or blogs and documentation (not always) to learn."
+    },
+    {
+      "id": "iiqs0um",
+      "body": "Try [https://www.udemy.com/course/datastructurescncpp/](https://www.udemy.com/course/datastructurescncpp/)\n\nMastering Data Structures & Algorithms using C and C++\r  \nLearn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting."
+    }
+  ]
+}

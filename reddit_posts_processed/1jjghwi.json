@@ -1,0 +1,27 @@
+{
+  "id": "1jjghwi",
+  "title": "Title needs help",
+  "content": "Whenever i try connecting to PESU network i get this error. Your advice would be great help to me",
+  "metadata": {
+    "root_comment_id": "mjmv1kx",
+    "post_id": "1jjghwi",
+    "author": "Shanky_S25",
+    "url": "https://i.redd.it/yeyajja7ftqe1.png",
+    "permalink": "https://reddit.com/r/PESU/comments/1jjghwi/title_needs_help/",
+    "score": 21,
+    "upvote_ratio": 1,
+    "created_utc": 1742899629,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "mjmv1kx",
+      "body": "Download the authenticator or check your security preferences on brave"
+    },
+    {
+      "id": "mjnhn5t",
+      "body": "Forget the network, clear cookies.. \n\nI was unable to login to pesu academy on brave.. I did the above mentioned and the issues resolved.. so give it a try"
+    }
+  ]
+}

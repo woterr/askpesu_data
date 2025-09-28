@@ -1,0 +1,39 @@
+{
+  "id": "1542g2s",
+  "title": "Should i buy a laptop?",
+  "content": "I have an i3(8th gen) with 1tb HDD and im joining aiml branch. I saw a few posts about needing a graphics card so should i buy a new laptop?",
+  "metadata": {
+    "root_comment_id": "jsmge3j",
+    "post_id": "1542g2s",
+    "author": "SnooPeanuts5648",
+    "url": "https://www.reddit.com/r/PESU/comments/1542g2s/should_i_buy_a_laptop/",
+    "permalink": "https://reddit.com/r/PESU/comments/1542g2s/should_i_buy_a_laptop/",
+    "score": 2,
+    "upvote_ratio": 1,
+    "created_utc": 1689790311,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jsmge3j",
+      "body": "Just put in an ssd and you will thank yourself...1dt year won't require much compute power....although you would need to upgrade after a year or two at most (l am also joining PES....information regarding compute power gathered from some seniors that I have talked too..)\n└── Is there any particular laptop they recommend? Thanks for the reply tho\n    └── Depends on your budget and also laptop prices will drop drastically in March to May....also a lot of companies have their back to school or extra student discounts so check for them\nGeneral guide don't be a fool and get a U or P series cpu for battery life....their performance sucks...get an H series chip for intel 12th gen on above for amd I would say wait till Jan to see their Phoenix and other launches at CES 2024(Jan)....leaks suggest they will pack quite the punch\n        └── Are U That Bad?\nI have a Ryzen 7 7735U and It's Quite Snappy\n            └── Snappy isn't shit....after a few years you will feel it to be painful to use it....after each update the hardware is taxed more and more with background activities....and the silicon degradation happens faster on them because they are the worst parts of the wafer\nThey are just a way for fabs to use their sub par production and the marketing makes it look great\n                └── A Laptop's Typical Life is a few years..\nA PC is built to last\n                    └── You should be able to use it comfortably for atleast 5 yrs...with a u series you will not get more than 4 yrs of comfortable use...\nUnless you desperately need the battery life it is never worth it to go for them\n                        └── Hmm Maybe?\n                            └── Maybe what?....need the battery life?\n                                └── I love Ultrabooks and Battery is definitely a thing for me\n                                    └── Alright good for you then!\n                                        └── Yah"
+    },
+    {
+      "id": "jsn8dd5",
+      "body": "Yeah you will need a good laptop"
+    },
+    {
+      "id": "jsoftg1",
+      "body": "is laptop needed for first year?\n└── Yes, would be helpful for practicing Python and C.\n    └── should i carry it to pes or keep it at home?\n        ├── You might be required to carry it to college\n        │   └── alright thanks!\n        └── Might be needed to carry it to college"
+    },
+    {
+      "id": "jsongdd",
+      "body": "The processor might not be enough. I suggest you a better laptop. But it depends on what would you be using your laptop for. Since you are joining AIML. You need to see, Afaik A high end Graphics card is necessary for AIML\n└── Is a 3060 enough?\n    └── Go with a 4050 instead....it has better neural engines and ai accelerators"
+    },
+    {
+      "id": "jsopjxv",
+      "body": "My suggestion would be for you to use it for 1st year and then buy a new laptop when you enter 2nd year, I recommend this because you will get the latest iteration of tech at the time and you will have a fair idea as to what kind of laptop you need."
+    }
+  ]
+}

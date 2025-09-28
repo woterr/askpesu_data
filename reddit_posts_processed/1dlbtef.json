@@ -1,0 +1,27 @@
+{
+  "id": "1dlbtef",
+  "title": "Python web frameworks",
+  "content": "Does anyone know a good Python web framework for interactive apps that had a good  set of widgets and is also easy to code?",
+  "metadata": {
+    "root_comment_id": "l9q7pws",
+    "post_id": "1dlbtef",
+    "author": "strange_panther21",
+    "url": "https://www.reddit.com/r/PESU/comments/1dlbtef/python_web_frameworks/",
+    "permalink": "https://reddit.com/r/PESU/comments/1dlbtef/python_web_frameworks/",
+    "score": 5,
+    "upvote_ratio": 0.8600000143051147,
+    "created_utc": 1718996584,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "l9q7pws",
+      "body": "Streamlit for the easiest coding but less flexibility. You look into flask or django if u require increased flexibility.\n└── Adding on, **Django** is by far the most popular. Documentation is excellent, which will help you get up and running.\n    └── Flask gives you more flexibility compared to Django\n        └── yeah yeah. Both are popular tbh"
+    },
+    {
+      "id": "labtv53",
+      "body": "Flask is best for someone inexperienced, It gives a clear picture of web development."
+    }
+  ]
+}

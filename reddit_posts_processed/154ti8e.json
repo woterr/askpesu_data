@@ -1,0 +1,27 @@
+{
+  "id": "154ti8e",
+  "title": "About to start 3rd sem ECE, need clarity and guidance",
+  "content": "Dear seniors,\n\nI am currently studying ECE (Electronics and Communication Engineering). Before joining PES, I was uncertain about my future career path, but I was confident in my abilities and knew that I would excel in any branch or field I choose to learn. During the first and second semesters, I found myself  interested in both Python and C programming, and I never got bored studying these subjects.\nNow, I am at a crossroads where I need to make an important decision - whether to continue in ECE or to prepare for CS (Computer Science) placements. My primary goal is to secure a job by the end of my fourth year, as my parents are eagerly waiting for me to start contributing financially as soon as possible.\n\n\nI have heard people saying that \"one should be hardworking and talented to secure a good package in ECE placements.\" Is this statement true? If I dedicate myself entirely to ECE subjects, will I have a good chance of obtaining a well-paying job?\nOn the other hand, f I decide to prepare for CS placements, what subjects and topics should I focus on? \n\nI would appreciate your guidance in both scenarios.\n\nYour insights will be invaluable in helping me make the best decision for my future.🙏",
+  "metadata": {
+    "root_comment_id": "jsr1cyf",
+    "post_id": "154ti8e",
+    "author": "inside_seed",
+    "url": "https://www.reddit.com/r/PESU/comments/154ti8e/about_to_start_3rd_sem_ece_need_clarity_and/",
+    "permalink": "https://reddit.com/r/PESU/comments/154ti8e/about_to_start_3rd_sem_ece_need_clarity_and/",
+    "score": 10,
+    "upvote_ratio": 1,
+    "created_utc": 1689865635,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jsr1cyf",
+      "body": "I am going into 5th sem this August, all thought I cannot tell anything about placements yet, I can give my 2 cents about 2nd year in ECE.\n\nDo not neglect these 2 particular subject:\nSignals and systems\nMaths for electronics engineerings\n\nYou use it everywhere in 4th sem and all your engineering if you take up communication or signal processing electives\n\n3rd sem many see a sharp fall in they CGPA. Mine did too, and I'll probably never recover from it.\n\nYou have to work on a project for every subject. And atleast 4 of them will be a team project, so choose competent teammates.\n\nMy name is Siddhant Biradar btw"
+    },
+    {
+      "id": "jsra1uu",
+      "body": "The statement \"one should be hardworking and talented to secure a good package in ECE placements.\" is indeed true, as it's very hard to graduate out of PES and get a Core ECE Job easily. You need to demonstrate your skills, improve them and please also focus on GPA. GPA carries an important role in ECE placements. Since your questions says, your parents are demanding for a job right after btech, you could look into the other domain(s) in ECE, namely Robotics. Placements for Robotics are far better compared to the core ECE placements. So you could try looking for those, if it interests you. \n\nIf you decide to go to CS-placements, there can be two scenarios:  \n1. You are intending to shift to CSE \\[if possible\\] now.  \n2. You will stay in ECE and prepare for CSE placements\n\nFor Scenario1:  \nWait for CSE ppl to answer \n\nFor Scenario2:  \nYou should take the Minor Courses that are offered in CSE and essentially find what interests you more and learn many things on your own, while managing ECE \\[it's hard, but worth the effort\\]. Also you could take online courses in case you are interested and also keep solving LeetCode, CodeChef etc. and keep practicing daily :)\n└── There's a question on FAQs about preparing for CS placements, and the chances of an ECE grad at CS placements. OP, please go through the links and post your questions if any."
+    }
+  ]
+}

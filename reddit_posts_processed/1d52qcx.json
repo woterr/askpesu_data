@@ -1,0 +1,31 @@
+{
+  "id": "1d52qcx",
+  "title": "Should i do dsa first before doing back end?",
+  "content": "currently in 2nd sem, till now i know front end-html,css,js,jquery and 3 programming languages-python,c,java...now should i start learning backend(node,react,sql,git,api etc) or first start dsa and \"grind leetcode\"",
+  "metadata": {
+    "root_comment_id": "l6ioecl",
+    "post_id": "1d52qcx",
+    "author": "Lem_on_00",
+    "url": "https://www.reddit.com/r/PESU/comments/1d52qcx/should_i_do_dsa_first_before_doing_back_end/",
+    "permalink": "https://reddit.com/r/PESU/comments/1d52qcx/should_i_do_dsa_first_before_doing_back_end/",
+    "score": 4,
+    "upvote_ratio": 1,
+    "created_utc": 1717180555,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "l6ioecl",
+      "body": "Firstly, are you doing these for the sake of placements? Because that's the completely wrong approach. Explore and find out what you're interested in and work on that. Don't blindly follow a field just because some random YouTube video told you it's the only way to get placed. You're not even in 2nd year and you're already thinking about placements without even figuring out your interests? C'mon dude, this is not how CS is supposed to be done. People start preparing only from late 3rd year. Now's the time to explore this vast field. If all you care about is placements, then it shows you weren't even interested in CS to begin with. \n\nAlso the fact that you included \"git\" as a part of \"backend development\" clearly shows how you don't have any clue about what you're doing. I'd suggest going back to square one and revisiting what exactly you want to pursue *in* CS."
+    },
+    {
+      "id": "l6iq7n6",
+      "body": "Do you want to become a **LeetCode monkey** lol? Bro, first figure out your interests and explore, then you can start preparing all dev stuff.   \nFYI, \"git\" is not Backend, its a Version control system\n└── Wait until they hear that you can get placed even without LC (yes shocker I know)!"
+    },
+    {
+      "id": "l6iuv7c",
+      "body": "first dsa then dev"
+    }
+  ]
+}

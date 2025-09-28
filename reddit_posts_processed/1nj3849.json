@@ -1,0 +1,23 @@
+{
+  "id": "1nj3849",
+  "title": "[Question] Big Data ISA pattern",
+  "content": "Can any senior please tell how the big data isa is going to be? Will they ask us to code or will they just give snippets and ask us to tell what they do. Also, what kind of questions are each 1) 4markers 2) 2markers 3) 1marker",
+  "metadata": {
+    "root_comment_id": "nendxcv",
+    "post_id": "1nj3849",
+    "author": "wassupmyniga",
+    "url": "https://www.reddit.com/r/PESU/comments/1nj3849/question_big_data_isa_pattern/",
+    "permalink": "https://reddit.com/r/PESU/comments/1nj3849/question_big_data_isa_pattern/",
+    "score": 9,
+    "upvote_ratio": 1,
+    "created_utc": 1758082191,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "nenevx2",
+      "body": "They didn’t ask to code anything outright, mostly code snippets and guessing output and for 4 markers, it was explaining different architectures and diagrams\n└── Can u give an example of what the diagrams or architectures they asked u guys to explain for isa 1? Just so i can get an idea\n    └── With a diagram showing how map reduce works , it’s there in Vibha notes , writing a file , reading a file hdfs architecture"
+    }
+  ]
+}

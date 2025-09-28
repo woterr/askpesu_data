@@ -1,0 +1,35 @@
+{
+  "id": "17donao",
+  "title": "RISC-V project",
+  "content": "I wanted to know if anyone had Risc-v Course in their 5th Sem(Ece). If they had it... how they did their project and from where did they get their project idea",
+  "metadata": {
+    "root_comment_id": "k5y04pe",
+    "post_id": "17donao",
+    "author": "San_07",
+    "url": "https://www.reddit.com/r/PESU/comments/17donao/riscv_project/",
+    "permalink": "https://reddit.com/r/PESU/comments/17donao/riscv_project/",
+    "score": 6,
+    "upvote_ratio": 1,
+    "created_utc": 1697963396,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "k5y04pe",
+      "body": "Go approach your prof bro\n└── I will but we have a deadline to fill the project topic by today\n    └── Is it compulsory to do a RISC-V related project?\n        └── Yep. The language has to be assembly language for single cycle Risc-v processor\n            └── Do a loop unrolling project\nOn ripes\n                └── Thanks I'll look into it"
+    },
+    {
+      "id": "k5ytzzu",
+      "body": "Hey, I am having RISC-V this semester. To get ideas for the project, first look up on IEEE XPlore (Google for it). Search for research papers. \\[This is, if you want to do a *very-good project and that you want to be a highlight in your resume*\\]. \n\nBut if you want to do a simple project and *hate* this subject, just do some sorting algorithm in assembly language. That should be it. But explain nicely in class.\n└── Ok I'll check it out thanks for your response"
+    },
+    {
+      "id": "k5z3g5h",
+      "body": "I had it 2 sems back. They gave us a list last year. I ended up doing k means clustering in risc v"
+    },
+    {
+      "id": "k5zn8t8",
+      "body": "Bro do BFS/DFS or some graph implementation. You'll find plenty resources online."
+    }
+  ]
+}

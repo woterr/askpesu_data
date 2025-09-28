@@ -1,0 +1,23 @@
+{
+  "id": "1mw6g2t",
+  "title": "[Question] how to prepare for BD",
+  "content": "How do i prepare for bd , I feel this is quiet diffreent form other subject the hands on and theorey , how do i prepare so i could get maximum marks.  \nAlso how are the isa and esa gonna be",
+  "metadata": {
+    "root_comment_id": "n9v6bqa",
+    "post_id": "1mw6g2t",
+    "author": "Then-Tradition-6284",
+    "url": "https://www.reddit.com/r/PESU/comments/1mw6g2t/question_how_to_prepare_for_bd/",
+    "permalink": "https://reddit.com/r/PESU/comments/1mw6g2t/question_how_to_prepare_for_bd/",
+    "score": 6,
+    "upvote_ratio": 1,
+    "created_utc": 1755769577,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "n9vc40o",
+      "body": "ISAs and ESAs are generally easy, but the slides don’t explain the concepts well. It’s better to Google each topic and study from there.\nThe real challenge is the BD assignments, they’re known to be strict. Even a small block of similar code can get flagged for plagiarism. You’ll have to submit your solutions on a portal that works like Codeforces, running your code against all test cases to check if it’s accepted. Make sure you write the code entirely on your own, and try to implement it in an unorthodox way to avoid plagiarism detection."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "15h7x2i",
+  "title": "Math's 1st year syllabus..",
+  "content": "What is the syllabus for 1st year mathematics in pes university? \n\nWhich topics are covered?\n\nAre all topics from the book \"Higher mathematics by Bs Grewal\" covered in 1st year?\n\n&#x200B;",
+  "metadata": {
+    "root_comment_id": "jumznk5",
+    "post_id": "15h7x2i",
+    "author": "iopjhugyvju",
+    "url": "https://www.reddit.com/r/PESU/comments/15h7x2i/maths_1st_year_syllabus/",
+    "permalink": "https://reddit.com/r/PESU/comments/15h7x2i/maths_1st_year_syllabus/",
+    "score": 4,
+    "upvote_ratio": 1,
+    "created_utc": 1691077834,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jumznk5",
+      "body": "1st sem its differential calculus chapter 1 is partial differentiation, chapter 2 and 3 are methods of solving differential equations, chapter 4 is partial differential equations, chapter 5 was  special functions\n\n2nd sem was mostly integral calculus chapter 1 is multiple integrals, chapter 2 was probability,3 Laplace transforms,4 Fourier series,5 Fourier transforms\n└── thank you for your help"
+    },
+    {
+      "id": "jun3m0s",
+      "body": "So for 1st sem mathematics you need to be thorough with all your calculus and trigonometry of 11th and 12th because that serves as the fundamentals. Around 60 percent of 1st sem maths is going to be on solving differential equations and one unit will be on partial differentiation and the final 5th unit would be on special functions (functions which would simplify certain integrals) .\n2nd sem maths is easier , that being said , it's almost a continuation of 1st sem maths . It starts off with double and triple integrals as the first unit . 2nd unit you have probability, which was newly added to our syllabus and was picked up from SDS(statistics for data science , which is a course taught in 3rd sem cse) , and then you have Laplace transforms and Fourier transforms (which is essentially transforming from the time domain to frequency domain in order to simplify the problem ) and one unit of Fourier series .\nPeople generally say that first and second semester maths is hard , however I feel that if you just focus in class and solve the tb during the esa 's it's easy enough to score an A grade (which I did in both the semesters)\n└── thx for your help"
+    }
+  ]
+}

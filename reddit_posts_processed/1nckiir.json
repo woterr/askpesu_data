@@ -1,0 +1,31 @@
+{
+  "id": "1nckiir",
+  "title": "[Question] Laptop Guide Please.",
+  "content": "Iam from core cse.i have to buy a laptop but not sure which one to buy (i.e: gaming laptop or a normal one) .Will we have ai related task in college that would require dedicated graphics card or just a normal one will work fine for 4 years.?\n\nThank you",
+  "metadata": {
+    "root_comment_id": "nd9razf",
+    "post_id": "1nckiir",
+    "author": "Living_Squirrel_9003",
+    "url": "https://www.reddit.com/r/PESU/comments/1nckiir/question_laptop_guide_please/",
+    "permalink": "https://reddit.com/r/PESU/comments/1nckiir/question_laptop_guide_please/",
+    "score": 2,
+    "upvote_ratio": 0.75,
+    "created_utc": 1757428280,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "nd9vsjq",
+      "body": "Really depends on what you want to prioritise. If you enjoy games, of think you will want to enjoy games, ai is a good excuse.\n\nIf not, I would strongly suggest going for a high spec business laptop, something like a higher end think pad, and using Linux on it.\n\nI would avoid macs as they are not going to allow you to get Linux on them, without virtualization.\n\nI had used both a gaming and a business laptop in college (company laptop and my own), and found that the business one was better to carry about, but when I wanted to play, my gaming laptop was hands down better.\n\nAs far as specs go, ensure\n1. More ram is more good\n2. Ddr5 may not always be ideal (it increases boot time slightly)\n3. Ensure you get atleast 512gb of nvme. Do not buy anything which comes with a hard disk.\n4. I5 current gen or equivalent is paramount.\n5. Amd has better perf / rupee, but you get smaller choice.\n6. Build quality matters. Prefer aluminium chassis over plastic.\n7. Make sure the laptop hinges are of very good quality.\n8. Lie flat display> any others\n9. Pantone validated etc don't matter unless you deal with pantone colors\n10. Touch is useless, and will only make your laptop slower in a few years\n12. Avoid real tek wifi cards unless they are upstreamed in the Linux kernel \n13. Prefer intel wifi over most others\n14. Avoid nvidia if you can\n└── Adding to this, we had created a detailed laptop purchasing infographic which is in the FAQs. Do take a look: [https://www.canva.com/design/DAFmz\\_SDea0/C35otbB59HZGS3p7XJsajQ/view](https://www.canva.com/design/DAFmz_SDea0/C35otbB59HZGS3p7XJsajQ/view)\n    └── Btw, the current meta on macs favours m5l4 over m2 and 1, add the m4 comes with 16gb Ram by default"
+    },
+    {
+      "id": "ndb5akj",
+      "body": "If you want to play games, then buy a gaming laptop. Else just buy a normal one.\n\nNo, you don't need a dedicated gpu for college"
+    },
+    {
+      "id": "ndf6bk7",
+      "body": "Thank u guys"
+    }
+  ]
+}

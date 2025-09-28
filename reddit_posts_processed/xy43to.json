@@ -1,0 +1,39 @@
+{
+  "id": "xy43to",
+  "title": "dilemma with the langauges we learn",
+  "content": "So we r learning c as a procedural language and python as oop  in first year, but then everywhere i go people prefer java or c++ for placements , data structure and oop language, even in competative i see mostly c++, so why is it that  we are learning  c for?just to build everything  from scratch again? And there r few other languages like rust and go(planning to learn em) , so what language exactly  i should learn to get  placed or for general dsa?",
+  "metadata": {
+    "root_comment_id": "irfchek",
+    "post_id": "xy43to",
+    "author": "Fun-Understanding862",
+    "url": "https://www.reddit.com/r/PESU/comments/xy43to/dilemma_with_the_langauges_we_learn/",
+    "permalink": "https://reddit.com/r/PESU/comments/xy43to/dilemma_with_the_langauges_we_learn/",
+    "score": 5,
+    "upvote_ratio": 0.8600000143051147,
+    "created_utc": 1665161506,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "irfchek",
+      "body": "Learn cpp properly. If you wanna go for machine learning then python. But my suggestion is cpp and c doesn't matter. Nobody ask C"
+    },
+    {
+      "id": "irfdss9",
+      "body": "Languages you learn for DSA is completely what you're comfortable with. There is no preference over there. There are certain companies that require proficiency in a particular language but otherwise no one forces you to code in a language of their choice.\n\nWhy we're learning C? To help get a better understanding of how programming / Opertating systems work behind the curtains. It is really interesting if you take it up.\n\nC is used for DSA because it is very simple in it's structure. Explains all DSs without the nuances and complications or in some cases, the extra simplification of other languages (looking at you, python).\n\nYes C++ could be used, but since C is already being taught, there is that continuity. You forget that not everyone is familiar with programming. They stick to what is already taught to them. Also who tf wants the arduous process of teaching another language in the core curriculum?? Absolute waste of time.\n\nI work with Networks, BSD, Linux OSes and LTE. I ONLY use C. I write drivers and interface new NICs to existing servers / OS. Not all \"programming\" is Java and C++. \n\nIf you're in the process of picking a language to learn, I'd recommend you first take liking to a domain you're interested in and then learn the languages / tech used there."
+    },
+    {
+      "id": "irfe1ar",
+      "body": "The language of choice is often determined by the use-case. Most people prefer C++ for DSA since it is not building from scratch like C and avoids the timeout issues like Python. Python is used extensively in Machine Learning to create models. Other languages have other uses, and all of these are strictly based on what the use-case is. The language of choice often depends on the availability developer support, the ease with which it gets the work done and also ofc things like performance and latencies. \n\nI work in Big Data Analytics and work with Kafka, Flink etc and use mainly Scala and Python on a daily basis for different tools/tasks. It all depends on the application. There is no one-language-for-all solution to this. As you explore and find fields that require a different language, you will need to learn it to get along.\n\nAs for \"general DSA\", although almost everyone prefers C++ (for a large number of very good reasons), I personally did not. I chose Python, my reasons being (1) I had experience in this language for over 6 years and know it extremely well (2) This made my implementation of different approaches extremely fast, since I did not need to think twice about syntax, (3) Certain things are often super easy in Python - arrays, graphs, lists, stacks, queues and (4) Certain inbuilt functions can be used without significantly adding execution time (sorting, reversing, slicing etc are so much easier). I would suggest that instead of choosing a language that helps solve all problems, choose the language that helps solve a particular type of problem - Python for graphs/arrays, C++/C for trees/heaps/tries and so on. At the end of the day, choose the one which makes your life most convenient for a given problem.\n└── Did you face any difficulty in coding rounds or interview rounds when you used Python to solve the problems specially the DSA ones for placements. Cuz I've heard interviewers don't like python for various reasons. Also some companies don't give python as a choice to code in during coding rounds. Is that true?\n    └── Not really. Never faced any issues, even during interviews."
+    },
+    {
+      "id": "irfkr9z",
+      "body": "The point is to learn the process of programming, not a particular language. Ideally after these courses you should be able to pick up the basics of any new language within a week."
+    },
+    {
+      "id": "irh46wu",
+      "body": "Languages are cool! But they're not all there is to computer science. You're not learning \"C as a procedural language and Python as OOP\"; you're learning C with some of its features, and you're learning Python with some of its features. The college thinks that these features will be beneficial for you to understand in the long-term (the concepts of class and instance are integral to ALL OO languages, map and reduce are critical to functional programming, pointers are the bread-and-butter of systems engineers). They don't want to teach you a paradigm (yet), they just need you to have a shared vocabulary for the rest of the year so that you can navigate courses like operating systems or compiler design without being bogged down by language-specific nonsense. \n\nC is actually *perfect* for this reason. It's basically readable assembly code. (I write most code in C so I'm a little biased but I write C for a good reason). This means you'll have to learn how the code actually fucks up, without being coddled by out-of-bounds exceptions or containers. (In fact, C++ being a very fascinating language, would be a TERRIBLE language to start with. Any introductory C++ course ends up just teaching \"C with classes\", which it very much isn't.)\n\nC isn't losing its use-cases btw. Rust is great from what I hear, but it'll take some time for codebases to migrate to it, and Go is a messy messy language.   \n\n\nFor DSA, do whatever you want. C++ is the general choice because of how flexible the STL is, and how close-to-the-metal the language can be. This doesn't really make too much of a difference in placement tests though so just write whatever language you're comfortable with."
+    }
+  ]
+}

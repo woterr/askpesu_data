@@ -1,0 +1,39 @@
+{
+  "id": "1m09h7z",
+  "title": "[Resource] Tips for ECE Students",
+  "content": "This doc is based on over two years of firsthand experience in PES ECE, offering a brutally honest take on what to expect, how to survive, and how to make the most of your four years. Whether you're here by choice or chance, read this before diving in. It myt feel a bit biased to a few students based on how rigorous the course is or since there's no sugarcoating on it, but that's how your next 4 years will be. This doc just sums up how ECE will be irrespective of the campus you are in.\n\n[ECE Heads-up](https://docs.google.com/document/d/1KAofElKiijZWCGRJCl2UDndW_Zi50r5c7erxnbrjEJk/edit?usp=sharing)",
+  "metadata": {
+    "root_comment_id": "n37nbpy",
+    "post_id": "1m09h7z",
+    "author": "Sunnysnivellus123",
+    "url": "https://www.reddit.com/r/PESU/comments/1m09h7z/resource_tips_for_ece_students/",
+    "permalink": "https://reddit.com/r/PESU/comments/1m09h7z/resource_tips_for_ece_students/",
+    "score": 30,
+    "upvote_ratio": 0.9200000166893005,
+    "created_utc": 1752557355,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "n37owac",
+      "body": "Damn\n\nI'm thinking of switching my branch to ECE, so this will be pretty helpful\n\nThank you for this!\n└── Switching from what? And why?\n    └── I mean, I know this will never really happen because of factors beyond my control, but..\n\nI want to switch from CSE to ECE\n\nAs absurd as it sounds, let me clarify that I do not intend to downplay CSE as a branch, however, it looks like ECE is better suited to my interests and needs, even if it may be harder than CSE from what I've heard from seniors\n\nEPD and Math were my favorite subjects last semester so I hope you understand where this feeling is coming from\n\nOn another note, I've gone through the sem 3 syllabus of both CSE and ECE quite a few times and I think ECE subjects like NAS and Signal Systems are more compelling for me than CS subjects like AFLL and Webtech\n        └── I know someone who has shifted from CSE to ECE"
+    },
+    {
+      "id": "n38wzrk",
+      "body": "I'd recommend putting the content into the post. Linking to an external doc also exposes your identity. But good post, will add to FAQs.\n└── done, I've added the content to the post. Thanks for the suggestion!!"
+    },
+    {
+      "id": "n39o0ku",
+      "body": "Everyone says that ECE is math and physics intensive and we need to keep our basics strong, can anyone actually tell what fundamentals I need to focus on the most? (Yes i read the document and I saw stats, integration and all that but Im asking in general for both math and physics)\n├── Lmk if you get to know that too\n└── Definitely it is both math and phy intensive, math will deal with different series and transforms for conversions and so on. Phys comes into picture when ur talking about quantum and electronics part i.e circuitry or flow of current. The most important aspect of physics being used is in quantum followed by Electromagnetic Field Theory i.e ur class 11 and 12 topics consisting of electricity and magnetism.\n    └── What would you recommend to learn/revise before coming to college then\n        └── Nothing much actually, you'll be taught EPD in 1st year which is Electronic Principles and Devices which gives u an insight into what you'll be learning, but you wouldn't be needing to learn anything before you come as 1st years have commin subjects irrespective of your chosen stream."
+    },
+    {
+      "id": "n3bo1y9",
+      "body": "thankyou, kind senior!"
+    },
+    {
+      "id": "n3rrz4k",
+      "body": "can you recommend me some books or yt channels so that I can gain a lot more  interest in ece subjects"
+    }
+  ]
+}

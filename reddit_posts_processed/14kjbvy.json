@@ -1,0 +1,35 @@
+{
+  "id": "14kjbvy",
+  "title": "Fresher",
+  "content": "What are the topics of 11th and 12th, I  should know properly so that I don't face any difficulty in college\nProlly joining Ece",
+  "metadata": {
+    "root_comment_id": "jpr06p0",
+    "post_id": "14kjbvy",
+    "author": "Tomper_balak",
+    "url": "https://www.reddit.com/r/PESU/comments/14kjbvy/fresher/",
+    "permalink": "https://reddit.com/r/PESU/comments/14kjbvy/fresher/",
+    "score": 5,
+    "upvote_ratio": 1,
+    "created_utc": 1687885613,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jpr06p0",
+      "body": "Math- integration, differentiation and differential equations are important. The physics and everything else won't be of that intensity, so even u didn't focus during 11th and 12th, u can start afresh\n├── Great! The chapters which I suck at and decided to skip. 💀\n│   └── u need calculus throughout ur engineering, esp for core branches\n└── Any tips for someone joining cse?\n    ├── Math syllabus is same for all branches in first year. After that, you'll have statistics, probability and some other related topics.\n    │   ├── In ece? What kind of maths would be in second year?\n    │   │   └── Fourier series and Fourier transforms\n    │   └── Thanks alot\n    └── M8, u don't need anything. Take some effort and learning coding. That will come in handy bigtime later.\n        ├── Hey how about  phy chemistry and math how hard will it be ?😶‍🌫️ \n\nAnd any tips for first sem ?\n        └── Hey how about  phy chemistry and math how hard will it be ?😶‍🌫️ \n\nAnd any tips for first sem ?"
+    },
+    {
+      "id": "jptm93n",
+      "body": "Integration and differentiation are just topics you should be knowing. Some trigonometry also will do good. Basic current electricity knowledge. You should be knowing proper NLM because it will help you in mechanics. That's it ig. Just use common sense for other stuff. Otherwise Google is always there."
+    },
+    {
+      "id": "jpvzt13",
+      "body": "Mathematics and physics go hand in hand. Math is the language of physics. If you are able to apply integral and differential calculus to derive equations in mechanics independently, that would help you to solve even unforeseen  problems in mechanics. This would help in engg. Mechanics and strength of materials.\nYour grip on electromagnetism will help you tremendously. Semiconductor physics, rectifiers, transistors and its behavior with different biasing will be key to your success in analog electronic circuits as well as relating to the basics of digital electronics. Pay quality attention to understand micro-controllers and operational amplifier circuits. In my view, if you have spent quality effort in physics ( mechanics, electromagnetism, electrostatics) and calculi (integral, differential) + its application in solving physics problems, your engineering studies at bachelors levels as per curriculum would  be easy. If you have not worked on computers or programming, never worry. That would probably be the most easy subject you are going to get. Anyway, programmings are a reflection of aptitude and not actually engineering. You may call CS as common sense. Focus on engineering and dig deep."
+    },
+    {
+      "id": "jpykdkh",
+      "body": "Differentiation and integration are really important no matter what branch you choose. You'll get stuff like triple integration in your first year and if you've taken ece, you'll have integration and differentiation in almost every single subject in every single semester. You'll also learn new stuff like fourier transform and z transform. Revise a bit of the concepts related to diodes as that'll help for analog circuit design.You should also know KCL and KVL pretty well. Try memorizing all the expanded trigonometric formulae too. Most of us skipped all this shit in 2nd pu and it'll fuck you over big time if you're weak in most of these concepts. Hope this helps :)"
+    }
+  ]
+}

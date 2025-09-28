@@ -1,0 +1,27 @@
+{
+  "id": "188fute",
+  "title": "Webtech ESA",
+  "content": "Can someone tell me how to study AND score well for web tech esa(sem 3 cse)? I have understood concepts, but it goes bad when it comes to isa's...Need some some tips..",
+  "metadata": {
+    "root_comment_id": "kbkiz05",
+    "post_id": "188fute",
+    "author": "DaikonEmbarrassed147",
+    "url": "https://www.reddit.com/r/PESU/comments/188fute/webtech_esa/",
+    "permalink": "https://reddit.com/r/PESU/comments/188fute/webtech_esa/",
+    "score": 9,
+    "upvote_ratio": 1,
+    "created_utc": 1701447695,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "kbkiz05",
+      "body": "One thing is to look at previous year papers, for the last 3-4 years continuously they have not changed the pattern so look at the questions before and after studying topics once you complete the syllabus try to solve the paper that should help for webtech.\n└── Where exactly can i get the previous year papers ?\n    └── Pes media discord"
+    },
+    {
+      "id": "kbocsjs",
+      "body": "Hey, i feel like u might find difficulties in 3rd and 4th unit mostly.\nFor react stateless components(classes)\nThere is a video i watched during my esa time, it helped me a lot\n\nhttps://youtu.be/Ke90Tje7VS0?si=YvuWt3EPleFfjL3v\n\n\nIts a 2hr video but it ll take u atleast half a day to compare it with pyqs and solve some qs\n\n\nFor 4th unit(node js) i watched this playlist:\n\nhttps://youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&si=LY531KEyauPHAogv\n\nDont just watch the videos ,i suggest u first read and write down all the questions from 3rd and 4th unit , before watching it."
+    }
+  ]
+}

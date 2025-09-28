@@ -1,0 +1,23 @@
+{
+  "id": "1lrjyb0",
+  "title": "[Question] Should I focus on ECE or CS right now? Hoping for branch upgrade",
+  "content": "I'm Ece student at Ec campus, passed first year with 8.5+cgpa which is safe for upgrade to cs in our campus based on previous years.Should I start focusing on 3rd sem ECE subjects or begin exploring CS topics in case I get the upgrade?\nAlso, are there any common subjects between ECE and CS in 3rd sem that I can focus on for now?\nThanks",
+  "metadata": {
+    "root_comment_id": "n1b7hun",
+    "post_id": "1lrjyb0",
+    "author": "Careful_Girl_7349",
+    "url": "https://www.reddit.com/r/PESU/comments/1lrjyb0/question_should_i_focus_on_ece_or_cs_right_now/",
+    "permalink": "https://reddit.com/r/PESU/comments/1lrjyb0/question_should_i_focus_on_ece_or_cs_right_now/",
+    "score": 6,
+    "upvote_ratio": 0.800000011920929,
+    "created_utc": 1751638943,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "n1c8rj3",
+      "body": "There are no common courses. IMO, if you *really* want to prepare for CS courses, brushing up on C, especially the latter concepts like data structures, will help you.\n└── But I'm doubtful that in worst case I won't get cs, and I would have wasted this month not doing anything for ece\n    └── What's your end goal? Are you looking for placements in core or IT? If you want to land and IT job, you're going to have to do DSA at some point anyway.\n        └── IT most probably, so yeah I should go for that\n            └── In that case, yes, look at DSA topics."
+    }
+  ]
+}

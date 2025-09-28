@@ -1,0 +1,27 @@
+{
+  "id": "18v0x4x",
+  "title": "What is capstone project?",
+  "content": "I'm a 2nd yr student,I am just curious about what a capstone project is?,when do we get to do it?,can we choose teammates from a different section ?.so if a senior can eloborate on this it'll be really helpful\nThanks in advance!!",
+  "metadata": {
+    "root_comment_id": "kfo01g2",
+    "post_id": "18v0x4x",
+    "author": "Yagnikanna_123",
+    "url": "https://www.reddit.com/r/PESU/comments/18v0x4x/what_is_capstone_project/",
+    "permalink": "https://reddit.com/r/PESU/comments/18v0x4x/what_is_capstone_project/",
+    "score": 8,
+    "upvote_ratio": 0.8399999737739563,
+    "created_utc": 1704002216,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "kfo01g2",
+      "body": "There's a helpful comment in the FAQs: https://bit.ly/pesu-faq\n└── Thank you so much!!"
+    },
+    {
+      "id": "kfo14yi",
+      "body": "A capstone project is the final research project you will be doing in your 6th and 7th semester. It will be treated as a separate subject itself for both the semesters. I'm not sure what campus you're from but from what I've heard, EC campus students were not allowed to choose their own teammates or their topic of project. RC campus students had much more autonomy to choose the domain of where they wanna do their project in as well as choose their own guides. \nYes you can form teams with people with other sections and other departments too(this depends on the project). \n\nIn the 6th semester, your capstone phase 1 will begin and it will be a 2 credit subject where you will form the initial problem statement and do extensive review on it. Minimal implementation will happen here. 7th semester will see the beginning of capstone phase 2 which is a 6 credit subject. Here you need to complete your implementation, draft and publish a research paper on your project.\n├── Ohh okayyy\nThis is so helpful!!\nThank you\n└── >EC campus students were not allowed to choose their own teammates or their topic of project.\n\nWe were,\n    ├── Oh lol, okay\nThis is from the ECE dept so I'm not entirely sure if it's a 100% true\n    └── Can we make teams across the entire CSE department or only within classes ?\n        └── Entire CSE, you're not restricted to your class."
+    }
+  ]
+}

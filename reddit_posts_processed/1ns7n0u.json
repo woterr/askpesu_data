@@ -1,0 +1,27 @@
+{
+  "id": "1ns7n0u",
+  "title": "[Placements] About Shortlisting!!",
+  "content": "During OA of IBM ISL they asked 2 easy questions, I passed all test cases of both questions, and many of friends also did but still not got shortlisted for interview,I checked hackerrank policy and there is no any time criteria and also there is no more hidden test cases and plagiarism also not possible (i wrote on my own as they were very easy)\n\nI just need clarification , \ndoes any one know like how exactly Shortlisting is done?\n\nor like company will send all students list with good marks and tell college itself like we want this number of people and college will shortlist on any criteria and sends back list to the company \nlike is there any college interference in Shortlisting??\n\nAny seniors could clarify on this will be helpful\nBecause Shortlisting was completely random for ibms case",
+  "metadata": {
+    "root_comment_id": "ngjvs5b",
+    "post_id": "1ns7n0u",
+    "author": "Key-Actuator-3372",
+    "url": "https://www.reddit.com/r/PESU/comments/1ns7n0u/placements_about_shortlisting/",
+    "permalink": "https://reddit.com/r/PESU/comments/1ns7n0u/placements_about_shortlisting/",
+    "score": 1,
+    "upvote_ratio": 1,
+    "created_utc": 1759010551,
+    "flair": "Placements 🤑",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "ngkj01m",
+      "body": "There are multiple parameters involved, not just the ones you have access to. You can only view the filters that are shown to you: number of questions and accuracy (which inlcludes if your solution executed in time). But organizers on any coding platform can also access a host of other metrics of your solution: how much time your overall solution took, how long did you take per question, number of attempts, the code solution themselves, etc. \n\nSo shortlisting isn't based on accuracy alone. Its often a mix of these multiple parameters put together, with each company having its own methodology. They will also have to shortlist based on internal requirements such as diversity hiring, number of roles, number of possible interviews they can take, how previous recruits from the college did both during interviews and general feedback in their role, etc. Companies also have other parameters provided by the college to filter: CGPA, number of backlogs, branch etc.\n\nTherefore, it becomes quite challenging to understand *how* someone was shortlisted, as the process comprises multiple different types and degrees of filters. It's not random, but companies aren't obligated to be transparent either.\n└── lets say all parameters are same for many people\\[as questions were very easy only 7-8 lines for all codes\\] , will the company might say college to filter out or its just only on company side only?\n    └── Everything is done company side. Once the college submits a list of all registered folks, the rest of the process is carried out by the company. The company then submits the list of selected students to PES."
+    },
+    {
+      "id": "ngll9x7",
+      "body": "My questions were on the  more harder level yet I solved it(and no i di not use chatgpt) and yet i wasnt shortlisted. There is a friend group in my class.....till now not one interview all 4 of them have been shortlisted for and now suddenly all 3 of them were shortlisted. I just want to know what sorcery they did or if my luck is only bad lmao"
+    }
+  ]
+}

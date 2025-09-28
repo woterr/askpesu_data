@@ -1,0 +1,23 @@
+{
+  "id": "vbfjd0",
+  "title": "C programming help",
+  "content": "We're approaching the last month of Sem 2, and pretty much i haven't done c programming at all. I know the bare minimum and all that but, is there anything I could do now to salvage this and redeem myself?",
+  "metadata": {
+    "root_comment_id": "icafbkb",
+    "post_id": "vbfjd0",
+    "author": "Greatest-idiot",
+    "url": "https://www.reddit.com/r/PESU/comments/vbfjd0/c_programming_help/",
+    "permalink": "https://reddit.com/r/PESU/comments/vbfjd0/c_programming_help/",
+    "score": 4,
+    "upvote_ratio": 1,
+    "created_utc": 1655136129,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "icahiv2",
+      "body": "Considering you have a month time, you can start with document reading from javatpoint or w3schools. If you want lectures to be explained in an elaborated manner, watch Programming With Harry on YouTube or any YouTube playlist of your choice and watch it at 1.5x to save some time. Do some basic coding problems from your CIB and easy level from HackerRank. I think this would be good enough. Focus more on stacks, queues, linked lists and pointers."
+    }
+  ]
+}

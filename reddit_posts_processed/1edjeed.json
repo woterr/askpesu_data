@@ -1,0 +1,31 @@
+{
+  "id": "1edjeed",
+  "title": "Advice needed",
+  "content": "want to start learning dsa....but not sure from where and how to start...so any tips on this and which youtube channels or courses to be used for reference would be really helpful",
+  "metadata": {
+    "root_comment_id": "lf7edst",
+    "post_id": "1edjeed",
+    "author": "AlternativeGood9237",
+    "url": "https://www.reddit.com/r/PESU/comments/1edjeed/advice_needed/",
+    "permalink": "https://reddit.com/r/PESU/comments/1edjeed/advice_needed/",
+    "score": 11,
+    "upvote_ratio": 0.9300000071525574,
+    "created_utc": 1722095242,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "lf7edst",
+      "body": "Striver's A2Z sheet + Read about DSA Patterns on Medium & don't forget to revise 🤧\n└── Dsa is taught on C lang in clg should I stick with that or which other language is better\n    └── Learn C in college as it's your 1st year, I guess & side by side or probably in next semester, start learning C++ because interviewers love OOPS & C doesn't support OOPs. C++ is a superset of C so, not much difference in them, and you can pick it up in a few days easily if you know C."
+    },
+    {
+      "id": "lf7emwp",
+      "body": "Love Babbar's Supreme 3.0 ...its enough to teach you DSA alone"
+    },
+    {
+      "id": "lf7kyxd",
+      "body": "Strivers SDE sheet 😇\n└── Do you have the link for that?\n    └── [https://docs.google.com/document/d/1JLKCaz4n4YtYdQ1bJF1X46BKbxldedb6N1OMiXh9Dmo/edit?usp=sharing](https://docs.google.com/document/d/1JLKCaz4n4YtYdQ1bJF1X46BKbxldedb6N1OMiXh9Dmo/edit?usp=sharing)\n        ├── Thanks\n        └── Thanks"
+    }
+  ]
+}

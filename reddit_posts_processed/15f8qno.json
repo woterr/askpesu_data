@@ -1,0 +1,27 @@
+{
+  "id": "15f8qno",
+  "title": "7th Sem Special topics",
+  "content": "Can any passout graduates give their experience in the special topic subjects offered in the 7th Sem CS.",
+  "metadata": {
+    "root_comment_id": "juc7pjy",
+    "post_id": "15f8qno",
+    "author": "Couch_Potato2002",
+    "url": "https://www.reddit.com/r/PESU/comments/15f8qno/7th_sem_special_topics/",
+    "permalink": "https://reddit.com/r/PESU/comments/15f8qno/7th_sem_special_topics/",
+    "score": 5,
+    "upvote_ratio": 0.8600000143051147,
+    "created_utc": 1690886112,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "juc7pjy",
+      "body": "Pick RM, ST or IoT. Stay away from the DIS courses, college always tends to do some weird shit like expanding the syllabus with their own content or modifying it halfway through the semester. RM and ST, although based on memorization, are pretty easy and straightforward and you can also kind of write your way through an unknown question with any relevant jargon lmao (especially for RM). Unless you have a specific interest in the other special topics, pick these. I think you'll also find notes for the first two [here](https://github.com/abaksy/pesu-cse-notes).\n├── Any input on reinforcement learning?\n│   └── Sorry, don't have too much of an idea but apparently it wasn't as easy as these options so not many took it\n└── What about Cryptocurrency? Any idea regarding how the tests are conducted? Since the course itself is from the MIT edu portal.\n    └── Lmao doesn't matter if the course is from edX, Udemy, Coursera, NPTEL etc - the ISAs and ESA are conducted by PES for all DIS courses. That's where the issue happens because of changing question patterns and so on. And no, I'm not sure if my batch even had crypto as an option.\n        └── Oh cool. Thanks for the info. \n\nAlso, did you have offline classes for RM?"
+    },
+    {
+      "id": "jumi5r3",
+      "body": "Is it advisable to take Research methodology and Software Testing??\n\nAlso I am having trouble in choosing the third subject out of Cryptocurrency or Reinforcement Learning or IoT  \n1) Are they going to start from the beginning if i take Cryptocurrency because there was already a subject called Applied Cryptography  \n2) Is Reinforcement Learning hard for people who didn't take Deep Learning  \n3) I don't have full interest in IoT should I take it. I know i can do this subject there is no doubt. What would you suggest.."
+    }
+  ]
+}

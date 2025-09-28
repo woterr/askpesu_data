@@ -1,0 +1,31 @@
+{
+  "id": "11jx9jc",
+  "title": "first year C course",
+  "content": "So our teacher just came and said the C course is designed to screw us. How difficult is it actually? Where do we need to refer for ISA/ESA like actually?",
+  "metadata": {
+    "root_comment_id": "jb4ujdh",
+    "post_id": "11jx9jc",
+    "author": "Previous_Locksmith_1",
+    "url": "https://www.reddit.com/r/PESU/comments/11jx9jc/first_year_c_course/",
+    "permalink": "https://reddit.com/r/PESU/comments/11jx9jc/first_year_c_course/",
+    "score": 9,
+    "upvote_ratio": 1,
+    "created_utc": 1678104933,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jb4ujdh",
+      "body": "If it's your first time coding, it does have a steep learning curve. You will catch on eventually, so that's something you don't have to worry about. The real monster is the ISA. Thing is,  they will try to ask  minute things about C that you could easily search on Google or are framed in a way to trick you. I've lost a fair share of my marks because of this. \n\nI would also add that it's important to know C well. It will be the basis for the Data Structures and Algorithms courses you will have in 3rd and 4th sem.\n\nThe first month might be hard, but it will get much easier later on.\nIn essence, chill out and just roll with it.\n└── Damn i can understand what those minute question would be like. Are slides enough or even text book?\n    └── Textbooks and slides are never enough for ISA for ESA slides are enough ig.."
+    },
+    {
+      "id": "jb9730z",
+      "body": "*heavy heavy sighs of disappointment.*\n\nI wish teachers especially would stop treating C like some kind of eldritch piece of tech that only the bravest of computer science students can even try and comprehend. In all honesty, C is possibly the best way to even BEGIN to understand why so much of CS works the way it does (because it was *that* influential). \n\nC's really easy. The syntax has a total of 34 reserved keywords. Its primary philosophy is simple -- you have this giant grid of *memory* where you can put *data*, and the entire language revolves around different ways to push data around these locations in memory. There's *nothing else in there*. \n\nMy advice is don't pay attention to her. Just try to focus and see if you can logically deduce why certain behaviors happen. Kernighan and Ritchie's \"The C Programming Language\" is always the greatest reference for this.\n└── While what you've said is true and I agree with all of it, you need to understanding from a newcomer's point or view that it can be quite daunting for people who have barely stepped foot into programming, or even worse had python as their first language to be exposed to C. People getting used to python's hand holding and then going 10 steps back to C to do everything manually is a little difficult if you have no programming background, and the intimidation is justified :)\n    └── I say this WITH a newcomer's perspective :) Didn't have programming experience until first sem when we started w Python.  \n\n\nSure, different people can find different things difficult so maybe yeah it was a little incorrect to generalize C as being \"really easy\", but it definitely rubs off wrong when the person with pedagogical responsibility takes something so fundamental and immediately makes it antagonistic.\n        └── Yeah the prof is definitely at fault here. Firstly they're highly incapable of teaching and on top of that they decide the best way to get people focused is to scare students into studying a course. Explains a lot about the college :("
+    },
+    {
+      "id": "jbdyg7u",
+      "body": "Woah woah woah.. easy there..\n\nI have been telling this to all my friends, and I really don't mind repeating it: C is not difficult, it's complex. The reason I say this is the difference in the number of lines and the programming method (paradigm) used to solve a problem, i python and C. Now that we learnt python in first sem, there'll be no problem understanding the logic behind what's happening.\n\nAnyways, just to be sure, I'll be making cheatsheets for C that will explain you the most complex stuff in the simplest way possible, and you can always find it on BetterPES.\n\nThat being said, you can always ping me for doubts. I am SilicoFlare everywhere."
+    }
+  ]
+}

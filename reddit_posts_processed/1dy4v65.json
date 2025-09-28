@@ -1,0 +1,27 @@
+{
+  "id": "1dy4v65",
+  "title": "Getting started with DSA",
+  "content": "I'm going to 3rd sem and I want to get at least a little familiar with DSA before I start college again. What language is preferable how do I go about it? Can anyone recommend a good website or youtube channel? Thanks. ",
+  "metadata": {
+    "root_comment_id": "lc65mnu",
+    "post_id": "1dy4v65",
+    "author": "friedchutney",
+    "url": "https://www.reddit.com/r/PESU/comments/1dy4v65/getting_started_with_dsa/",
+    "permalink": "https://reddit.com/r/PESU/comments/1dy4v65/getting_started_with_dsa/",
+    "score": 6,
+    "upvote_ratio": 0.8799999952316284,
+    "created_utc": 1720431852,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "lc65mnu",
+      "body": "Learn c++(basics), then go to space and time complexity.\nYt channel-Striver,Abdul Bari(for algorithms),Jenny cs it ...\nRefer DSA sheet like striver a2z sheet or love babbar\n└── Adding to this, you do not need a one-language-for-all approach: [https://www.reddit.com/r/PESU/comments/13px5h9/comment/jlbvnsy/](https://www.reddit.com/r/PESU/comments/13px5h9/comment/jlbvnsy/)\n    └── thank you u/Ashamed_Performer_82  and rowlet!\n        └── Initially read this as \"Ashamed Performer rowlet\" 😭"
+    },
+    {
+      "id": "lc7xvdv",
+      "body": "Love Babbar ki supreme batch join kar le...language bhi seekha dega aur DSA bhi....bs join karna wont be enough consistent rehna padega"
+    }
+  ]
+}

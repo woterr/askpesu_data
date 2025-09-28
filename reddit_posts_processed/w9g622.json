@@ -1,0 +1,39 @@
+{
+  "id": "w9g622",
+  "title": "Mac or windows?",
+  "content": "[deleted]",
+  "metadata": {
+    "root_comment_id": "ihuxrtk",
+    "post_id": "w9g622",
+    "author": "[deleted]",
+    "url": "https://www.reddit.com/r/PESU/comments/w9g622/mac_or_windows/",
+    "permalink": "https://reddit.com/r/PESU/comments/w9g622/mac_or_windows/",
+    "score": 6,
+    "upvote_ratio": 0.8799999952316284,
+    "created_utc": 1658931960,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "ihuxrtk",
+      "body": "I'd highly recommend the newly released MacBook Air M2. \n\nYou can get the base model for ₹1.1L with Education discount on the Apple store. Just don't get the midnight colour varient cause that's a fingerprint magnet.\n└── Get the 512GB variant as the 256GB one apparently has a slower SSD than the M1\n    └── Yeah that's what I'd recommend as well but OP keep in mind that it'll take the cost up to ₹1.32L at least.\n        └── Its CSE branch and I have heard that in engineering you will need a lot of\"jugaads\" which is simply not possible in mac so I am more inclined towards windows.\n\nAlso in the price of a good mac I can also get a very very very good windows(almost cheaper). But the thing is I have iphone and I just love mac its like the thing I always wanted to pair up with my iphone. So confused pls help.\n            └── Apart from a set of niche software, I think many applications you'll have to use are cross platform, so don't worry about the jugaads, if you wanna buy a Mac, just go ahead"
+    },
+    {
+      "id": "ihuzgsf",
+      "body": "Which stream will you be taking?\n├── Yes, your laptop choice should support the work you wish to get done. \n\nTo give you an idea: I work in the machine learning/deep learning field, and a lot of my work requires a good GPU. Back then, some of the frameworks did not support MacBooks, so I got myself a Windows laptop with an amazing Nvidia GPU.\n\nCurrently, Apple has just started supporting it (as of March 2022), but I don't really know more about it since I personally don't know anyone who has tried it. If you are just starting out and unsure of the path you will take, having a supported GPU is not a bad thing to keep.\n│   └── Hey I am also going to be a cs student this year but for machine learning/deep learning isn't it better to just buy google colab pro instead of a good gpu?\n│       └── Beyond a point, it becomes too expensive. Besides, Colab sessions remain active for like 7-8 hours, after which they time out. Only if you buy the most expensive subscription (Pro+) will it remain active but that's again only 24 hours. Not to mention sometimes you need better persistent storage. Although you can save models to Drive it can quickly run out of storage (I train models which are 2+ GB in size, so 7 models at max)\n\nI use Colab only for small scale training purposes that last a few hours. Anything beyond that, Colab cannot be depended on.\n│           └── Ah I see. Thanks for informing me, I did not know that.\n└── CSE\n    ├── For day to day use, a Mac or a Windows won't really create a big difference. Almost everything (and everyone) will end up using a Linux based OS, so if you get Windows you'll end up dual booting at one point or another. For most of the reading, course work, projects etc that are needed, this will do.\n\nHowever when it comes to other things that you might wish to pursue (like ML in my case), sometimes the choice of the laptop will play a role in how much work you can get done. I am not going to say that a laptop without a GPU cannot be used, but there are certain limitations. \n\nI would suggest you to get a Windows machine with an Nvidia GPU (does not need to be a high end gaming laptop) since I know that you can get all your work done, regardless of whatever work you intend to get done.\n    └── Buy a Mac\n\nThe reason why I suggest this is that once you get placed, most of the IT roles in companies get supplied with Macs to do work.\n\nSo if you start with a Mac, you'll get comfortable with Mac OS which would help you out in future"
+    },
+    {
+      "id": "ihvge5i",
+      "body": "If it 1-2L get some Dell XPS or ASUS Expertbook. I'll join PESU CSE RR Campus this year as well. I got a HP Pavilion. Costed around 67k."
+    },
+    {
+      "id": "ihvjdc8",
+      "body": "I'd recommend Mac because because if you don't game then Macbooks are best because they've got better display , better battery , don't even talk about performance of M2 chip and it's pretty handy to carry around while Gaming laptops are bulky."
+    },
+    {
+      "id": "ihxp18h",
+      "body": "I'd suggest you have a laptop with a UNIX based system, like a Mac or Linux. So you buy any normal laptop around your budget and install Linux onto it (preferably Arch Linux) and delete Windows completely. Since you're not a big fan of gaming, it won't affect you either. But if you don't wanna handle all this hassle, just buy the new M2 MacBook Air, don't forget to get the student discount though, you'll have to show your college ID Card for that to the Apple guys.\n└── Bruh don't listen to this guy, just dual boot a debian-based distro. If you didn't understand what I just said, take my advice instead of his."
+    }
+  ]
+}

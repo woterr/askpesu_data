@@ -1,0 +1,23 @@
+{
+  "id": "1izzk6a",
+  "title": "🎯 Writing Resumes Sucks—So I Built an AI to Do It for You | By a fresher for a fresher.",
+  "content": "I’ve always hated writing resumes. Formatting issues, struggling with what to say, and the worst part—wondering if it’ll even get past those ATS filters. So, I thought… *why not just let AI handle it?*\n\nThat’s how [**ResuLift**](https://resulift.com/) was born. 🎉\n\n🔹 **You just enter your details, and boom—AI generates a polished, ATS-friendly resume in seconds**.\n\n🔹 **No stress, no overthinking, just a solid resume that actually helps you land interviews**.\n\n🔹 **And the best part? It’s free to try. No sign-up, no nonsense**.\n\nI built this because I wanted a **fast, hassle-free way to get a great resume**—and now, I’d love for you to test it out.\n\nGive it a spin: [**ResuLift.com**](https://resulift.com/)\n\nLet me know what you think! Would love your feedback. 💬",
+  "metadata": {
+    "root_comment_id": "mf8r1l0",
+    "post_id": "1izzk6a",
+    "author": "hrshx3o5o6",
+    "url": "https://www.reddit.com/r/PESU/comments/1izzk6a/writing_resumes_sucksso_i_built_an_ai_to_do_it/",
+    "permalink": "https://reddit.com/r/PESU/comments/1izzk6a/writing_resumes_sucksso_i_built_an_ai_to_do_it/",
+    "score": 9,
+    "upvote_ratio": 0.7400000095367432,
+    "created_utc": 1740717192,
+    "flair": "ANNOUNCEMENT :snoo:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "mf8r1l0",
+      "body": "\"Our AI analyzes job descriptions and optimizes your resume to pass through Applicant Tracking Systems with ease, increasing your interview chances by up to 70%.\"\n\nSource for the 70%?\n\nThe\"show me how it works\" part ironically doesn't work. \n\nWhen did you do other than create a wrapper for an llm?"
+    }
+  ]
+}

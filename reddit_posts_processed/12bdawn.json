@@ -1,0 +1,27 @@
+{
+  "id": "12bdawn",
+  "title": "Further career advice",
+  "content": "Hi, I am in 2nd sem and want to know that what all should i do to get a 20+lpa package. I have started web dev and Android a bit.",
+  "metadata": {
+    "root_comment_id": "jewdwb9",
+    "post_id": "12bdawn",
+    "author": "No_Degree_9398",
+    "url": "https://www.reddit.com/r/PESU/comments/12bdawn/further_career_advice/",
+    "permalink": "https://reddit.com/r/PESU/comments/12bdawn/further_career_advice/",
+    "score": 5,
+    "upvote_ratio": 0.7300000190734863,
+    "created_utc": 1680598972,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jewdwb9",
+      "body": "Firstly, you're barely in 2nd sem - now's not the time to be worrying about placements. Time doesn't fly that quickly either.\n\nSecondly, this is a long answer, but the summary is that it is different for different people. It's nice to read that you've started web dev and Android, but you shouldn't be doing these with the intention of getting placed. If you're doing that then you're really not going to make much progress. Instead, you should *find the field(s) that interest you the most and dive deeper into those*. This finding takes a lot of time - some people know it before they enter college (like me), while some take all the way up till 7th semester. There is no shame in either and you should know that it takes a lot of experimentation and getting your hands dirty to figure out ones interests.\n\nAdditionally, these fields won't help you directly get placed. CS placements use competitive programming and problem solving as a filter test. Hundreds give the placement test which comprises of a couple of these problem solving questions (you can find such ones on platforms like Leetcode, Codechef etc) and each company shortlists about 30 at most. Sometimes placement tests also test core CS theoretical concepts of networks, OS, DBMS. Rarely you'll find anything beyond this. Once you make it to the interview round, it's a different ball game. \n\nSo companies usually don't expect graduates to be specialised in a particular field, but they do know that some of them will be. By default, they will test you on generic DSA and problem solving, and you'll later get assigned to any random team. However, if your resume and past experiences show alignment towards a field (for example, Android dev), then your interview *may go along this direction *provided they are looking for such roles**. But in most cases if they don't see any direction in your profile, you'll get assigned to whichever team they think you'll fit best into. In >90% cases, you will be tested on different levels of DSA alone, your actual development skills won't play too much of a part *unless you get lucky, or your skills stand out among the rest*. I was the most extreme exception for my batch, I didn't get interviewed on any kind of DSA and problem solving, but that's because my profile was heavily built for machine learning and analytics (and that's what I do on a daily basis at work too) and had the most research publications in my batch before I graduated as well, so these worked in my favour.\n\nI'd be happy to talk more about this over DM, but IMO this isn't the time to be discussing these, you have a lot of time to start preparing. For now, stick to maintaining a good CGPA (8.5+), figure out your interests and work towards it and at the same time enjoy your college life. The time for worrying about placements will come later but this time to work on yourself won't come again.\n└── Thank you for your reply.... Blessed to have such a good senior"
+    },
+    {
+      "id": "jewxdil",
+      "body": "See, that's the problem. I have a 20.1 LPA package and I had to start designing consensus protocols for Amazon when I was in kindergarten :("
+    }
+  ]
+}

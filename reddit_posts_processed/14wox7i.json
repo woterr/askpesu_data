@@ -1,0 +1,23 @@
+{
+  "id": "14wox7i",
+  "title": "Dsa in c?is it possible?",
+  "content": "So i have done the ds course  which was done in college, i was able to follow the classes pretty well, do the assignments on my own without much problems. But the problem i face with c is its very hard to do any string manipulation type for questions and although i did code pretty well in my 3rd sem(the class codes and assignment  codes), but when it comes to leetcode i have solved very few questions..so is it advisable  to continue in c or switch to c++ for dsa only?\nOr should i do it in any other language like java or python?",
+  "metadata": {
+    "root_comment_id": "jrjvf6x",
+    "post_id": "14wox7i",
+    "author": "Fun-Understanding862",
+    "url": "https://www.reddit.com/r/PESU/comments/14wox7i/dsa_in_cis_it_possible/",
+    "permalink": "https://reddit.com/r/PESU/comments/14wox7i/dsa_in_cis_it_possible/",
+    "score": 2,
+    "upvote_ratio": 1,
+    "created_utc": 1689075593,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jrjvf6x",
+      "body": "Whatever you're comfortable in mate. DSA is not about coding but about how you approach a problem. Most company coding questions don't have a language specification. Although optimisations and speed wise, C/C++/Java is slightly better, you shouldn't face much problems."
+    }
+  ]
+}

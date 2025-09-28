@@ -1,0 +1,35 @@
+{
+  "id": "1533tnd",
+  "title": "CS Syllabus",
+  "content": "What's the first sem syllabus for cse students at pes?",
+  "metadata": {
+    "root_comment_id": "jsh99xr",
+    "post_id": "1533tnd",
+    "author": "SavingsMaintenance44",
+    "url": "https://www.reddit.com/r/PESU/comments/1533tnd/cs_syllabus/",
+    "permalink": "https://reddit.com/r/PESU/comments/1533tnd/cs_syllabus/",
+    "score": 2,
+    "upvote_ratio": 0.6700000166893005,
+    "created_utc": 1689699307,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jsh99xr",
+      "body": "You’ll get it from the college.\n└── ik that; just wanted to know if first year syllabus is common for all streams or different for cse students\n    └── There will be common subjects for all branches in 1st and 2nd semester"
+    },
+    {
+      "id": "jsjquf0",
+      "body": "It's hell\n└── Why?"
+    },
+    {
+      "id": "jsjrb0w",
+      "body": "First year is divided into 2 semesters with 2 cycles running one after another\nif ur name starts with a-h expect to be in chem cycle first semester\n\nChem cycle and phy cycle have same subjects math and comp(python) and maths-2 and comp(c) in 1st and 2nd sem respectively.\n\nRemaining subjects are eee,phy,environmental studies for phy\nAnd epd,chem and constitution for chem\n\nFor detailed syllabus check out the pesu website or just Google pesu btech course structure."
+    },
+    {
+      "id": "jsjyiv4",
+      "body": "First things first:\n\nFreshers have a common curriculum. There are no branches as such.\n\nIt's up to the college whether you'll be in the Physics cycle or the Chemistry cycle.\n\n&#x200B;\n\nYou will have Python (CS151A) and Math-1 (MA141A) no matter what.\n\nIf you get the Chemistry cycle like me you'll have:\n\nChemistry (CY151), Electronics (EC141), Statics (CV131) and Constitution (Civics) (CE111)\n\nIf you get the Physics cycle you'll have:\n\nPhysics (PH151), Electrical Engineering (EE141), Mechanical (ME131) and EVS (EV111)"
+    }
+  ]
+}

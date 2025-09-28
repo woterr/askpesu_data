@@ -1,0 +1,23 @@
+{
+  "id": "sqwfez",
+  "title": "Sem results",
+  "content": "How is the result (pass/fail) calculation done for each sem, is there any overall percentage or gpa required to pass a subject?",
+  "metadata": {
+    "root_comment_id": "hwo429y",
+    "post_id": "sqwfez",
+    "author": "Any_Lead3",
+    "url": "https://www.reddit.com/r/PESU/comments/sqwfez/sem_results/",
+    "permalink": "https://reddit.com/r/PESU/comments/sqwfez/sem_results/",
+    "score": 8,
+    "upvote_ratio": 1,
+    "created_utc": 1644686522,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "hwo429y",
+      "body": "Your ISAs and assignments are scaled down to a total of 50 marks. Your ESA is scaled down to 50 marks. Your final score in a subject is the sum of the ISA and ESA components. This final score must be atleast 35 for you to pass in that subject. The exact weightage of ISA and ESA components might vary, but it's usually 50-50.\n├── Thanks\n└── How is GPA calculated from final score? Is it relative grading?\n    └── A score of 91-100 fetches you an S grade in that subject, 81-90 an A, 71-80 a B and so on. Numerically, S means you get 10 points in a subject, A means 9, B means 8, etc. Then, for each subject, multiply the number of credits it is worth with the points you get in that subject. Add all these products and divide them by the total number of credits in that semester and you get your SGPA. CGPA is just the average of all SGPAs. \n\nFor example, let's say you had 2 subjects in a semester worth 4 and 2 credits, and your final scores were 85 (A=9) and 95 (S=10) in those subjects respectively. Your SGPA would be (9x4+10x2)/6=9.33\n\nAs for relative grading, it is rarely applied. I've heard relative grading is given when almost all students perform badly in a subject. I have to say, though, that it was never applied to any subject I had. \n\nAlso, PES rounds off your score to the next number. For example, if 90.1 was your final score, it would be rounded off to 91 and you'd get an S in that subject."
+    }
+  ]
+}

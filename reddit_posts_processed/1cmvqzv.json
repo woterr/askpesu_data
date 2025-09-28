@@ -1,0 +1,27 @@
+{
+  "id": "1cmvqzv",
+  "title": "Internships",
+  "content": "How many companies are coming for internships in 3rd year? \nWhat skills do they look for? \nWhat is the sgpa/cgpa requirement?",
+  "metadata": {
+    "root_comment_id": "l33j9wy",
+    "post_id": "1cmvqzv",
+    "author": "Icy_Bullfrog6296",
+    "url": "https://www.reddit.com/r/PESU/comments/1cmvqzv/internships/",
+    "permalink": "https://reddit.com/r/PESU/comments/1cmvqzv/internships/",
+    "score": 13,
+    "upvote_ratio": 1,
+    "created_utc": 1715141783,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "l33j9wy",
+      "body": "> How many companies?\n\nI don't remember but quite a few. Don't worry about that. Plenty of opportunities (Assuming you're in CS)\n\n> What skills do they looks for?\n\nDepends on the role and the company. Common ones would be basic understanding of database and SQL stuff, basic algorithm based skills and a general understanding of whatever you have put on your resume. \n\nFor the exams usually they have MCQs and a coding section. MCQs just need some practice and no overtly specific work required. \n\nFor the coding rounds, a little bit of leetcode and stuff is more than enough. Be fluent in 1 \"low\" level language (C,c++,rust or Java) and one \"high\" level language (python, javascript). No need to be fluent in more than 2. \n\n> CGPA requirements\n\nPESU (afaik) requires a minimum of 6.75. \nHaving CGPA of more than 7.5 will let u sit for 50%~ of the companies and 8.5+ will let u sit for 95%~ of the companies.\n└── Is 50%(7.5 gpa) for internship or placements?\n    ├── Internships=placements, is it not? What difference do you see between them?\n    │   ├── I see.\nI thought internship was like a short term(1-6 months) training thing and placement was more of a long term thing.\n    │   │   └── Ahhh you're not wrong. Internships are for 6 months and FTE is a \"regular\" job. \n\nCompanies offer one or more of the following:\n\n- Internship: Usually for 6 months. Might have potential for converting into a FTE after 6 months. \n\n- Internship+FTE: 3-6 months of internship followed by a guaranteed FTE. (Assuming one doesn't royally mess up during the internship)\n\n- Only FTE: No actual internship. Usually 1-3 months of \"training\". Sometimes these don't start till June - September. If this is the case then you should look for a 6 month internship elsewhere or do a few subjects at PES.\n    │   │       └── There's also the internship+ performance based FTE, where FTE isn't guaranteed but depends on your performance during the internship. It differs from the internship+FTE because here the FTE isn't guaranteed, unlike the former where it is (unless you fuck up, as you said)\n    │   └── And around which part(month/semester) of 3rd year do these companies  come to college?\n    │       └── Starts late April and peeks around late September / late October.\n    └── The CGPA based metrics apply to both internships and placements since the requirements are usually the same"
+    },
+    {
+      "id": "l33spr5",
+      "body": "3rd year summer internship is pretty competitive, usually less than 100 out of 1400 or so from both campus get it, only around 15-20 companies come. Final year placements situation is a lot better.\n\nSkills- more than half of them will mostly focus on DSA since in 3rd year they don’t expect you to be fully thorough with domain knowledge yet, and apart from that JD specific domains or projects you have put. \n\nFew of them did have 9+cutoff cgpa so that would be best, but 8.5 or even 8 should give you many opportunities. The hardest part is clearing the coding test/mcq test because you need to come in the top 10-30 out of 1000 or so who might write it. \n\nKeep a decent resume ready (I recommend jake’s resume format using latex, even if it’s a bit overused), do leetcode, brush up on OS, CN, DBMS, have a couple standout projects and you should be good to go.\n└── Which sem are you in currently?\n    └── 6"
+    }
+  ]
+}

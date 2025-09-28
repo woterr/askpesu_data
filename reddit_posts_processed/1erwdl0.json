@@ -1,0 +1,23 @@
+{
+  "id": "1erwdl0",
+  "title": "Wi-Fi in EC campus",
+  "content": "This question is for the seniors who were in the EC campus hostel, did you guys also face a problem with your jio sim not working in the hostel and tried to use the campus Wi-Fi but anytime your laptop went to sleep or you changed location in the campus the Wi-Fi got disconnected and you easily ran out of the limited login limit, how did you help this?\n\nIn my room I have an Alexa echo and use my laptop’s hotspot as a router but that is kind of a problem to keep the laptop running for long duration also I can’t use most of the sites(even Instagram does not work😭), can’t play any games, basically I can barely use internet.\n\nTried using a vpn but that also did not work.\n\nIf anyone has similar problems or a work around you used please tell.",
+  "metadata": {
+    "root_comment_id": "li1nrry",
+    "post_id": "1erwdl0",
+    "author": "SnooJokes9347",
+    "url": "https://www.reddit.com/r/PESU/comments/1erwdl0/wifi_in_ec_campus/",
+    "permalink": "https://reddit.com/r/PESU/comments/1erwdl0/wifi_in_ec_campus/",
+    "score": 5,
+    "upvote_ratio": 1,
+    "created_utc": 1723624281,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "li1nrry",
+      "body": "If you ran out of login limit just try closing the other login tabs and if it still persists just clear your browsing history and DNS cache. It should work.\n└── Ok I’ll try this, but what about using the captive portal on ios, there are no multiple logins and is there any way I could use the restricted websites\n    └── There's no way you can bypass their firewalls even using VPN. I have no idea about captive portal on iOS coz i don't use one."
+    }
+  ]
+}

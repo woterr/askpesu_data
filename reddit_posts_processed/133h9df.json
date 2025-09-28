@@ -1,0 +1,31 @@
+{
+  "id": "133h9df",
+  "title": "C programming",
+  "content": "For 2nd sem the notes aren't organized i.e, no basic stuff codes. Any seniors out there, can you recommend any website/book which helps to  understand c concepts from scratch ?",
+  "metadata": {
+    "root_comment_id": "jia3wiy",
+    "post_id": "133h9df",
+    "author": "DaikonEmbarrassed147",
+    "url": "https://www.reddit.com/r/PESU/comments/133h9df/c_programming/",
+    "permalink": "https://reddit.com/r/PESU/comments/133h9df/c_programming/",
+    "score": 9,
+    "upvote_ratio": 0.8500000238418579,
+    "created_utc": 1682834455,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jia3wiy",
+      "body": "Youtube has been the greatest teacher for C (the most L language)\n└── Any recommendation for youtuber for c\n    └── Anything and everything is there in Code with Harry YouTube channel.\n        └── Code With Harry has screwed up Hacktoberfest 2020 by telling people they’ll get free t shirts if they make contributions. This lead to a huge spam of low quality PRs. Kinda don’t like him\n            └── You don't like him for a single reason. But for beginners he's boon. He's just phenomenal in making beginners comfortable.\n                └── Agreed. He makes the big scary topic of programming feel better"
+    },
+    {
+      "id": "jia5puv",
+      "body": "Join the PES media discord server. There's a lot of good material that people send there\n└── Can you share the link to join?"
+    },
+    {
+      "id": "jiatwde",
+      "body": "I personally make notes for every chapter, hit me up if you need them!\n\nEdit: literally every CS teacher I’ve seen in PES either leaves out stuff in syllabus or teaches the WRONG thing altogether. Relying on them will just lead you to screw up. It’s better to learn yourself from online sources. If you prefer learning on your own by experimenting or building a project, try  [phind.com](https://phind.com) for all your queries. If you want a more structured approach, you can try reading the prescribed textbook. Trust me it’s not that boring. The prescribed book is ‘The C Programming Language’ by Dennis Ritchie and Brian Kernighan. They are the inventors of C so you know they know shit. \n\nIf you still find books boring like I do, you can try the CS50 course by Harvard. There’s a freecodecamp video of it on YouTube. It’s more general and will make you fall in love with CS. \n\nIf you lack time and want something to just pass the exams, try the Neso Academy’s course on C. I’ll paste a link here if you ask\n└── Yes, post the link\n    └── [here you go](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1ipcjob",
+  "title": "c",
+  "content": "is it fine if we do c in vs code",
+  "metadata": {
+    "root_comment_id": "mcqt6ac",
+    "post_id": "1ipcjob",
+    "author": "Particular-Curve-445",
+    "url": "https://www.reddit.com/r/PESU/comments/1ipcjob/c/",
+    "permalink": "https://reddit.com/r/PESU/comments/1ipcjob/c/",
+    "score": 6,
+    "upvote_ratio": 0.7099999785423279,
+    "created_utc": 1739545450,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "mcqt6ac",
+      "body": "Rumour has it that if you use VSCode to write C then Dennis Ritchie himself will show up at midnight under your bed to crucify you on a C-shaped stake. I haven't tried it, you shouldn't either.\n├── Then Ms paint should be fine right /s\n│   ├── Too risky. I write and execute code in my mind. Zero compilation errors FTW!\n│   └── Imo write it on paper, scan it with your phone, zip the file, email it to your laptop/PC, extract it, and run it on your calculator.\n└── Could you suggest any other app for use\n    ├── MS PowerPoint. \n\nHere's a fun 5min video on the [Turing Completeness of PowerPoint](https://youtu.be/uNjxe8ShM-8?si=G6o79q5PYhYmtbAl)\n    └── Be a man and use clion"
+    },
+    {
+      "id": "mcr7dmg",
+      "body": "for what we learn in pes, its fine as long as it works  \nfor real world applications, its not  \nvscode is mainly good for JS/TS and web dev, not C"
+    },
+    {
+      "id": "mcutohn",
+      "body": "nope. you have to use vim."
+    },
+    {
+      "id": "md1llwg",
+      "body": "if your dumbass teacher says... use notepad or smthg of the sort, ditch her ass.\n\nIdeally you should use Vim."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1nhn8fw",
+  "title": "[Discussion] Is this laptop okay",
+  "content": "",
+  "metadata": {
+    "root_comment_id": "necmptu",
+    "post_id": "1nhn8fw",
+    "author": "Chethan_S_",
+    "url": "/r/Student/comments/1nhl9d9/discussion_is_this_laptop_okay/",
+    "permalink": "https://reddit.com/r/PESU/comments/1nhn8fw/discussion_is_this_laptop_okay/",
+    "score": 2,
+    "upvote_ratio": 1,
+    "created_utc": 1757946162,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "necttq1",
+      "body": "What. This is beyond overkill. You do NOT need a 5060 for aiml unless you're building an LLM or you're using it to train heavy  amounts of data. Also don't worry about the hackathons, no one's laptop will ever last a whole hackathon. Get charger that's all. I personally prefer thin laptops but your choice.\n└── Nobody is going to be training any models locally lmao.\n    └── Yeah that was my point"
+    },
+    {
+      "id": "necwbqm",
+      "body": "I had a gaming laptop when I was in my undergrad. You’re definitely not buying this for “college stuff”. The dude who recommended you to go for a lighter laptop is right.\n\nYou won’t be training any models locally. None of us do.\n\nNow, if you want to play games and stuff, sure. But carrying it around will be a pain.\n\nAnd if you have money to burn, I’d recommend getting a Thinkpad and installing Linux with your favorite distro on it"
+    }
+  ]
+}

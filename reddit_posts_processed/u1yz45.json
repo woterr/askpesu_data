@@ -1,0 +1,31 @@
+{
+  "id": "u1yz45",
+  "title": "Practice questions for C (2nd sem)?",
+  "content": "Can any seniors help me out with where to find good questions for C, since I’m sorta struggling with it.",
+  "metadata": {
+    "root_comment_id": "i4ffrws",
+    "post_id": "u1yz45",
+    "author": "POS272",
+    "url": "https://www.reddit.com/r/PESU/comments/u1yz45/practice_questions_for_c_2nd_sem/",
+    "permalink": "https://reddit.com/r/PESU/comments/u1yz45/practice_questions_for_c_2nd_sem/",
+    "score": 12,
+    "upvote_ratio": 1,
+    "created_utc": 1649769675,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "i4gxueh",
+      "body": "Try out  \"c programming: a modern approach \". I heavily relied on this for pwc"
+    },
+    {
+      "id": "i4yakq9",
+      "body": "https://www.sanfoundry.com/c-interview-questions-answers/#c-chapters    ....this was given by our comp teacher...u can use it if you want\n└── Thanks,this seems pretty helpful!"
+    },
+    {
+      "id": "i56e0f4",
+      "body": "Hackerrank karo shriman chodu"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1igrymd",
+  "title": "Career advice",
+  "content": "I am in first year cse .(Ec campus) I want to become an app developer.so is it good for me to just focus on coding and things required for app developer.like the python pes taught me in sem 1 is no where near up to date . And I don't want to expect anything from pes in c language too .so can I just start slowly and focus on one field .like i have interest and already seen other fields ",
+  "metadata": {
+    "root_comment_id": "mar39pw",
+    "post_id": "1igrymd",
+    "author": "Frequent_Purple3443",
+    "url": "https://www.reddit.com/r/PESU/comments/1igrymd/career_advice/",
+    "permalink": "https://reddit.com/r/PESU/comments/1igrymd/career_advice/",
+    "score": 7,
+    "upvote_ratio": 0.8999999761581421,
+    "created_utc": 1738597368,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "mar39pw",
+      "body": "I dabbled a little in app dev , if your interested in that I recommend learning kotlin first with jetpack compose .\n└── why not expo / RN?\n    └── Never worked on react native so can't comment, but most multiplatform apps built today are all based on kotlin multiplatform."
+    }
+  ]
+}

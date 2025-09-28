@@ -1,0 +1,31 @@
+{
+  "id": "174fgsx",
+  "title": "Hackathons",
+  "content": "I'm a first year cse student and know only Python from +1 and +2... do any of these hackathons being conducted open to first years require any programming skills beyond this to participate? What exactly is done at these events?",
+  "metadata": {
+    "root_comment_id": "k490n60",
+    "post_id": "174fgsx",
+    "author": "SpecterMaster",
+    "url": "https://www.reddit.com/r/PESU/comments/174fgsx/hackathons/",
+    "permalink": "https://reddit.com/r/PESU/comments/174fgsx/hackathons/",
+    "score": 8,
+    "upvote_ratio": 0.8999999761581421,
+    "created_utc": 1696923855,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "k490n60",
+      "body": "Hey man, I'm a first year at PESU too, I'm not sure about the Hackathon being held at RR campus but the one being held at ECC, which is Hacknight 5.0 conducted by ACM is a hackathon open to all students from 1st year to 4th year and what I've been seeing and gotten to know from seniors, all Hackathons are beginner friendly at most times as you will always have mentors who will be there to teach you and help you out!\n\nSo even if you don't know anything, don't be scared to participate in Hackathons because Hackathons will teach you a lot of stuff you don't know and which won't ever be taught by our teachers, seniors are always super open to approach and more than happy to teach you stuff, so just show up to learn and just have fun with your friends and to experience the overnight Hackathon!\n\nAlso, for Hacknight 5.0, the prerequisite is that you should know Git and have a GitHub account, but even if you don't know Git, it's not a worry at all because ACM which is the club hosting the Hackathon is holding a workshop in EC Campus on Thursday (12th October) from 3:30pm - 5pm to teach Git to everyone so even if you don't know Git it's not a big deal because you can attend the workshop on Thursday and then come for the Hackathon on Friday\n\nAnd Hackathons are not only about coding, yes coding is a big part of Hackathons but it is also a lot about your idea building and how you come up with solutions to problems\n└── Heavy marketing, who's this 💀"
+    },
+    {
+      "id": "k490zr4",
+      "body": "there are several types of hackathons, if it is a competitive programming-esque hackathon then you’d probably need to know more than the basic dsa taught in school. \n\nthere are hackathons where you have a develop the prototype for a product, for which you would need to understand the usage of several external libraries (and even programming languages apart from python). \n\nessentially- i don’t think that what you learnt in school will be enough for hackathons, but will be helpful in the sense that you have the foundation for the language, which would make learning external libraries easier."
+    },
+    {
+      "id": "k4en0vi",
+      "body": "@RowleyAnna"
+    }
+  ]
+}

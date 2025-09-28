@@ -1,0 +1,27 @@
+{
+  "id": "1e7o77j",
+  "title": "Some doubts about 3rd sem CSE",
+  "content": "1. How to study each subject? Any textbooks/yt channels which are useful?\n2. Which language(s) is suggested/most relevant?\n3. How to build a good \"profile\"? (I often hear people saying this word but I have little idea of what it involves)\n",
+  "metadata": {
+    "root_comment_id": "le1lqtq",
+    "post_id": "1e7o77j",
+    "author": "qyuwueiwl",
+    "url": "https://www.reddit.com/r/PESU/comments/1e7o77j/some_doubts_about_3rd_sem_cse/",
+    "permalink": "https://reddit.com/r/PESU/comments/1e7o77j/some_doubts_about_3rd_sem_cse/",
+    "score": 17,
+    "upvote_ratio": 0.9100000262260437,
+    "created_utc": 1721453085,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "le1lqtq",
+      "body": "1. Be thorough with pesu slides. Make your own notes for better understanding. Do read textbooks because for ESA they might ask questions from there too. Watch neso academy/gatesmashers yt channels for better explanation.\n\n2. For subjects like data structures C is most relevant so you need to be proficient in C language.\n\n3. For making a good profile, you need to mention the skills only which your confident and proficient at , you can add certifications if you have done any courses and add projects which you did in your previous semesters in GitHub and create a link."
+    },
+    {
+      "id": "le1v94q",
+      "body": "DDCO: used slides and textbook. Yt channel: neso academy \nDdco is in my opinion the toughest subject in third sem\n\nAfll: used slides and yt channel: gate smashers. \nAfll is one of those subjects where you need to practice to get good at it. Overall it is a fun subject.  \n\nWeb technologies: slides and yt channel: code with harry and Web Dev simplified.\n You're using html, css, mongodb, js and bunch of js frame works like nodejs reactjs and expressjs.  \n\nDSA: I used my teachers Google drive for this and the yt channel was code with harry. Dsa in pes is done in c language. But from the point of view of placements it's better to do again in Cpp, java or python. Keep in mind that all the coding questions in your exams need to be answered in C and not any other language. \n\nSds: if you pay attention in the class and refer to the slides you should be able to do well in this subject.\n├── Why is pesu teaching DSA on c instead of cpp tho is it because c is more hands on?\n│   └── No it is cause you guys have already studied c in your first year. If they'd do it in Cpp they'd have to teach you Cpp first. So yeah that's why they don't teach it in cpp\n├── Can u please share that drive link for DSA\n│   └── [dsa ](https://drive.google.com/drive/folders/1Wd6D5rTn-A_FAQDK62syFlXhwUbPVzyf)\n└── thanks a lot! Also what are the 1 credit courses in 3rd sem?\n    └── No\nYou will have a special topic worth 2 credits"
+    }
+  ]
+}

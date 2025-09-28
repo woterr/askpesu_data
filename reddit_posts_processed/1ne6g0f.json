@@ -1,0 +1,51 @@
+{
+  "id": "1ne6g0f",
+  "title": "[Announcement] Introducing PESU Hub - Marketplace , Lost & found , Chats and more",
+  "content": "Hey all\n\nWe just launched PESU Hub – an 'everything' platform made for PES students, by PES students!\n\nYou can:\n\n\\-Buy & sell stuff with a cart and orders system\n\n\\-Use Lost & Found to recover or report items\n\n\\-Chat directly with other students when negotiating or connecting\n\n\\-Discover and connect with people across PES\n\nIt’s live here : [https://peshub.vercel.app/](https://peshub.vercel.app/)\n\nPlease check it out and let us know if there's any feedback !",
+  "metadata": {
+    "root_comment_id": "ndm8woy",
+    "post_id": "1ne6g0f",
+    "author": "AnyCryptographer6505",
+    "url": "https://www.reddit.com/r/PESU/comments/1ne6g0f/announcement_introducing_pesu_hub_marketplace/",
+    "permalink": "https://reddit.com/r/PESU/comments/1ne6g0f/announcement_introducing_pesu_hub_marketplace/",
+    "score": 44,
+    "upvote_ratio": 0.9399999976158142,
+    "created_utc": 1757590632,
+    "flair": "ANNOUNCEMENT :snoo:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "ndmrzzx",
+      "body": "Is it mini project session already?"
+    },
+    {
+      "id": "ndmx2me",
+      "body": "ay lessgo its finally live!"
+    },
+    {
+      "id": "ndmywb2",
+      "body": "Really nice and cute project wow. You guys are gonna get placed quickly lol\n\nHow'd you get the pesuacademy credentials though?\n└── Haha, thanks a lot man! We're using an opensource API made by our seniors that's already used on the PESU discord , which validates the credentials safely. You can check it out : [https://github.com/pesu-dev/auth](https://github.com/pesu-dev/auth)\n    ├── That's neat, didn't know people did so much\n\nGood luck, hopefully you can get some traction. Very few things would impress an interviewer more than a project that's actually being used by a community\n    └── Really nice project!\n\nQuick question - how are u convincing people that the auth is safe and you aren't collecting any data ?\n        ├── Hey, I was a developer that contributed to PesuAuth api, The project is fully open source and if someone is sceptical of the api storing passwords, they can check the project files themselves on our GitHub profile\n        └── Hello, creator of the auth here (yes, it's me lol)\n\nThe repository is open source (with many being aware of its existence). I'm not affiliated with their project but curious customers can always check out the source code themselves, provided they disclose how they authenticate. \n\nFyi: PESUAuth is used today across multiple discord servers, clubs, and hobby to medium scale apps for authentication. I would recommend checking it out! We're also currently in the process of building an OAuth2 layer as well; more on that later.\n\nPS - check out everything else PESU Dev is currently building on our GitHub.\n            └── I wasnt questioning PESU-auth, I have seen the src code. My point is, how will I know if OP isn’t storing the passwords while validating thru form.\n                ├── Good question, I guess you'll have to wait for OP to answer.\n                └── We have tried to keep the authentication process transparent without open-sourcing our own code. Network traffic can be monitored,  and we are planning to approach CIE or a trusted programme who can verify the code if users have any doubts. There's not much else we can do about it\n                    └── There’s no point in hiding the code uk. I will give ppl a open source alternative and they would rather use that : https://www.pesxchange.app/\n\nNow what ?"
+    },
+    {
+      "id": "ndn2iwd",
+      "body": "Inb4 this turns into a dating app\n└── elite ball knowledge"
+    },
+    {
+      "id": "ndnqjn0",
+      "body": "Good work man! Keep it up."
+    },
+    {
+      "id": "ndnx0hg",
+      "body": "if this is vibe coded that i think it is, please make sure it is secure and the credentials arent getting leaked through api calls or anything\n└── We did use AI and help for the frontend codes and tailwind , but apart from that, we've handled the  backend , logic and security part ourselves . The authentication credentials are purely through the open source API,  which returns a safe response , so there's no scope of data like that being stored or leaked anyway"
+    },
+    {
+      "id": "ndrs1xt",
+      "body": "I aint entering my \\_pesuacademy\\_ credentials into a website thats not pesuacademy\n└── Hey, you dont need to worry, we are not storing your information anywhere. We are also building an OAuth version as well, which is more secure. After all we also respect student privacy."
+    },
+    {
+      "id": "ndt8w90",
+      "body": "great website!!\n\ncan we also have more clothing related stuff prolly the clubs cud put their shirts and jackets make it a lil more cool ofc olly for students\n└── Good Idea!! Will definitely work on it!\n    └── Hey can I DM abt ur projects and how u started out with them while also doing acads?"
+    }
+  ]
+}

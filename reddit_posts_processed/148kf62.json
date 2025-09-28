@@ -1,0 +1,23 @@
+{
+  "id": "148kf62",
+  "title": "Dilemma regarding preparation for data analyst/scientist roles , is DSA Mandatory?",
+  "content": "I'm confused as to why should I learn DSA for a data analyst/scientist role, are there no companies which come looking for a specified data analyst/scientist role?\nI just want to sit for roles which are related to data\ncan someone please guide me as to what topics i should study/ questions i should prepare for \nIs DSA mandatory?",
+  "metadata": {
+    "root_comment_id": "jo16nkc",
+    "post_id": "148kf62",
+    "author": "Pure_Negotiation_480",
+    "url": "https://www.reddit.com/r/PESU/comments/148kf62/dilemma_regarding_preparation_for_data/",
+    "permalink": "https://reddit.com/r/PESU/comments/148kf62/dilemma_regarding_preparation_for_data/",
+    "score": 3,
+    "upvote_ratio": 1,
+    "created_utc": 1686676435,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jo16nkc",
+      "body": "Looks like you've been trying to ask this for a while judging by your recent posts/comments. Let me try to break it down into simple points.\n\n1. Are there any companies that come looking for data scientist/analyst roles?\nYes, but not too many come looking with a specialised requirement. Beyond startups, maybe a handful more. Everyone comes looking for a software engineer (SWE) role. Then you get assessed based on your skills and after they assess their own requirements you get added to whichever team you might fit best. If you are interested in data science and they have positions and are willing to give you that position, you get lucky. If one of those conditions aren't met, you will be put into another team. The best way is to make your resume is aligned with your interests and what you'd like to work on. But that's honestly the maximum impact you can have at what role you get (and even that is a stretch since it doesn't depend on you, but rather their requirements).\n\n2. Why do companies do this?\nBecause they don't expect undergrads to be specialised in a field and know that they will still need to undergo training (regardless of the expert people claim to be). They can't interview everyone possibly, or filter through resumes. DSA is the quickest and most effective approach that exists at the moment to filter candidates and bring down the number of humanly possible interview-able people to maybe about 20. As mentioned in the previous point, companies might not have any specific requirements either and will put you into the team that you fit best into. They will look to hire for *all* possible roles they're looking for and then assign into relevant roles. In fact, even your interviews might not contain any such data science related questions at all - this decision will be made entirely based on the candidates they have and the requirements they have. Additionally the field you're getting into is arguably a pretty domain knowledge heavy field, so if you've noticed, most of the big companies tend to reserve these roles for people with advanced degrees (MS or higher).\n\n3. Does that mean I can't get a position as a data scientist?\nNo, you absolutely can. I myself work in Big Data Analytics. But I was recruited using the same generic \"SWE\" role. Even my official job title is that of a software engineer, although most of the work I do is in analytics. And yes, even I had to clear a DSA placement test to get through to the interviews. My interviews were mainly about my projects and my interests, so that is what probably helped me get into the analytics team for the product I work on at my organisation.\n\n4. What topics in DSA should I study for these roles?\nEverything that is relevant to DSA. Your placement test will test the same concepts as someone who is trying to be a network engineer. You won't have it easy, or get any domain based questions in that test. Anything can be asked, so prepare for everything. Additionally, CS concepts of OS, CN, DBMS also appear in tests, so make sure to brush up on those as well.\n\nHopefully this clears it up for you. If you have any other queries, feel free to DM.\n└── thank you so much for breaking it down, i had to ask this again because in one of my friend's college the companies come looking for a specified role is what she said, so i was confused \nThanks for clearing the doubts🙏\n    └── Companies *may* come looking for a specific role, but that's maybe at most about 5-10% of the companies. Even in those cases, they use DSA to filter people for interviews, so you'll need to prep DSA regardless."
+    }
+  ]
+}

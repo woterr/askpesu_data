@@ -1,34 +1,32 @@
-import os
 import json
+import os
 from anytree import Node, RenderTree
 
-# consts
+# cnfg
 POSTS_FILE = "r_pesu_posts.jsonl"
 COMMENTS_FILE = "r_pesu_comments.jsonl"
-OUTPUT_FOLDER = "processed_posts"
+OUTPUT_FOLDER = "reddit_posts_processed"
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 AUTOMOD_TEXT = "While you wait for a response, please take a moment to review some important and helpful resources."
 
 
 # fncs
-def clean_comment(body, author=None):
+def clean_comment(body):
     if not body or body.lower() in ["[deleted]", "[removed]"]:
-        return None
-    if author == "AutoModerator":
         return None
     if AUTOMOD_TEXT in body:
         return None
     return body
 
 
-def build_comment_tree(comment_json, parent_node=None):
-    data = comment_json
-    body = clean_comment(data.get("body"), author=data.get("author"))
-    if not body:
+def build_comment_tree(comment, children_map, parent_node=None):
+    text = clean_comment(comment.get("body"))
+    if not text:
         return None
-    node = Node(body, parent=parent_node)
-    for reply in data.get("replies", []):
-        build_comment_tree(reply, parent_node=node)
+    node = Node(text, parent=parent_node)
+    for child_id in children_map.get(comment["id"], []):
+        child_comment = child_map[child_id]
+        build_comment_tree(child_comment, children_map, parent_node=node)
     return node
 
 
@@ -39,63 +37,71 @@ def tree_to_string(root):
     return "\n".join(lines)
 
 
-"""
-post: has a `name` attribute with an ID
-comment: has `link_ID` attribute with the same post ID
-comment replies (threads/trees): have `parent_ID` attribute which map to the parent comment
-"""
-
-
-comments_by_post = {}
-with open(COMMENTS_FILE, "r", encoding="utf-8") as f:
-    for line in f:
-        comment = json.loads(line)
-        post_id = comment.get("link_id", "").split("_")[-1]
-        if post_id:
-            comments_by_post.setdefault(post_id, []).append(comment)
-
+posts = {}
 with open(POSTS_FILE, "r", encoding="utf-8") as f:
     for line in f:
         post = json.loads(line)
-        post_id = post.get("id")
-        if not post_id:
-            continue
+        posts[post["id"]] = post
 
-        post_comments = comments_by_post.get(post_id, [])
+comments = []
+with open(COMMENTS_FILE, "r", encoding="utf-8") as f:
+    for line in f:
+        comments.append(json.loads(line))
 
-        filtered_comments = [
-            c
-            for c in post_comments
-            if clean_comment(c.get("body"), author=c.get("author"))
-        ]
+child_map = {c["id"]: c for c in comments}
 
-        if not filtered_comments:
-            continue
+children_map = {}
+for c in comments:
+    parent_id = c.get("parent_id", "")
+    if parent_id.startswith("t1_"):
+        pid = parent_id[3:]
+    elif parent_id.startswith("t3_"):
+        pid = parent_id[3:]
+    else:
+        pid = parent_id
+    children_map.setdefault(pid, []).append(c["id"])
 
-        comment_objs = []
-        for c in filtered_comments:
-            node = build_comment_tree(c)
-            if node:
-                comment_objs.append({"id": c.get("id"), "body": tree_to_string(node)})
+for post_id, post in posts.items():
+    root_comments = []
+    for c in comments:
+        link_id = c.get("link_id", "")
+        if link_id.endswith(post_id) and c.get("parent_id", "").startswith("t3_"):
+            root_comments.append(c)
 
-        post_dict = {
-            "id": post_id,
-            "title": post.get("title", "N/A"),
-            "content": post.get("selftext", ""),
-            "metadata": {
-                "author": post.get("author"),
-                "url": post.get("url"),
-                "permalink": post.get("permalink"),
-                "score": post.get("score"),
-                "created_utc": post.get("created_utc"),
-                "flair": post.get("link_flair_text"),
-                "nsfw": post.get("over_18"),
-                "type": "submission",
-            },
-            "comments": comment_objs,
-        }
+    if not root_comments:
+        continue
 
-        out_path = os.path.join(OUTPUT_FOLDER, f"{post_id}.json")
-        if not os.path.exists(out_path):
-            with open(out_path, "w", encoding="utf-8") as f_out:
-                json.dump(post_dict, f_out, indent=2, ensure_ascii=False)
+    comment_objs = []
+    for root in root_comments:
+        tree_root = build_comment_tree(root, children_map)
+        if tree_root:
+            comment_objs.append({"id": root["id"], "body": tree_to_string(tree_root)})
+
+    if not comment_objs:
+        continue
+
+    output = {
+        "id": post_id,
+        "title": post.get("title", ""),
+        "content": post.get("selftext", ""),
+        "metadata": {
+            "root_comment_id": root_comments[0]["id"] if root_comments else None,
+            "post_id": post_id,
+            "author": post.get("author"),
+            "url": post.get("url"),
+            "permalink": "https://reddit.com" + post.get("permalink", ""),
+            "score": post.get("score"),
+            "upvote_ratio": post.get("upvote_ratio"),
+            "created_utc": post.get("created_utc"),
+            "flair": post.get("link_flair_text"),
+            "nsfw": post.get("over_18"),
+        },
+        "comments": comment_objs,
+    }
+
+    with open(
+        os.path.join(OUTPUT_FOLDER, f"{post_id}.json"), "w", encoding="utf-8"
+    ) as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
+
+print(f"{len(os.listdir(OUTPUT_FOLDER))}")

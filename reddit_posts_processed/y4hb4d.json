@@ -1,0 +1,39 @@
+{
+  "id": "y4hb4d",
+  "title": "Query about AIML",
+  "content": "What is this new course about? Is it like IE which is similar to CS with one or two subjects different? \n\nI have seen some colleges like MSRIT having AIML and CS-AIMl. Are both the courses same?",
+  "metadata": {
+    "root_comment_id": "ise5fl6",
+    "post_id": "y4hb4d",
+    "author": "XYZ1230987",
+    "url": "https://www.reddit.com/r/PESU/comments/y4hb4d/query_about_aiml/",
+    "permalink": "https://reddit.com/r/PESU/comments/y4hb4d/query_about_aiml/",
+    "score": 3,
+    "upvote_ratio": 1,
+    "created_utc": 1665818195,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "ise5fl6",
+      "body": "Some colleges have cs with specialisation in ai ml. But the one in pes is just \"ai ml\" .\n└── One of student in aiml at pesu has replied that their profile is cse in aiml... any idea why that's the case?\n    ├── I just checked the cet seat matrix and in that it's mentioned as cse in aiml... But when I was there for pessat counseling they had named it \"ai ml\" only. I think it's cse in ai ml then. It should be just like cse but have ai/ml as a compulsory specialisation unlike cse which has more options.\n    │   └── I thought the same too after viewing cet draft seat matrix but then in option entry it's given as \"aiml\"...\n    │       └── Exact same doubt. The option entry and one of the seat matrix files says aiml, but another seat matrix file says cse aiml. I called their office again, they said that its cse aiml, but I still don't trust them. They sound sus as hell.\n    └── My father had talked to the councelling staff during PESSAT round 1 and they had told him that it's CSE+AIML specialization. Even though it hasn't been written this way anywhere, they had told him that it is a CSE degree but with specialization. Not sure if it still holds the same, but this was the information conveyed to him back then."
+    },
+    {
+      "id": "ise7deg",
+      "body": "Afaik the AIML course is only different from CSE during 3rd year . As a cse student you have the option to choose electives from different streams but as an AIML student you'll only be able to choose ml electives. The other subjects remain the same. In the end your certificate will have CSE with specialization in AIML\n└── Well... I thought the same too but then how does it make sense for colleges to have both aiml and cs-aiml... it can't be the same... and if aiml in msrit isn't about specialization then wouldn't pesu follow the same too since they have mentioned just *aiml* too. I have got two replies saying in pesu it's just aiml and not the one with specialization.\n    └── The thing is , even if a normal cse student in 3rd year chooses both his electives to be from one stream(say ml) then he would get a specialization in AIML added to his certificate too. I'm not a 100% sure either but from the info I gathered , aiml is not different in anyway from the CSE course . Syllabus is the same just that both your electives will be in ML you can't choose from other streams such as IoT or data science etc.\nThis is in PES ofc idk how MSR or other colleges offer their AIML courses\n        └── Now the confusion is about whether the one offered at pes is specialisation or not. One of the fresher in aiml at pes has replied that their profile is cs in aiml... but the one given for kcet option entry is just aiml...\n            └── Im more confused now"
+    },
+    {
+      "id": "ised8dj",
+      "body": "Pesu has Aiml . Things will get different from 3yr onwards. But it's always advisable to go for Cse core, as it give a wide view of the subject and one can do specialisation in any field later. Why to be stuck to one specialisation of Aiml only!\n└── The doubt here is... whether the aiml at pesu a specialization in cs or it's core aiml? If it's specialization it's just that you wouldn't get the choice for electives... that's the only difference, right?\n    └── Perhaps it's core Aiml.\n        └── But when we called clg number, they said its a specialization in aiml ¯⁠\\⁠_⁠(⁠ ͠⁠°⁠ ͟⁠ʖ⁠ ⁠°͠⁠ ⁠)⁠_⁠/⁠¯. But they sound sus as hell"
+    },
+    {
+      "id": "isejnlb",
+      "body": "Pic of counselling ➡️ https://drive.google.com/file/d/12GFDlO_wEIWjSQiGAuGCTWOG50qnczjb/view?usp=drivesdk"
+    },
+    {
+      "id": "isf3u0c",
+      "body": "It is CSE with AIML specialization, not just AIML. Difference is that you get don't get a CSE degree in case of a pure AIML course. This info regarding what 'AIML' means is based on the councelling staff during round 1. I don't think things have changed much since then regarding it."
+    }
+  ]
+}

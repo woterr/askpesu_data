@@ -1,0 +1,31 @@
+{
+  "id": "1iricnh",
+  "title": "C and dsa",
+  "content": "we are learning C now, and will be doing most of the dsa in C from what I can understand from the syllabus of 2nd year.\nWhy are we not taught c++, and if I want to do dsa, should I choose C? \nFor placement prep and interviews, what language did u seniors use?",
+  "metadata": {
+    "root_comment_id": "md8k9h2",
+    "post_id": "1iricnh",
+    "author": "Bitter_Front226",
+    "url": "https://www.reddit.com/r/PESU/comments/1iricnh/c_and_dsa/",
+    "permalink": "https://reddit.com/r/PESU/comments/1iricnh/c_and_dsa/",
+    "score": 7,
+    "upvote_ratio": 0.8999999761581421,
+    "created_utc": 1739793951,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "md8k9h2",
+      "body": "Learn Cpp if your goal is to do DSA + OOPS understanding \n\nLearn Java if your goal is DSA + Dev \n\nCompanies mostly use Java, fairly significant no of companies in the HPC-AI, IPCV domain use Cpp\n├── Don't choose C, you have to do DSA labs in C but for leetcode and stuff use cpp/java.\n\nJust learn the pointers, enums and basics of pointer approach in C perfectly.\n├── Oh okayy, cooll....\n└── It's got nothing to do with the company and more to do with your role at the company. Every company needs people for different roles, some of which need Java, Python, C/C++ and so on. If you're focusing on DSA I'd recommend C/C++. Learn languages when you need to work on a problem in a specific field.\n    └── Oh okay. Thank u for correcting!"
+    },
+    {
+      "id": "md8kktk",
+      "body": "From a placement pov it doesn't matter which language you do Dsa in , I think u/rowlett had a similar comment talking about this before . Languages are just tools use the one which is appropriate for that situation.\n└── Thanks\n    └── As OC said, this is discussed every year and there's a question on the FAQs dedicated for this. Go check that out for more details."
+    },
+    {
+      "id": "md8yi3g",
+      "body": "the point of using C is for more deeper understanding of DSA in terms of memory allocation and manipulation. But from the industry pov C is lesser relevant and they expect some level of abstraction in order to understand things better. Hence they recommend OOP languages such as java, C++ and python. If you practice in C you will be able to understand the logic and be able to code in other languages too."
+    }
+  ]
+}

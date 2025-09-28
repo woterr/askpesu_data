@@ -1,0 +1,27 @@
+{
+  "id": "1982zdb",
+  "title": "Cgpa",
+  "content": "How to calculate total cgpa",
+  "metadata": {
+    "root_comment_id": "ki4dps0",
+    "post_id": "1982zdb",
+    "author": "Ok-Fudge6043",
+    "url": "https://www.reddit.com/r/PESU/comments/1982zdb/cgpa/",
+    "permalink": "https://reddit.com/r/PESU/comments/1982zdb/cgpa/",
+    "score": 1,
+    "upvote_ratio": 1,
+    "created_utc": 1705411975,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "ki4geka",
+      "body": "Bruh just search for the same question in this sub , it's been asked for like 20 times at least"
+    },
+    {
+      "id": "ki4lr6p",
+      "body": "Sum(Gpa in subject i × credits of subject i)/total credits"
+    }
+  ]
+}

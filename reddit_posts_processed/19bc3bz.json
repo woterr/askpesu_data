@@ -1,0 +1,31 @@
+{
+  "id": "19bc3bz",
+  "title": "Finding a \"novelty\" for capstone + actually publishing",
+  "content": "We have our first review coming up soon, and my team hasn't been able to find a \"novelty\" or research gap. Most of the topics we suggested to the guide have already been worked upon, and we found tonnes of research already published. Our guide kind of told us that we can take up already published work and \"alter it a little\".\nWe have no clue which other algorithm might work/how to even alter it. So how  we convince the panel about \" Novelty\"? Also what if we are unable to publish our research at the end of this whole thing as there is no real novelty?",
+  "metadata": {
+    "root_comment_id": "kiqpdvr",
+    "post_id": "19bc3bz",
+    "author": "random_pentacle",
+    "url": "https://www.reddit.com/r/PESU/comments/19bc3bz/finding_a_novelty_for_capstone_actually_publishing/",
+    "permalink": "https://reddit.com/r/PESU/comments/19bc3bz/finding_a_novelty_for_capstone_actually_publishing/",
+    "score": 8,
+    "upvote_ratio": 1,
+    "created_utc": 1705758316,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "kiqpdvr",
+      "body": "Okay so they call it a novelty but it need not be a real novelty.  \nJust present it as novel and revolutionary and the guide will be happy.  \n\n\nYou can even recreate a research paper, and during implementation you're bound to run into problems, the workaround will be the novelty.  \n\n\nAs for publishing the paper, the conferences are a money game and have partnerships with the university. Complete the paper, it should just look \"novel\" as long as you don't go into details and you're done. Your guide will suggest a conference and half the papers there will be there from PES.\n├── Don't promote/encourage these predatory conferences and poor-quality research. It is ethically wrong, dilutes the quality of research and undermines the effort put in by actual, novel and quality researchers.\n│   └── Lol ik it's wrong, that's what the college had us do.\n\nThey pretty much force the students to take part in these.\n\nIf your grades are put on the line, what else would you do?\nIt's pretty much the way to get good grades.\n│       └── >It's pretty much the way to get good grades.\n\nUhm no? Why not put in an honest effort into the Capstone? Coming up with something new is difficult but it is not that difficult to come up with an idea given that it does not have to produce state-of-the-art results. You cannot possibly neglect Capstone for a year and then say \"my grades were put on the line by PES\".\n\n>They pretty much force the students to take part in these.\n\nCapstone is worth 10 credits of your degree, you are expected to put in effort into this. Its just like how you would study for endsems for any other course.\n│           └── Ik that's the proper way but you do know that's not what happens in this college.\n│               └── I think if that's the mindset you have starting off your capstone you're bound to end up presenting a last minute github cloned project, writing a meaningless paper, and submitting it to a predatory conference. I don't think it's too difficult to do it the \"proper way\" if you put actual time and effort into it.  \n\n\nIf all you want is the grade and to get done with it fine, but \"They pretty much force the students to take part in these\" and \"It's pretty much the way to get good grades\" is completely untrue.\n└── Appreciate the honesty... I was wondering how 400+ teams could possibly come up with good research ideas each year, now I get how this works. Very sketchy.\n    └── I used to wonder the same thing when we were starting the capstone. Try to make a novel project, but don't worry too much about it. You'll get the marks, but if you are able to make a good project, that knowledge will help you."
+    },
+    {
+      "id": "kiqwrwc",
+      "body": ">We have our first review coming up soon, and my team hasn't been able to find a \"novelty\" or research gap. Most of the topics we suggested to the guide have already been worked upon, and we found tonnes of research already published.\n\nThats okay, its not always possible to come up with something novel. In fact, 95% of teams during the Capstone do not. Most of the remaining 5% always make what is called \"marginal improvements\" and probably 1-2% actually build something new. So don't lose heart. \n\nThe way I go around finding novelty is looking at past approaches and jotting down these conclusions from a paper - an overall summary of the approach, the issues it covers/mitigates/solves, the issues it creates/does not cover. Most research builds on existing ones. If you can find say 3 different approaches that solve the same problem and find a way to combine these methods, that will get you something new. In most cases, thinking of a problem logically and ideating a lot of things also brings across ideas. Also the most important thing - your idea **does not** have to be state-of-the-art - novel approaches that do not beat existing benchmarks are still considered valid research. \n\n>Also what if we are unable to publish our research at the end of this whole thing as there is no real novelty?\n\nI would not worry about this. India is filled with predatory journals, conferences and workshops that accept practically *any* kind of work so they can publish them. Its very unethical and dilutes research, but it is what it is. Personally, I only try to publish in well known peer-reviewed international venues. You should aim for those. But worst case, if you *do* need a backup, don't worry - there are hundreds of backup solutions available.\n├── Thanks man, this really helped\n└── Thanks a lot. This cleared up a lot of things for me."
+    },
+    {
+      "id": "kirlplg",
+      "body": "I think you can go for something along the lines of a comparative study too? Not sure how it works since our guide never recommended it to us but some teams do that.\n└── Oh okay.. Will try asking the guide what she thinks about this. Thanks!"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1ge13ow",
+  "title": "Help needed related to CEH (cyber security) exam conducted by EC council,",
+  "content": "I wanted to get into the field of cyber security..as of now,im in my second yr of college..I have some experience with kali and its tools along with tryhackme free modules, and i was thinking about doing my CEH V13 exam next yr, but the price is around 54k if i take it within this month..im not sure what to do since its a lot of money and also it will take a lot of my time . Can someone experienced enough in the field of pentesting, red team or cyber security in general provide me any guidance about this matter or whether this CEH cert is worth the cost and time. Cuz i will be getting around 3 certs for the price which are the preactical, theory and master version. Please help me related to this.",
+  "metadata": {
+    "root_comment_id": "lu629tx",
+    "post_id": "1ge13ow",
+    "author": "Ok-Flight9847",
+    "url": "https://www.reddit.com/r/PESU/comments/1ge13ow/help_needed_related_to_ceh_cyber_security_exam/",
+    "permalink": "https://reddit.com/r/PESU/comments/1ge13ow/help_needed_related_to_ceh_cyber_security_exam/",
+    "score": 3,
+    "upvote_ratio": 1,
+    "created_utc": 1730119528,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "lu629tx",
+      "body": "CEH is certainly not worth it. It's hardly respected anymore.\n└── really? then which ones are considered good for entry lvl\n    └── OSCP is one of the most well respected ones, but it's quite difficult and very expensive (1000 USD per attempt last I checked). I have also heard good things about eJPT which I think is a good entry level cert.\n        └── Yes OSCP costs 1.4 lakh INR and im thinking of taking it next yr, after finishing up with CPTS with 1 yr into HTB student membership"
+    },
+    {
+      "id": "lu65egi",
+      "body": "Ceh is not a red team cert, Apparently OSCP is supposed to be an entry level cert for red teaming if you wanna take up that you have to do eJPT too for practical experience and it's recommended too. but there's another one which is growing its popularity i.e., CPTS from HTB.\n\nWhich campus btw ?\n└── tbh im from RIT, i just wanted info abt this fast ;-; ..tysm i think i will try for CPTS this yr end after doing HTB for 8 months and give my OSCP next yr mid\n    └── Atb man\n        └── tyy <3"
+    },
+    {
+      "id": "lu66dhc",
+      "body": "Also if you wanna take up any security certs, do visit ISFCR RR campus, they've collaboration with various companies such as EC council & comptia so you'll get in discounted price.\n\nhttps://preview.redd.it/i89hu6kizhxd1.jpeg?width=1078&format=pjpg&auto=webp&s=571247f9d04403c5ca723051902ae0f027ff0068\n├── got it ty\n└── hey man do you think sec+, ceh and some bug bounties on resume will get me a job in this market? or im cooked"
+    }
+  ]
+}

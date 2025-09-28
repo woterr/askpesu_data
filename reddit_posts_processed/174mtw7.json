@@ -1,0 +1,51 @@
+{
+  "id": "174mtw7",
+  "title": "web tech",
+  "content": "hello seniors \nI'm currently in 3rd sem and I'm really struggling with the web technology subject. How important is web tech for placements and do we require web tech knowledge for higher semester subjects?",
+  "metadata": {
+    "root_comment_id": "k4a92jl",
+    "post_id": "174mtw7",
+    "author": "Strange-Slide-5300",
+    "url": "https://www.reddit.com/r/PESU/comments/174mtw7/web_tech/",
+    "permalink": "https://reddit.com/r/PESU/comments/174mtw7/web_tech/",
+    "score": 14,
+    "upvote_ratio": 0.949999988079071,
+    "created_utc": 1696948639,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "k4a92jl",
+      "body": "My friends seem to find web tech easy though..."
+    },
+    {
+      "id": "k4ad305",
+      "body": "Web development is literally the life of the placement cycle lol. 90% of the companies are looking for software devs. Don't get discouraged as it may not be for you. The classroom setting or your professor also plays a big role. Give it a shot and learn it on YouTube(there are a plethora of resources)\n└── Untrue. You're not asked much about front end dev, or dev at all. Mostly DSA, OS, CN and the likes.\n    └── Must have had different experiences then. DSA did play a key role in clearing the initial rounds but that did not carry over to further rounds."
+    },
+    {
+      "id": "k4dojy4",
+      "body": "It doesn't play a big role in placements but its good to have webtech projects in your resume, preferably full stack (mern or anything you want).\n\nInterviewers mostly see your DSA, algorithms coding skills and questions are from concepts of computer networks, software engineering practices, OS, Database management etc."
+    },
+    {
+      "id": "k4ebkzm",
+      "body": "Dw mate, it is probably that you've gotten a really bad professor. I'd suggest you to get my notes, DM me if you want them. They have everything in them from the very basics"
+    },
+    {
+      "id": "k4kkeco",
+      "body": "Ask for Kundhavai ma'am recordings\nTill u3 you won't understand a lot, after that you will be able to connect the dots and understand the whole subject, I went from getting a D in that subject to A grade\n\nAnd yes web tech is most likely going to be the work you will be doing after you are placed in a company.."
+    },
+    {
+      "id": "k4km4fj",
+      "body": "theodinproject will save ur life. search it up"
+    },
+    {
+      "id": "k4xwuya",
+      "body": "Hey man i have been there in your situation, from what ik the college teach html css js pretty decent, but u ll struggle a bit from jquery react and node.\nBefore u jump into react make sure u know callbacks,promises and async await in Javascript as these are not taught extensively in your course.\nSo for react i got this yt video for u, which can help u understand class based components(statefull components) , in class based components mostly u have constructor,super and binding events which u wont find in functional components.\n\nThis is the yt video im talking about:\n\nhttps://youtu.be/Ke90Tje7VS0?si=YvuWt3EPleFfjL3v\n\n\nFor stateless components or functional components there are many yt videos , just pick any project from any video.and make sure u implement the project as your web tech project.i highly recommend  you to use functional components instead of class based components for your web tech project.Also dont just stick to the yt video , u can explore in stack overflow or chatgpt for the extra things you need in your project(like redux or reactcontext to manage your states).\n\n\nFor mongodb u can follow the pesu slides, they r pretty good.\n\nFor nodejs also i got a playlist for u:\n\nhttps://youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&si=LY531KEyauPHAogv\n\nU can use this same yt channel for express also, since express is a framework of node , u can learn it easily after learning node.\n\n\nNote: Dont follow these youtube videos blindly, try to watch one yt video and try to complete some assignments they give u or implement the things u learn in these youtube videos in your project. Otherwise u ll get stuck in something called tutorial hell, where u just keep watching yt videos and dont learn anything.\n\n\n\nThat being said i got  39/50 in my isa+project component, I was still able to get an A grade as esa was decent for me.so even if you have messed up ur isa, dont give up just yet.\n\n\nAll the best!"
+    },
+    {
+      "id": "k8ig6df",
+      "body": "Your in the right direction"
+    }
+  ]
+}

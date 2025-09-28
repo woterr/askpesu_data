@@ -1,0 +1,27 @@
+{
+  "id": "1aroqgj",
+  "title": "DSA in python",
+  "content": "I'm thinking about switching from studying dsa in C to studying it in python, are there any drawbacks of using python for dsa wrt placements?   \nsecondly what languages are you guys using to study dsa?",
+  "metadata": {
+    "root_comment_id": "kqnqong",
+    "post_id": "1aroqgj",
+    "author": "Extreme_Dog4110",
+    "url": "https://www.reddit.com/r/PESU/comments/1aroqgj/dsa_in_python/",
+    "permalink": "https://reddit.com/r/PESU/comments/1aroqgj/dsa_in_python/",
+    "score": 5,
+    "upvote_ratio": 1,
+    "created_utc": 1708027564,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "kqnqong",
+      "body": "Focus more on the algorithm than the language. That being said C w.r.t placements is not recommended. Java, C++ or python will be ok.\n└── ight, thanks for your opinion and just out of curiosity which language did u use?\n    └── I used Java primarily and python if Java failed. (I hate C++). I'd recommend learning C++ no matter what as it'll help with a lot of the MCQs."
+    },
+    {
+      "id": "kqrzecv",
+      "body": "I think DSA in Python is better as it'll expose you to Object Oriented programming. In C, you can define your structs however you like, use them as linked lists with pointers and what not. Java should be your ideal choice to implement data structures, but Python also works. Moreover, most of your coding tests during placements require you to code in Python/Java/C++.\n└── Thanks for your help!"
+    }
+  ]
+}

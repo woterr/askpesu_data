@@ -1,0 +1,23 @@
+{
+  "id": "ry045y",
+  "title": "Notes in PESU academy",
+  "content": "So I wanted to know whether the notes in PESU academy portal are any useful. I've heard from a few people that they lack information.\nSo are they any good? Sorry if this question seems a little petty. Thanks!",
+  "metadata": {
+    "root_comment_id": "hrlqb50",
+    "post_id": "ry045y",
+    "author": "indianrhapsody",
+    "url": "https://www.reddit.com/r/PESU/comments/ry045y/notes_in_pesu_academy/",
+    "permalink": "https://reddit.com/r/PESU/comments/ry045y/notes_in_pesu_academy/",
+    "score": 3,
+    "upvote_ratio": 0.8100000023841858,
+    "created_utc": 1641534480,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "hrlqb50",
+      "body": "TL;DR: Mostly no notes, only PPT presentations. Detail depends on professor preparing them.\n\nNotes are usually non existent on the portal. For the past three semesters I've seen notes only for a couple of courses. However, all courses will have the PPT presentations used while teaching. The level of detail depends on the professor preparing the slides. Some include almost all the important information in the slides, so going through them before an exam should be enough. Some professors on the other hand tend to be cryptic, and give all the relevant information while delivering the lecture. In some cases, professors prepare their own slides which are better than the ones available on the portal, and you will be given a Google Drive link to these slides. We had a course called Machine Intelligence, whose slides on the portal were not very helpful. But, another professor prepared her own slides and shared the GDrive link, and these were a lifesaver. Usually, you will find atleast one set of PPT presentations that contain enough information to understand the concepts and ace your exams.\n└── I'm a graduate, just curious but what topics does the Machine Intelligence course contain? Do you guys still have machine learning as a 5th sem course?\n    └── Decision trees, kNN, perceptrons and Artificial Neural Networks,  Support Vector Machines, Bagging and Boosting, Bayesian Learning, Hidden Markov Models, Expectation Maximization Algorithm, Gaussian Mixture Models, K-means clustering, Principal Component Analysis, Singular Value Decomposition, Genetic Algorithms, Particle Swarm Optimization, Recurrent Neural Networks, LSTM, GRU, Convolutional Neural Networks, Regularisation, Optimisers\n\nYes, we have it in the 5th semester.\n        └── Yeah this used to just be called Machine Learning for us. Not sure why the rebranding.\n\nThough LSTMs, GRU and other more deep learning centric topics were usually in an elective called Topics in Deep Learning\n            └── Idk lol. They've done that to a lot of courses."
+    }
+  ]
+}

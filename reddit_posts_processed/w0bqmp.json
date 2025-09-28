@@ -1,0 +1,43 @@
+{
+  "id": "w0bqmp",
+  "title": "I got 62 rank in pessat and i would love to explore the field of ai and ml but there's some doubt as in pes ai and ml course has recently started so it would be good to take it or not?",
+  "content": "",
+  "metadata": {
+    "root_comment_id": "igdpa5a",
+    "post_id": "w0bqmp",
+    "author": "i_shivenn",
+    "url": "https://www.reddit.com/r/PESU/comments/w0bqmp/i_got_62_rank_in_pessat_and_i_would_love_to/",
+    "permalink": "https://reddit.com/r/PESU/comments/w0bqmp/i_got_62_rank_in_pessat_and_i_would_love_to/",
+    "score": 12,
+    "upvote_ratio": 0.9300000071525574,
+    "created_utc": 1657959723,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "igdpa5a",
+      "body": "Here's my two cents - don't take the AI/ML course. As someone who has spent 4 years here, I can safely say that the teachers here barely qualify for the CS course. Besides, it's a completely new course and teachers have absolutely 0 experience and is pretty risky. \n\nThe other thing being that personally I've seen a LOT of students back out of ML once they realise what it really is (spoiler warning - it's all math). And if you are really keen on it, you can always pick it up on your own. It's what I did and was able to build the beginning of my career from that. Taking CSE is a safer option, gives you room to explore different domains and also switch tracks if you need to.\n└── Agree. It is probably better to learn AI/ML from Andrew Ng through Coursera. Would recommend that you take core CSE and then later you can decide what to specialize in, through electives.\n    └── Yes. Not a good idea to restrict yourself to AI/ML now because if you happen to not like the basics of the subject, you won't be able to find a way out since you've essentially chained yourself to it for the next 3 years. \n\nTake core CSE, spend the first year exploring different domains and find out what you're truly interested in. If it's AI/ML or anything else, there are multiple roadmaps to follow. Just because you don't take it now doesn't mean you'll miss out"
+    },
+    {
+      "id": "ige789a",
+      "body": "Take the CS course"
+    },
+    {
+      "id": "igeahes",
+      "body": "As everyone else said, go for CSE over AI/ML any day\n\nAtleast that way if you really want AI/ML you can just do the specialization while choosing your electives\n\nNot to mention, most of the good CS professors have left so the new course is too risky"
+    },
+    {
+      "id": "igebu3j",
+      "body": "don't take aiml bro take cse"
+    },
+    {
+      "id": "ighbxqr",
+      "body": "Graduate here working in the AI/ML space - over 50% of my work isn't even ML. Broad knowledge in CS and cloud development is essential for any engineering role. Research roles are much harder to get and take a lot of dedicated search. \n\nTake CSE - see if you like the intro courses and if you do, take the specialization. You'll be surprised at how much your interests can shift. If you find that you really want to deep dive into a specific field, an MS/PhD is the way to do it.\n└── Thanks"
+    },
+    {
+      "id": "igi4sb2",
+      "body": "Dude, lemme tell you somethings:\n\nPoint1: The teachers that teach you AI/ML are the ones that used to tech  CS still now.\n\nPoint2: CS is superset of AI/Ml ie you can explore AI/Ml domain studying as a CS undergrad by taking the right(AI/ML) electives.\n\nPoint3: There is more learning available on the net whch you will hve to utilize than teachers or courses teaching here.\n\nPoint4: If you by chance figure out AI/Ml is not your domain but system programming is(lets say after 2 years), if you are a cs undergrad, its not an issue to shift your attention to systems side. But if you are an ai/ml undergrad, it would be tougher as you wouldnt get systems electives(not too sure on this).\n\nPoint 5: The cutoff of cs is better than ai/ml."
+    }
+  ]
+}

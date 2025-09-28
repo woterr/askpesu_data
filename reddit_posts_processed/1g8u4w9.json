@@ -1,0 +1,27 @@
+{
+  "id": "1g8u4w9",
+  "title": "Campus Wifi problem ",
+  "content": "How to connect to E-City campus Wifi, when i click on the wifi it does not redirect me to the captive portal instead it asks security key.\n\nHave Tried with mobile and laptop and still doesn't redirect\n\nAlso tried typing the dns server (192.254. one) in a browser and site doesn't open\n",
+  "metadata": {
+    "root_comment_id": "lt69ysc",
+    "post_id": "1g8u4w9",
+    "author": "Qunatavious_Curry",
+    "url": "https://www.reddit.com/r/PESU/comments/1g8u4w9/campus_wifi_problem/",
+    "permalink": "https://reddit.com/r/PESU/comments/1g8u4w9/campus_wifi_problem/",
+    "score": 3,
+    "upvote_ratio": 0.8100000023841858,
+    "created_utc": 1729528625,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "lt69ysc",
+      "body": "All the EC CAMPUS wifi networks have the Password as the network name itself\nex:wifi \"EC-CAMPUS\" the password is \"EC-CAMPUS\"\nAnd after connecting to that it redirects to the internet captive portal where you use the credentials given in pesuacademy\n└── oh, i was banging my head the past couple of days trying to find the solution....thanks alot man\n    ├── Do lemme know if it works\n    │   └── it worked, thanks alot man\n    │       └── Nice\n    └── how did u survive for this long lol\n        └── yeah it was dreadful, especially during breaks"
+    },
+    {
+      "id": "lvbsqk6",
+      "body": "Hey I’m facing a similar issue , there isn’t a redirection for me once I’m connected to pesu ec Wi-Fi\n└── it worked for me when i put the wifi's name as password (eg. PES-EC-Campus, case sensitive btw), it then redirected me to portal"
+    }
+  ]
+}

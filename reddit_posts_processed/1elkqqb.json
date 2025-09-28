@@ -1,0 +1,31 @@
+{
+  "id": "1elkqqb",
+  "title": "what exactly is asked in placement tests",
+  "content": "is it almost completely leetcode or is there some os, cn, general stuff etc\n\nalso, what level of questions are asked? any easies or onlu medium and hard?\n\nare there any companies that ask easy questions only? how much do those generally pay\n\nhow important is your GPA and projects. what in your opinion would make a project better than another?\n\n  \nthanks so much for the help",
+  "metadata": {
+    "root_comment_id": "lgsfyyb",
+    "post_id": "1elkqqb",
+    "author": "meddlin_cartel",
+    "url": "https://www.reddit.com/r/PESU/comments/1elkqqb/what_exactly_is_asked_in_placement_tests/",
+    "permalink": "https://reddit.com/r/PESU/comments/1elkqqb/what_exactly_is_asked_in_placement_tests/",
+    "score": 19,
+    "upvote_ratio": 1,
+    "created_utc": 1722958134,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "lgsfyyb",
+      "body": "also something else i need to ask, are research papers important? do they care about the number of papers? \n\nor do they just want you to talk about your papers just like you talk about your projects? a teacher says that spending effort on a good project is not worth it if you don't push a paper from it\n└── If you mention your papers in your resume they might ask you questions based on it, be sure you completely thorough with whatever you put in your resume.\n    └── Papers aren't important in terms of placements unless you are applying to research roles or roles related to the topic of the paper. In most cases, companies recruit general SWEs, so there is no topic based filtering. However yes, do add the paper to your resume because it can work as a tiebreaker if needed."
+    },
+    {
+      "id": "lgshmya",
+      "body": "OA can have medium/hard leetcodes or even code forces level of ques.\n\nInterviews are easier than OAs... focus on the basics of your chosen language, for dsa, medium level questions would be sufficient, don't miss out on OOPS & try and implement everything when you're learning the stuff.\n\nFor OS & CN, the top 100 ques from gfg should be enough for most of the companies, and for DBMS, you can go in a little more depth, but, focus on SQL, transactions, etc\n\nDev/AIML ques depend on company....can't say anything about it but, just be prepared with your domain (at least the basics)\n\nProjects matter a lot, too....be prepared as they can throw any kinda ques related to your projects....I'd say keep them unique and it'll give you an edge.\n\nKeep your gpa near 8. Helps a lot in getting shortlisted.\n└── Do people of pesu cheat in oa? Like it happens in other clgs?\n    └── People cheat everywhere. You will find such people in IITs too.\n        └── Ayo, rowlet anna, you aren't sleeping? It's 1 am..\n            └── Owls are nocturnal.\n                └── Pes does nothing for people who cheat in oa?\n                    └── Well, what do you expect PES to do?\n                        └── Fuck them."
+    },
+    {
+      "id": "lgtlxry",
+      "body": "There are already good answers here. You can check the [FAQs](https://www.reddit.com/r/PESU/comments/14c1iym/faqs/), there are two links that discuss CGPA vs skills as well as how to prepare for CS placements."
+    }
+  ]
+}

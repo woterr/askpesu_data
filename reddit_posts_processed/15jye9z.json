@@ -1,0 +1,51 @@
+{
+  "id": "15jye9z",
+  "title": "Which is the best Linux distro according to you??",
+  "content": "",
+  "metadata": {
+    "root_comment_id": "jv2htlo",
+    "post_id": "15jye9z",
+    "author": "Expert-Address-2918",
+    "url": "https://www.reddit.com/r/PESU/comments/15jye9z/which_is_the_best_linux_distro_according_to_you/",
+    "permalink": "https://reddit.com/r/PESU/comments/15jye9z/which_is_the_best_linux_distro_according_to_you/",
+    "score": 2,
+    "upvote_ratio": 0.75,
+    "created_utc": 1691350560,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jv2htlo",
+      "body": "All the experienced ones out there are gonna say Arch."
+    },
+    {
+      "id": "jv2vdb7",
+      "body": "C'mon don't be silly, everyone knows the right answer is [Hannah Montana Linux](https://hannahmontana.sourceforge.net/)"
+    },
+    {
+      "id": "jv35fmr",
+      "body": "In love with fedora. Stable and up to date. Tbh tho distro dosent matter atp with Distribox and docker being a thing now you can debian stable on your laptop and use arch on Distribox."
+    },
+    {
+      "id": "jv5w200",
+      "body": "Pop!\\_OS"
+    },
+    {
+      "id": "jv5wiyu",
+      "body": "Mint for me!\nBeen using it as my daily for over 2 yrs.."
+    },
+    {
+      "id": "jv60ql0",
+      "body": "Whichever u use make sure to dual boot the os instead of using a virtual machine . Otherwise u will face some hardware related issues"
+    },
+    {
+      "id": "jv63jxh",
+      "body": "Ubuntu"
+    },
+    {
+      "id": "jv6sbsb",
+      "body": "If you are starting off then ubuntu if thats only OS you wanna run on the system or Lubuntu if you mostly focus on just learning the commands and also as a vm. You also have the option of wsl in windows for practicing commands.."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1hrw8vp",
+  "title": "How do I get out of tutorial hell?",
+  "content": "Hey I'm a 2nd year Cs student here , I've been trying to learn Go in the past few weeks during our sem break and followed some videos of go from freecodecamp academy on YouTube  , tried even building some projects from those videos but the thing is when ever I try to do something outside that I'm completely clueless and lost . This has happened to me multiple times before when I try to learn something but unable to do shit outside whats shown in a video. Pls help me get out of this tutorial hell .",
+  "metadata": {
+    "root_comment_id": "m516pk4",
+    "post_id": "1hrw8vp",
+    "author": "Extra_Good_5214",
+    "url": "https://www.reddit.com/r/PESU/comments/1hrw8vp/how_do_i_get_out_of_tutorial_hell/",
+    "permalink": "https://reddit.com/r/PESU/comments/1hrw8vp/how_do_i_get_out_of_tutorial_hell/",
+    "score": 34,
+    "upvote_ratio": 0.8999999761581421,
+    "created_utc": 1735831791,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "m516pk4",
+      "body": "A youtuber called coding sloth made a video on it(usually his videos are good) i didn't watch it but it should be helpful."
+    },
+    {
+      "id": "m516s3i",
+      "body": "Step 0: Find a real life problem you want to solve  \nStep 1: Break the problem down  \nStep 2: Google. More often than not, someone else has had the same problem. Don't you dare ChatGPT, it'll lead you down a rabbit hole it hallucinated into existence. A few problems are 'ChatGPT-able' though. You'll eventually understand which ones are Google-able and ChatGPT-able."
+    },
+    {
+      "id": "m51iruc",
+      "body": "I've built a few projects in Go, my advice would be to try and build something basic, like a CRUD application. But every time you get stuck trying to implement a feature, you should look up how to do that part only, not the entire feature. Dont be afraid to fail, once you realize you dont know something, learn it, and go back to implementing the rest. If you dont feel confident after having implemented one feature, implement something else. For example, if you're implementing a student management system (basic CRUD example), if you looked up how to implement \"Create Student\" endpoint, maybe next time try implementing \"Create Department\" on your own."
+    },
+    {
+      "id": "m51llxm",
+      "body": "I learned React from July to October and started by watching tutorials (I already knew the basics) on some simple projects like a weather app and similar ones. Later, I worked on slightly more complex projects, relying mainly on documentation or GPT (only when I was really stuck).\n\nI think that’s how it should work: get comfortable with the syntax (memorizing it isn’t necessary; you can always look it up), make documentation your best friend (there’s a resource for almost everything), and if you feel completely clueless, don’t hesitate to take help from an AI. After that, try building more projects with some assistance, but always make sure you understand what’s happening. There will come a time when you won’t feel clueless anymore.\n\nI’m not an expert in this field yet, so feel free to correct me if I’m wrong."
+    },
+    {
+      "id": "m52mcda",
+      "body": "Go specific answer- check out Gophercises by Jon Calhoun\nFamiliarize yourself with the syntax of Go first by writing basic ass programs (hello world, Fibonacci, fizzbuzz type of things) and then go to Gophercises which takes you through lots of cool stuff like basic CRUD apps, and also things like channels and goroutines which are the secret sauce of all production Go code\nWishing you all the best and hope you enjoy it because Go is an absolute gem of a programming language and something that's here to stay because lots of cloud native tools are implemented in Go \n(https://gophercises.com/)\n└── Will second this, its a great resource."
+    },
+    {
+      "id": "m54qiwb",
+      "body": "Work on a small project or implement what you learnt on a project you already have, just try changing it to that language of possible."
+    }
+  ]
+}

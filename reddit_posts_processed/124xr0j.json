@@ -1,0 +1,27 @@
+{
+  "id": "124xr0j",
+  "title": "Has our uni's database been compromised before?",
+  "content": "Just curious lol\nEdit: I want to know if any students have abused the system to probably change their grades",
+  "metadata": {
+    "root_comment_id": "je1kdgj",
+    "post_id": "124xr0j",
+    "author": "WishIWasDead2004",
+    "url": "https://www.reddit.com/r/PESU/comments/124xr0j/has_our_unis_database_been_compromised_before/",
+    "permalink": "https://reddit.com/r/PESU/comments/124xr0j/has_our_unis_database_been_compromised_before/",
+    "score": 11,
+    "upvote_ratio": 1,
+    "created_utc": 1680028162,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "je1kdgj",
+      "body": "Yes, by themselves lmao. PES regularly sends out emails with spreadsheets containing email and contact numbers of all students. There is zero data security here. They do this so you can confirm details for a course registration or for some other reason lol :kekw:"
+    },
+    {
+      "id": "je4uwei",
+      "body": "At one point of time, a simple Google search with a students name and PES added would give an Excel sheet including all details of students in the same batch. They had numbers, section, batch... Later I guess they got to know about this and now they have secured the db I guess."
+    }
+  ]
+}

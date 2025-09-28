@@ -1,0 +1,31 @@
+{
+  "id": "1gxu53z",
+  "title": "4th year CSE students, which is the EASIEST elective in these?",
+  "content": "1) Which elective is the easiest in these?\n\na) Algorithms for Information Retrieval\n\nb) Image Processing and Computer Vision\n\nc) Natural Language Processing\n\nd) Generative AI and its Applications\n\n\n\n2) Which elective is the easiest in these?\n\na) Topics in Deep Learning \n\nb) Machine Learning on Graphs",
+  "metadata": {
+    "root_comment_id": "lyjq22r",
+    "post_id": "1gxu53z",
+    "author": "Unique_End2643",
+    "url": "https://www.reddit.com/r/PESU/comments/1gxu53z/4th_year_cse_students_which_is_the_easiest/",
+    "permalink": "https://reddit.com/r/PESU/comments/1gxu53z/4th_year_cse_students_which_is_the_easiest/",
+    "score": 17,
+    "upvote_ratio": 0.8799999952316284,
+    "created_utc": 1732346635,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "lyjq22r",
+      "body": "1. Algo for IR\n2. ML for Graphs\n└── I think ML for Graphs is on the same level as TDL. NAM is now merged with GT and this is a new subject. ML for Graphs goes in depth into one topic while TDL explores multiple topics more briefly. A lot of topics are the same among these too.\n    └── Ah that's a new update, I thought it was a new name for NAM. You're right then, thanks for the correction :)\n        └── Yeah, a lot of people took GT in sem 5 because they thought it would be easy, but they were angry when they learnt about the syllabus changing and getting considerably harder lol. \n\nI took ML for Graphs(called Meta Learning for Graph Abstraction) in sem 6 and after the first few topics which introduces graphs to non-GT students(I opted for BD in sem 5), the subject deals almost entirely with graph embeddings, GNNs and generative models such as VAEs. I had a lot of topics in common with my friends in TDL but their focus was a lot more broad. \n\nIt's a very good subject from a learning/theory point of view(I learnt so much more about ML, especially the mathematics behind it than Machine Int. in sem 5) but it's something that's better taken if you're interested in learning something new instead of getting good grades(although eventually most of us did well in it). However, TDL seemed to be more levelled while MLGA had a steeper learning curve."
+    },
+    {
+      "id": "lyjqykg",
+      "body": "oh..did u make a new account for posting this?"
+    },
+    {
+      "id": "lykpdez",
+      "body": "1. Definitely Algos for IR. Topics are easy and the assignments and project don't require too much effort either. \n\n2. Both are more or less on the same level. I took ML for Graphs(MLGA was what it was called for us) and both of them have similar grading schemes. ML for Graphs has more formulae and is a deep dive into one topic while TDL is more theoretical and a more surface level explanation of multiple topics."
+    }
+  ]
+}

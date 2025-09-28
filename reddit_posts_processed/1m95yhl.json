@@ -1,0 +1,35 @@
+{
+  "id": "1m95yhl",
+  "title": "[Placements] Do companies only expect software development skills from CS students during placements?",
+  "content": "Hi everyone,\n\nToday, I attended the Pre-Placement Talk of Goldman Sachs, and they mentioned that they are hiring for the SDE (Software Development Engineer) role for the upcoming Summer Internship. I’ve also noticed that several other companies are offering similar SDE roles.\n\nThis has left me wondering —\nDo companies only expect software development skills from CS students?\n\nWhat if someone is more interested in Data Science, Data Analytics, or other non-SDE roles? Do these companies even consider such profiles seriously during on-campus placements?\n\nDo Tier 1 and Tier 2 companies ever hire for Data Analyst, Data Scientist, or related roles directly through campus placements?\n\nI'm genuinely confused about whether I should continue building skills in data related field or shift focus toward SDE preparation just because that’s what most companies seem to be offering.\n\nIt would be really helpful if some seniors could share their experiences or guide us on how to navigate this situation.\n\nThanks in advance!",
+  "metadata": {
+    "root_comment_id": "n54jgbz",
+    "post_id": "1m95yhl",
+    "author": "ShotKnowledge47",
+    "url": "https://www.reddit.com/r/PESU/comments/1m95yhl/placements_do_companies_only_expect_software/",
+    "permalink": "https://reddit.com/r/PESU/comments/1m95yhl/placements_do_companies_only_expect_software/",
+    "score": 34,
+    "upvote_ratio": 1,
+    "created_utc": 1753465807,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "n54l96z",
+      "body": "Some companies come for Data Analyst, Data Science roles as well but the majority of companies come for SDE or related roles. There are some companies that come for non-tech roles as well\n└── Should I believe that 1 in 10 companies come for data roles??\n    └── Tier 1 non sde roles are really few. U can check the sheet for the exact number"
+    },
+    {
+      "id": "n54m36t",
+      "body": "Most of them come for SDE or SDE intern , since your a fresher they dont expect much stuff specifically. Almost all of them expect DSA, dbms, cn and os. Some of them also have web dev requirements. \n\nThat doesn't mean companies dont come for data science roles. I believe meesho had come for 50+ LPA data scientist role. \nLook at JDs attached with the emails u receive.\nYou will get a good idea of what role the company is looking for.\n├── Can you give some idea of percentage like x% of company do visits for data science role and will they offer summer internship??\n└── Hey, had a doubt... for most of the SDE roles...in the coding round we need to know DSA, DBMS, OS, CN and in the interview they will question us on DSA and on the projects we have made on web dev or any other CS related project.. am i right?\n    └── Yrs"
+    },
+    {
+      "id": "n54ql4w",
+      "body": "You should read the FAQs, I answered this previously in an older comment. But to summarise - companies will hire under a generic SWE/SDE role and then assign teams based on fit later. Sometimes you get lucky if your profile shows an alignment with what they are looking for (condition to vacancies in hiring teams). But mostly, companies do \\*not\\* directly look for specialised roles because quite simply, they do not expect such specialisations. \n\nFor more details, look up my older comment.\n└── Thanks for the clarification!!"
+    },
+    {
+      "id": "n57iaj9",
+      "body": "Bro are you from rr or electronic city"
+    }
+  ]
+}

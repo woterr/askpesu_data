@@ -1,0 +1,39 @@
+{
+  "id": "155omjf",
+  "title": "What language do they teach in third sem??",
+  "content": "will they use C++ for DSA or C  ",
+  "metadata": {
+    "root_comment_id": "jsva26r",
+    "post_id": "155omjf",
+    "author": "AloneRice6234",
+    "url": "https://www.reddit.com/r/PESU/comments/155omjf/what_language_do_they_teach_in_third_sem/",
+    "permalink": "https://reddit.com/r/PESU/comments/155omjf/what_language_do_they_teach_in_third_sem/",
+    "score": 8,
+    "upvote_ratio": 1,
+    "created_utc": 1689947439,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "jsva26r",
+      "body": "C"
+    },
+    {
+      "id": "jsvb88p",
+      "body": "c"
+    },
+    {
+      "id": "jsvroew",
+      "body": "DSA - C"
+    },
+    {
+      "id": "jsw1ipt",
+      "body": "C is the language used but you should not worry about the language and focus on the algorithm, you can implement depth first search in python much more easily once you understand the concept, and that will save you time in technical rounds."
+    },
+    {
+      "id": "jsyo2mi",
+      "body": "C++"
+    }
+  ]
+}

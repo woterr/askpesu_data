@@ -1,0 +1,23 @@
+{
+  "id": "1eling8",
+  "title": "Icarus verilog",
+  "content": "I’m a 3rd sem student and i need to install verilog on my laptop….does it work on macOS ? …the teacher didnt give any instructions for mac …any idea how to download and run it? ",
+  "metadata": {
+    "root_comment_id": "lgrzglp",
+    "post_id": "1eling8",
+    "author": "Outrageous-Thought79",
+    "url": "https://www.reddit.com/r/PESU/comments/1eling8/icarus_verilog/",
+    "permalink": "https://reddit.com/r/PESU/comments/1eling8/icarus_verilog/",
+    "score": 4,
+    "upvote_ratio": 1,
+    "created_utc": 1722953080,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "lgrzglp",
+      "body": "https://ee.sonoma.edu/resources/computer-hardware-and-software/icarus-and-gtkwave-mac"
+    }
+  ]
+}

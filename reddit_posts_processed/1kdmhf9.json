@@ -1,0 +1,23 @@
+{
+  "id": "1kdmhf9",
+  "title": "Check this out!",
+  "content": "Hi all,\n\nJust wanted to share a small Chrome extension I put together called **Simple Tab Session Saver**. I built it mainly because I needed a better way to save all the tabs related to different classes without cluttering things up.\n\nHere's what it does:\n\n* **Save:** Select open tabs, give the group a name, and save it.\n* **Restore:** Opens all tabs from a saved session in a **new window**.\n* **Manage:** Preview tabs in a session, edit session names, search your saved list.\n* **Customize:** Choose light or dark mode.\n\nIt's nothing too fancy, just aims to be a helpful tool for staying organized with browser tabs. Figuring out how to build it was fun.\n\nYou can find it on the Chrome Web Store (it's free): [https://chromewebstore.google.com/detail/simple-tab-session-saver/fdffmopbfnipkbaiikphcnlmdgeodjpc?authuser=0&hl=en-GB](https://chromewebstore.google.com/detail/simple-tab-session-saver/fdffmopbfnipkbaiikphcnlmdgeodjpc?authuser=0&hl=en-GB)\n\nIf you end up trying it, I'd love to hear any feedback! Hope it might be helpful for some of you too. 🙂  \nCounting on reddit for some support :)",
+  "metadata": {
+    "root_comment_id": "mqdhq8p",
+    "post_id": "1kdmhf9",
+    "author": "WarningNo2793",
+    "url": "https://www.reddit.com/r/PESU/comments/1kdmhf9/check_this_out/",
+    "permalink": "https://reddit.com/r/PESU/comments/1kdmhf9/check_this_out/",
+    "score": 27,
+    "upvote_ratio": 0.9399999976158142,
+    "created_utc": 1746253885,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "mqdhq8p",
+      "body": "Quick question, how is this different from the grouping of tabs on Chrome? \n\nFrom a cursoary glance it seems to do the same - group tabs, save sessions, restore, etc.\n├── Think of native Chrome Tab Groups like organizing the documents currently spread out on your desk for immediate visual clarity. They're excellent for managing your active workspace within that window.\n\nThis extension operates a bit differently. It functions more like taking inventory of selected documents on your desk (saving their web addresses, or URLs), filing that list under a specific project name in your records (chrome.storage.sync), and clearing those physical papers away if you choose. Later, when you need to revisit that project, you can retrieve the list and instantly open fresh copies of each document (load the URLs into tabs) together on a completely separate, clean desk (a new browser window).\n\nSo, while both help with organization, this extension focuses on **persistently saving named sets of web addresses** for easy retrieval and context switching into new windows, rather than just visually grouping currently open tabs.\n└── You are right, they both function the same, the difference I wanted to create was a UI to handle the process of creation, handling and searching of those groups making it more intuitive and relatively easy :)\n    └── The motive behind this project was to try a few technologies out and get familiar with the process of hosting extensions, it is not very often that people look at these as possible projects.\n\nIdeating and working on something like an interactive platform, anyone if interested please reach out :)"
+    }
+  ]
+}

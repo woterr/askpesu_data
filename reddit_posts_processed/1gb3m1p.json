@@ -1,0 +1,27 @@
+{
+  "id": "1gb3m1p",
+  "title": "problem logging in website ",
+  "content": "i am not able to open the \npesu academy website through my mobile hotspot , other websites work as usual ,\n\nbut pesuacademy website will open with different wifi network , does anybody know what's the problem",
+  "metadata": {
+    "root_comment_id": "ltit2at",
+    "post_id": "1gb3m1p",
+    "author": "vinayr777",
+    "url": "https://www.reddit.com/r/PESU/comments/1gb3m1p/problem_logging_in_website/",
+    "permalink": "https://reddit.com/r/PESU/comments/1gb3m1p/problem_logging_in_website/",
+    "score": 4,
+    "upvote_ratio": 1,
+    "created_utc": 1729779242,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    {
+      "id": "ltit2at",
+      "body": "Try clearing your cache\n└── I tried,  i even reinstalled the browser\n    └── Hmm, your problem looks unique. Try asking in discord.\n        └── i dont have discord account"
+    },
+    {
+      "id": "ly4s87c",
+      "body": "Use mobile data and check. Sometimes there's a maintenance issue on the server...that you need to wait out."
+    }
+  ]
+}
