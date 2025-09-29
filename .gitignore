@@ -1,3 +1,4 @@
 r_pesu_comments.jsonl
 r_pesu_posts.jsonl
-data.zip
+*.zip
+/Embed
